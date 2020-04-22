@@ -1,0 +1,36 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "array",
+  "items": { "$ref": "#/definitions/book-entry" },
+  "definitions": {
+    "book-entry": {
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": "string",
+          "description": "An identifier for this entry. Can be anything and is not required."
+        },
+        "server": {
+          "type": "string",
+          "description": "The server from which to pull the collection.",
+          "pattern": "^((staging|qa|content\\d{2}|katalyst01|easyvm5)[.])?cnx[.]org$"
+        },
+        "collection_id": {
+          "type": "string",
+          "description": "The collection ID to pull from the server.",
+          "pattern": "^(col)\\d{5}$"
+        },
+        "version": {
+          "type": "string",
+          "description": "The version of the collection to pull",
+          "pattern": "^\\d+[.]\\d+([.]\\d+)?$"
+        },
+        "style": {
+          "type": "string",
+          "description": "Style to apply to the collection"
+        }
+      },
+      "required": ["server", "collection-id", "version", "style"]
+    }
+  }
+}

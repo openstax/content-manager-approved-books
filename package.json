@@ -1,0 +1,11 @@
+{
+  "name": "content-manager-approved-books",
+  "description": "Contains and helps manage static file of distribution approved books",
+  "scripts": {
+    "test": "ava -v --fail-fast --serial test.js"
+  },
+  "devDependencies": {
+    "ajv": "^6.12.2",
+    "ava": "^3.7.1"
+  }
+}

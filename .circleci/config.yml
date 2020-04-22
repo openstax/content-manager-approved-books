@@ -1,0 +1,19 @@
+version: 2.0
+jobs:
+  validate-books-list:
+    docker:
+      - image: circleci/node:12-buster
+
+    steps:
+      - checkout
+      - run:
+          name: Check list is valid
+          command: |
+            npm install
+            npm run test
+
+workflows:
+  version: 2.0
+  run-tests:
+    jobs:
+      - validate-books-list
