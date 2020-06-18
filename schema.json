@@ -30,7 +30,8 @@
           "description": "Style to apply to the collection"
         }
       },
-      "required": ["server", "collection-id", "version", "style"]
+      "required": ["server", "collection_id", "version", "style"],
+      "additionalProperties": false
     }
   }
 }
