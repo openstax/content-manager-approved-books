@@ -22,3 +22,13 @@ For safety reasons, this repository cannot be pushed to directly. To make change
 The following link should be used for access to the approved-books list JSON file:
 
 https://raw.githubusercontent.com/openstax/content-manager-approved-books/master/approved-books.json
+
+## Run Tests
+
+```console
+
+$ cd content-manager-approved-books
+$ npm install 
+$ npx ava test.js
+
+```

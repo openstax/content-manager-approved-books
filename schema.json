@@ -1,7 +1,9 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "type": "array",
-  "items": { "$ref": "#/definitions/book-entry" },
+  "items": {
+    "$ref": "#/definitions/book-entry"
+  },
   "definitions": {
     "book-entry": {
       "type": "object",
@@ -22,15 +24,25 @@
         },
         "version": {
           "type": "string",
-          "description": "The version of the collection to pull",
+          "description": "The version of the collection to pull.",
           "pattern": "^\\d+[.]\\d+([.]\\d+)?$"
         },
         "style": {
           "type": "string",
-          "description": "Style to apply to the collection"
+          "description": "Style to apply to the collection."
+        },
+        "uuid": {
+          "type": "string",
+          "description": "UUID to serve as another point fo reference.",
+          "format": "uuid"
         }
       },
-      "required": ["server", "collection_id", "version", "style"],
+      "required": [
+        "server",
+        "collection_id",
+        "version",
+        "style"
+      ],
       "additionalProperties": false
     }
   }
