@@ -1,353 +1,353 @@
 [
   {
     "collection_id": "col11762",
-    "version": "14.1",
+    "version": "1.14.1",
     "name": "sociology-2e",
-    "server": "qa.cnx.org",
+    "server": "cnx.org",
     "style": "sociology",
     "uuid": "02040312-72c8-441e-a685-20e9333f3e1d"
   },
   {
     "collection_id": "col11406",
-    "version": "20.15",
+    "version": "1.20.15",
     "name": "college-physics",
-    "server": "qa.cnx.org",
+    "server": "cnx.org",
     "style": "college-physics",
     "uuid": "031da8d3-b525-429c-80cf-6c8ed997733a"
   },
   {
     "collection_id": "col11758",
-    "version": "21.30",
+    "version": "1.21.30",
     "name": "algebra-trigonometry",
-    "server": "qa.cnx.org",
+    "server": "cnx.org",
     "style": "precalculus",
     "uuid": "13ac107a-f15f-49d2-97e8-60ab2e3b519c"
   },
   {
     "collection_id": "col11496",
-    "version": "17.8",
+    "version": "1.17.8",
     "name": "anatomy",
-    "server": "qa.cnx.org",
+    "server": "cnx.org",
     "style": "anatomy",
     "uuid": "14fb4ad7-39a1-4eee-ab6e-3ef2482e3e22"
   },
   {
     "collection_id": "col11965",
-    "version": "11.1",
+    "version": "1.11.1",
     "name": "calculus-vol2",
-    "server": "qa.cnx.org",
+    "server": "cnx.org",
     "style": "calculus",
     "uuid": "1d39a348-071f-4537-85b6-c98912458c3c"
   },
   {
     "collection_id": "col12190",
-    "version": "10.7",
+    "version": "1.10.7",
     "name": "macroecon-2e",
-    "server": "qa.cnx.org",
+    "server": "cnx.org",
     "style": "economics",
     "uuid": "27f59064-990e-48f1-b604-5188b9086c29"
   },
   {
     "collection_id": "col29124",
-    "version": "7.2",
+    "version": "1.7.2",
     "name": "organizational-behavior",
-    "server": "qa.cnx.org",
+    "server": "cnx.org",
     "style": "principles-management",
     "uuid": "2d941ab9-ac5b-4eb8-b21c-965d36a4f296"
   },
   {
     "collection_id": "col11992",
-    "version": "22.11",
+    "version": "1.22.11",
     "name": "astronomy",
-    "server": "qa.cnx.org",
+    "server": "cnx.org",
     "style": "astronomy",
     "uuid": "2e737be8-ea65-48c3-aa0a-9f35b4c6a966"
   },
   {
     "collection_id": "col11562",
-    "version": "24.1",
+    "version": "1.24.1",
     "name": "statistics",
-    "server": "qa.cnx.org",
+    "server": "cnx.org",
     "style": "statistics",
     "uuid": "30189442-6998-4686-ac05-ed152b91b9de"
   },
   {
     "collection_id": "col30309",
-    "version": "8.6",
+    "version": "1.8.6",
     "name": "hs-statistics",
-    "server": "qa.cnx.org",
+    "server": "cnx.org",
     "style": "statistics",
     "uuid": "394a1101-fd8f-4875-84fa-55f15b06ba66"
   },
   {
     "collection_id": "col30149",
-    "version": "6.5",
+    "version": "1.6.5",
     "name": "business-law",
-    "server": "qa.cnx.org",
+    "server": "cnx.org",
     "style": "business-ethics",
     "uuid": "464a3fba-68c1-426a-99f9-597e739dc911"
   },
   {
     "collection_id": "col25734",
-    "version": "9.3",
+    "version": "1.9.3",
     "name": "intro-business",
-    "server": "qa.cnx.org",
+    "server": "cnx.org",
     "style": "intro-business",
     "uuid": "4e09771f-a8aa-40ce-9063-aa58cc24e77f"
   },
   {
     "collection_id": "col12170",
-    "version": "13.5",
+    "version": "1.13.5",
     "name": "microecon-2e",
-    "server": "qa.cnx.org",
+    "server": "cnx.org",
     "style": "economics",
     "uuid": "5c09762c-b540-47d3-9541-dda1f44f16e5"
   },
   {
     "collection_id": "col23750",
-    "version": "9.2",
+    "version": "1.9.2",
     "name": "microeconap-2e",
-    "server": "qa.cnx.org",
+    "server": "cnx.org",
     "style": "economics",
     "uuid": "636cbfd9-4e37-4575-83ab-9dec9029ca4e"
   },
   {
     "collection_id": "col12078",
-    "version": "23.3",
+    "version": "1.23.3",
     "name": "apbiology",
-    "server": "qa.cnx.org",
+    "server": "cnx.org",
     "style": "ap-biology",
     "uuid": "6c322e32-9fb0-4c4d-a1d7-20c95c5c7af2"
   },
   {
     "collection_id": "col12074",
-    "version": "17.1",
+    "version": "1.17.1",
     "name": "u-physics-vol2",
-    "server": "qa.cnx.org",
+    "server": "cnx.org",
     "style": "u-physics",
     "uuid": "7a0f9770-1c44-4acd-9920-1cd9a99f2a1e"
   },
   {
     "collection_id": "col26069",
-    "version": "11.3",
+    "version": "1.11.3",
     "name": "chemistry-2e",
-    "server": "qa.cnx.org",
+    "server": "cnx.org",
     "style": "chemistry",
     "uuid": "7fccc9cf-9b71-44f6-800b-f9457fd64335"
   },
   {
     "collection_id": "col11964",
-    "version": "12.1",
+    "version": "1.12.1",
     "name": "calculus-vol1",
-    "server": "qa.cnx.org",
+    "server": "cnx.org",
     "style": "calculus",
     "uuid": "8b89d172-2927-466f-8661-01abc7ccdba4"
   },
   {
     "collection_id": "col11844",
-    "version": "29.3",
+    "version": "1.29.3",
     "name": "apphysics",
-    "server": "qa.cnx.org",
+    "server": "cnx.org",
     "style": "ap-physics",
     "uuid": "8d04a686-d5e8-4798-a27d-c608e4d0e187"
   },
   {
     "collection_id": "col24361",
-    "version": "16.27",
+    "version": "1.16.27",
     "name": "biology-2e",
-    "server": "qa.cnx.org",
+    "server": "cnx.org",
     "style": "biology",
     "uuid": "8d50a0af-948b-4204-a71d-4826cba765b8"
   },
   {
     "collection_id": "col23729",
-    "version": "9.1",
+    "version": "1.9.1",
     "name": "macroeconap-2e",
-    "server": "qa.cnx.org",
+    "server": "cnx.org",
     "style": "economics",
     "uuid": "9117cf8c-a8a3-4875-8361-9cb0f1fc9362"
   },
   {
     "collection_id": "col25722",
-    "version": "5.1",
+    "version": "1.5.1",
     "name": "business-ethics",
-    "server": "qa.cnx.org",
+    "server": "cnx.org",
     "style": "business-ethics",
     "uuid": "914ac66e-e1ec-486d-8a9c-97b0f7a99774"
   },
   {
     "collection_id": "col25479",
-    "version": "15.1",
+    "version": "1.15.1",
     "name": "accounting-vol-2",
-    "server": "qa.cnx.org",
+    "server": "cnx.org",
     "style": "accounting",
     "uuid": "920d1c8a-606c-4888-bfd4-d1ee27ce1795"
   },
   {
     "collection_id": "col25448",
-    "version": "5.2",
+    "version": "1.5.2",
     "name": "accounting-vol-1",
-    "server": "qa.cnx.org",
+    "server": "cnx.org",
     "style": "accounting",
     "uuid": "9ab4ba6d-1e48-486d-a2de-38ae1617ca84"
   },
   {
     "collection_id": "col11759",
-    "version": "19.32",
+    "version": "1.19.32",
     "name": "college-algebra",
-    "server": "qa.cnx.org",
+    "server": "cnx.org",
     "style": "precalculus",
     "uuid": "9b08c294-057f-4201-9f48-5d6ad992740d"
   },
   {
     "collection_id": "col26739",
-    "version": "6.1",
+    "version": "1.6.1",
     "name": "american-government-2e",
-    "server": "qa.cnx.org",
+    "server": "cnx.org",
     "style": "american-government",
     "uuid": "9d8df601-4f12-4ac1-8224-b450bf739e5f"
   },
   {
     "collection_id": "col11966",
-    "version": "11.1",
+    "version": "1.11.1",
     "name": "calculus-vol3",
-    "server": "qa.cnx.org",
+    "server": "cnx.org",
     "style": "calculus",
     "uuid": "a31cd793-2162-4e9e-acb5-6e6bbd76a5fa"
   },
   {
     "collection_id": "col11740",
-    "version": "10.2",
+    "version": "1.10.2",
     "name": "history",
-    "server": "qa.cnx.org",
+    "server": "cnx.org",
     "style": "history",
     "uuid": "a7ba2fb8-8925-4987-b182-5f4429d48daa"
   },
   {
     "collection_id": "col12067",
-    "version": "13.1",
+    "version": "1.13.1",
     "name": "u-physics-vol3",
-    "server": "qa.cnx.org",
+    "server": "cnx.org",
     "style": "u-physics",
     "uuid": "af275420-6050-4707-995c-57b9cc13c358"
   },
   {
     "collection_id": "col11487",
-    "version": "16.4",
+    "version": "1.16.4",
     "name": "concepts-biology",
-    "server": "qa.cnx.org",
+    "server": "cnx.org",
     "style": "biology",
     "uuid": "b3c1e1d2-839c-42b0-a314-e119a8aafbdd"
   },
   {
     "collection_id": "col11776",
-    "version": "36.3",
+    "version": "1.36.3",
     "name": "business-statistics",
-    "server": "qa.cnx.org",
+    "server": "cnx.org",
     "style": "statistics",
     "uuid": "b56bb9e9-5eb8-48ef-9939-88b1b12ce22f"
   },
   {
     "collection_id": "col12122",
-    "version": "8.7",
+    "version": "1.8.7",
     "name": "econ-2e",
-    "server": "qa.cnx.org",
+    "server": "cnx.org",
     "style": "economics",
     "uuid": "bc498e1f-efe9-43a0-8dea-d3569ad09a82"
   },
   {
     "collection_id": "col28330",
-    "version": "10.2",
+    "version": "1.10.2",
     "name": "principles-management",
-    "server": "qa.cnx.org",
+    "server": "cnx.org",
     "style": "principles-management",
     "uuid": "c3acb2ab-7d5c-45ad-b3cd-e59673fedd4e"
   },
   {
     "collection_id": "col29104",
-    "version": "10.6",
+    "version": "1.10.6",
     "name": "entrepreneurship",
-    "server": "qa.cnx.org",
+    "server": "cnx.org",
     "style": "entrepreneurship",
     "uuid": "d380510e-6145-4625-b19a-4fa68204b6b1"
   },
   {
     "collection_id": "col12031",
-    "version": "14.1",
+    "version": "1.14.1",
     "name": "u-physics-vol1",
-    "server": "qa.cnx.org",
+    "server": "cnx.org",
     "style": "u-physics",
     "uuid": "d50f6e32-0fda-46ef-a362-9bd36ca7c97d"
   },
   {
     "collection_id": "col26488",
-    "version": "9.6",
+    "version": "1.9.6",
     "name": "chemistry-atoms-first-2e",
-    "server": "qa.cnx.org",
+    "server": "cnx.org",
     "style": "chemistry",
     "uuid": "d9b85ee6-c57f-4861-8208-5ddf261e9c5f"
   },
   {
     "collection_id": "col12087",
-    "version": "8.6",
+    "version": "1.8.6",
     "name": "microbiology",
-    "server": "qa.cnx.org",
+    "server": "cnx.org",
     "style": "microbiology",
     "uuid": "e42bd376-624b-4c0f-972f-e0c57998e765"
   },
   {
     "collection_id": "col30939",
-    "version": "6.2",
+    "version": "1.6.2",
     "name": "prealgebra-2e",
-    "server": "qa.cnx.org",
+    "server": "cnx.org",
     "style": "dev-math",
     "uuid": "f0fa90be-fca8-43c9-9aad-715c0a2cee2b"
   },
   {
     "collection_id": "col11667",
-    "version": "13.30",
+    "version": "1.13.30",
     "name": "precalculus",
-    "server": "qa.cnx.org",
+    "server": "cnx.org",
     "style": "precalculus",
     "uuid": "fd53eae1-fa23-47c7-bb1b-972349835c3c"
   },
   {
     "collection_id": "col30990",
-    "version": "7.7",
+    "version": "1.7.7",
     "name": "college-success",
-    "server": "qa.cnx.org",
+    "server": "cnx.org",
     "style": "college-success",
     "uuid": "e8668a14-9a7d-4d74-b58c-3681f8351224"
   },
   {
     "collection_id": "col31234",
-    "version": "3.5",
+    "version": "1.3.5",
     "name": "intermediate-algebra-2e",
-    "server": "qa.cnx.org",
+    "server": "cnx.org",
     "style": "dev-math",
     "uuid": "4664c267-cd62-4a99-8b28-1cb9b3aee347"
   },
   {
     "collection_id": "col11629",
-    "version": "12.2",
+    "version": "1.12.2",
     "name": "psychology",
-    "server": "qa.cnx.org",
+    "server": "cnx.org",
     "style": "psychology",
     "uuid": "4abf04bf-93a0-45c3-9cbc-2cefd46e68cc"
   },
   {
     "collection_id": "col31502",
-    "version": "4.1",
+    "version": "1.4.1",
     "name": "psychology-2e",
-    "server": "qa.cnx.org",
+    "server": "cnx.org",
     "style": "psychology",
     "uuid": "06aba565-9432-40f6-97ee-b8a361f118a8"
   },
   {
     "collection_id": "col31130",
-    "version": "4.5",
+    "version": "1.4.5",
     "name": "elementary-algebra-2e",
-    "server": "qa.cnx.org",
+    "server": "cnx.org",
     "style": "dev-math",
     "uuid": "55931856-c627-418b-a56f-1dd0007683a8"
   }
