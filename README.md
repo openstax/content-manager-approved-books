@@ -51,6 +51,6 @@ Once the PR is merged and the changes have been accepted. This will trigger work
 
 $ cd content-manager-approved-books
 $ npm install 
-$ npx ava test.js
+$ npm test
 
 ```
