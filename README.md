@@ -1,4 +1,4 @@
-# [Content Manager Approved Books](./approved-books.json)
+[Content Manager Approved Books](./approved-books.json)
 
 The purpose of this repository is to store and help manage the list of OpenStax books approved for production/distribution use.
 The file [approved-books.json](./approved-books.json) is hand-editable and contains the said list of books according to the following pattern:
@@ -51,6 +51,6 @@ Once the PR is merged and the changes have been accepted. This will trigger work
 
 $ cd content-manager-approved-books
 $ npm install 
-$ npm test
+$ npm run test
 
 ```

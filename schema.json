@@ -33,7 +33,7 @@
         },
         "uuid": {
           "type": "string",
-          "description": "UUID to serve as another point fo reference.",
+          "description": "UUID of the collection to serve as another point of reference.",
           "format": "uuid"
         }
       },
@@ -41,7 +41,8 @@
         "server",
         "collection_id",
         "version",
-        "style"
+        "style",
+        "uuid"
       ],
       "additionalProperties": false
     }
