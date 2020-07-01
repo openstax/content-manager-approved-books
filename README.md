@@ -21,7 +21,7 @@ For safety reasons, this repository cannot be pushed to directly. To make change
 
 To access and make changes to the approved books list:
 
-Navigate to: [approved-books.json](https://raw.githubusercontent.com/openstax/content-manager-approved-books/master/approved-books.json)
+Navigate to: [approved-books.json](https://github.com/openstax/content-manager-approved-books/blob/master/approved-books.json)
 
 From here changes will be made via the GitHub user interface:
 
