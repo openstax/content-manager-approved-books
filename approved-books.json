@@ -351,4 +351,12 @@
     "server": "cnx.org",
     "uuid": "55931856-c627-418b-a56f-1dd0007683a8"
   }
+  {
+    "name": "fake book - testing",
+    "collection_id": "col1111",
+    "style": "fake book",
+    "version": "1",
+    "server": "qa.cnx.org",
+    "uuid": "55931856-c627-bbbb-aaaaa-1dd0007683aa"
+  }
 ]
