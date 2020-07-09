@@ -350,5 +350,13 @@
     "version": "1.4.5",
     "server": "cnx.org",
     "uuid": "55931856-c627-418b-a56f-1dd0007683a8"
+  },
+  {
+    "name": "Microbiology",
+    "collection_id": "col12087",
+    "style": "microbiology",
+    "version": "1.9.1",
+    "server": "cnx.org",
+    "uuid": "e42bd376-624b-4c0f-972f-e0c57998e765"
   }
 ]
