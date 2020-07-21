@@ -2,7 +2,7 @@
   {
     "name": "Introduction to Sociology 2e",
     "collection_id": "col11762",
-    "style": "sociology",
+    "style": "non-existant-style",
     "version": "1.14.1",
     "server": "cnx.org",
     "uuid": "02040312-72c8-441e-a685-20e9333f3e1d"
@@ -11,7 +11,7 @@
     "name": "College Physics",
     "collection_id": "col11406",
     "style": "college-physics",
-    "version": "1.20.15",
+    "version": "1.30.15",
     "server": "cnx.org",
     "uuid": "031da8d3-b525-429c-80cf-6c8ed997733a"
   },
