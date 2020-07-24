@@ -45,6 +45,8 @@ A PR will be created for the changes made,  assign a reviewer for your PR.
 
 Once the PR is merged and the changes have been accepted. This will trigger work to be done.
 
+Note: Every version of a book should have it's own entry.
+
 ## Run Tests
 
 ```console
