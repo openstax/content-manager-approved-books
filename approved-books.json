@@ -1,4 +1,12 @@
 [
+   {
+    "name": "U.S. History",
+    "collection_id": "col11740",
+    "style": "history",
+    "version": "1.10.7",
+    "server": "cnx.org",
+    "uuid": "a7ba2fb8-8925-4987-b182-5f4429d48daa"
+  },
   {
     "name": "Introduction to Sociology 2e",
     "collection_id": "col11762",
