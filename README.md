@@ -1,3 +1,10 @@
+### *** For user documentation please go [here](https://docs.google.com/document/d/1-chbEegeAZmk2bx9-UsYQ0_SQxp1v0rGFDdQC0Efgbs/edit#) ***
+
+
+
+
+
+
 [Content Manager Approved Books](./approved-books.json)
 
 The purpose of this repository is to store and help manage the list of OpenStax books approved for production/distribution use.
