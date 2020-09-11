@@ -710,5 +710,13 @@
     "version": "1.13.11",
     "server": "cnx.org",
     "uuid": "cce64fde-f448-43b8-ae88-27705cceb0da"
+  },
+  {
+    "name": "College Algebra with Corequisite Support",
+    "collection_id": "col32026",
+    "style": "precalculus-coreq",
+    "version": "1.9.1",
+    "server": "cnx.org",
+    "uuid": "507feb1e-cfff-4b54-bc07-d52636cecfe3"
   }
 ]
