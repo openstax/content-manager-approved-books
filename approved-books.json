@@ -711,6 +711,14 @@
     "server": "cnx.org",
     "uuid": "e42bd376-624b-4c0f-972f-e0c57998e765"
   },
+  {
+    "name": "Physics",
+    "collection_id": "col12081",
+    "style": "hs-physics",
+    "version": "1.13.13",
+    "server": "cnx.org",
+    "uuid": "cce64fde-f448-43b8-ae88-27705cceb0da"
+  },
      {
     "name": "Physics",
     "collection_id": "col12081",
