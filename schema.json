@@ -35,6 +35,11 @@
           "type": "string",
           "description": "UUID of the collection to serve as another point of reference.",
           "format": "uuid"
+        },
+        "msrv": {
+          "type": "string",
+          "description": "Minumum supported cnx-recipes version/tag",
+          "pattern": "^[v]?\\d+[.]\\d+([.]\\d+)?$"
         }
       },
       "required": [
