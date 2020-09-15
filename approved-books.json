@@ -43,6 +43,14 @@
     "name": "College Physics",
     "collection_id": "col11406",
     "style": "college-physics",
+    "version": "1.23.1",
+    "server": "cnx.org",
+    "uuid": "031da8d3-b525-429c-80cf-6c8ed997733a"
+  },
+     {
+    "name": "College Physics",
+    "collection_id": "col11406",
+    "style": "college-physics",
     "version": "1.21.3",
     "server": "cnx.org",
     "uuid": "031da8d3-b525-429c-80cf-6c8ed997733a"
