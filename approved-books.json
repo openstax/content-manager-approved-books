@@ -655,8 +655,16 @@
     "server": "cnx.org",
     "uuid": "4664c267-cd62-4a99-8b28-1cb9b3aee347"
   },
+  {
+    "name": "Psychology 1e",
+    "collection_id": "col11629",
+    "style": "psychology",
+    "version": "1.13.1",
+    "server": "cnx.org",
+    "uuid": "4abf04bf-93a0-45c3-9cbc-2cefd46e68cc"
+  },
      {
-    "name": "Psychology",
+    "name": "Psychology 1e",
     "collection_id": "col11629",
     "style": "psychology",
     "version": "1.12.3",
@@ -664,7 +672,7 @@
     "uuid": "4abf04bf-93a0-45c3-9cbc-2cefd46e68cc"
   },
   {
-    "name": "Psychology",
+    "name": "Psychology 1e",
     "collection_id": "col11629",
     "style": "psychology",
     "version": "1.12.2",
@@ -742,5 +750,109 @@
     "version": "1.9.1",
     "server": "cnx.org",
     "uuid": "507feb1e-cfff-4b54-bc07-d52636cecfe3"
+  },
+  {
+    "name": "Biology 1e",
+    "collection_id": "col11448",
+    "style": "biology",
+    "version": "1.14.1",
+    "server": "cnx.org",
+    "uuid": "185cbf87-c72e-48f5-b51e-f14f21b5eabd"
+  },
+  {
+    "name": "Introduction to Sociology 1e",
+    "collection_id": "col11407",
+    "style": "sociology",
+    "version": "1.18.1",
+    "server": "cnx.org",
+    "uuid": "afe4332a-c97f-4fc4-be27-4e4d384a32d8"
+  },
+  {
+    "name": "Principles of Economics 1e",
+    "collection_id": "col11613",
+    "style": "economics",
+    "version": "1.12.1",
+    "server": "cnx.org",
+    "uuid": "69619d2b-68f0-44b0-b074-a9b2bf90b2c6"
+  },
+  {
+    "name": "Principles of Macroeconomics 1e",
+    "collection_id": "col11626",
+    "style": "economics",
+    "version": "1.12.1",
+    "server": "cnx.org",
+    "uuid": "4061c832-098e-4b3c-a1d9-7eb593a2cb31"
+  },
+  {
+    "name": "Principles of Microeconomics 1e",
+    "collection_id": "col11627",
+    "style": "economics",
+    "version": "1.12.1",
+    "server": "cnx.org",
+    "uuid": "ea2f225e-6063-41ca-bcd8-36482e15ef65"
+  },
+  {
+    "name": "Principles of Microeconomics for AP Courses 1e",
+    "collection_id": "col11858",
+    "style": "economics",
+    "version": "1.6.1",
+    "server": "cnx.org",
+    "uuid": "ca344e2d-6731-43cd-b851-a7b3aa0b37aa"
+  },
+  {
+    "name": "Principles of Macroeconomics for AP Courses 1e",
+    "collection_id": "col11864",
+    "style": "economics",
+    "version": "1.3.1",
+    "server": "cnx.org",
+    "uuid": "33076054-ec1d-4417-8824-ce354efe42d0"
+  },
+  {
+    "name": "Chemistry 1e",
+    "collection_id": "col11760",
+    "style": "chemistry",
+    "version": "1.13.1",
+    "server": "cnx.org",
+    "uuid": "85abf193-2bd2-4908-8563-90b8a7ac8df6"
+  },
+  {
+    "name": "Chemistry: Atoms First 1e",
+    "collection_id": "col12012",
+    "style": "chemistry",
+    "version": "1.10.1",
+    "server": "cnx.org",
+    "uuid": "4539ae23-1ccc-421e-9b25-843acbb6c4b0"
+  },
+  {
+    "name": "American Government 1e",
+    "collection_id": "col11995",
+    "style": "american-government",
+    "version": "1.19.1",
+    "server": "cnx.org",
+    "uuid": "5bcc0e59-7345-421d-8507-a1e4608685e8"
+  },
+  {
+    "name": "Prealgebra 1e",
+    "collection_id": "col11756",
+    "style": "dev-math",
+    "version": "1.21.1",
+    "server": "cnx.org",
+    "uuid": "caa57dab-41c7-455e-bd6f-f443cda5519c"
+  },
+  {
+    "name": "Elementary Algebra 1e",
+    "collection_id": "col12116",
+    "style": "dev-math",
+    "version": "1.9.1",
+    "server": "cnx.org",
+    "uuid": "0889907c-f0ef-496a-bcb8-2a5bb121717f"
+  },
+  {
+    "name": "Intermediate Algebra 1e",
+    "collection_id": "col12119",
+    "style": "dev-math",
+    "version": "1.14.1",
+    "server": "cnx.org",
+    "uuid": "02776133-d49d-49cb-bfaa-67c7f61b25a1"
   }
 ]
