@@ -853,6 +853,7 @@
     "style": "dev-math",
     "version": "1.14.1",
     "server": "cnx.org",
-    "uuid": "02776133-d49d-49cb-bfaa-67c7f61b25a1"
+    "uuid": "02776133-d49d-49cb-bfaa-67c7f61b25a1",
+    "msrv": "GGGaaaaa33333s"
   }
 ]
