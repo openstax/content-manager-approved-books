@@ -63,6 +63,14 @@
     "server": "cnx.org",
     "uuid": "031da8d3-b525-429c-80cf-6c8ed997733a"
   },
+        {
+    "name": "Algebra and Trigonometry",
+    "collection_id": "col11758",
+    "style": "precalculus",
+    "version": "1.27.1",
+    "server": "cnx.org",
+    "uuid": "13ac107a-f15f-49d2-97e8-60ab2e3b519c"
+  },
   {
     "name": "Algebra and Trigonometry",
     "collection_id": "col11758",
@@ -407,6 +415,14 @@
     "server": "cnx.org",
     "uuid": "9ab4ba6d-1e48-486d-a2de-38ae1617ca84"
   },
+        {
+    "name": "College Algebra",
+    "collection_id": "col11759",
+    "style": "precalculus",
+    "version": "1.28.1",
+    "server": "cnx.org",
+    "uuid": "9b08c294-057f-4201-9f48-5d6ad992740d"
+  },
   {
     "name": "College Algebra",
     "collection_id": "col11759",
@@ -615,6 +631,14 @@
     "server": "cnx.org",
     "uuid": "f0fa90be-fca8-43c9-9aad-715c0a2cee2b"
   },
+        {
+    "name": "Precalculus",
+    "collection_id": "col11667",
+    "style": "precalculus",
+    "version": "1.19.1",
+    "server": "cnx.org",
+    "uuid": "fd53eae1-fa23-47c7-bb1b-972349835c3c"
+  },
   {
     "name": "Precalculus",
     "collection_id": "col11667",
@@ -718,6 +742,14 @@
     "version": "1.9.1",
     "server": "cnx.org",
     "uuid": "e42bd376-624b-4c0f-972f-e0c57998e765"
+  },
+        {
+    "name": "Physics",
+    "collection_id": "col12081",
+    "style": "hs-physics",
+    "version": "1.14.1",
+    "server": "cnx.org",
+    "uuid": "cce64fde-f448-43b8-ae88-27705cceb0da"
   },
   {
     "name": "Physics",
