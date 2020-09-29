@@ -79,6 +79,14 @@
     "server": "cnx.org",
     "uuid": "13ac107a-f15f-49d2-97e8-60ab2e3b519c"
   },
+    {
+    "name": "Anatomy and Physiology",
+    "collection_id": "col11496",
+    "style": "anatomy",
+    "version": "1.22.2",
+    "server": "cnx.org",
+    "uuid": "14fb4ad7-39a1-4eee-ab6e-3ef2482e3e22"
+  },
      {
     "name": "Anatomy and Physiology",
     "collection_id": "col11496",
@@ -486,6 +494,14 @@
     "version": "1.13.1",
     "server": "cnx.org",
     "uuid": "af275420-6050-4707-995c-57b9cc13c358"
+  },
+  {
+    "name": "Concepts of Biology",
+    "collection_id": "col11487",
+    "style": "biology",
+    "version": "1.17.6",
+    "server": "cnx.org",
+    "uuid": "b3c1e1d2-839c-42b0-a314-e119a8aafbdd"
   },
      {
     "name": "Concepts of Biology",
