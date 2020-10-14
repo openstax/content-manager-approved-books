@@ -823,6 +823,14 @@
     "server": "cnx.org",
     "uuid": "afe4332a-c97f-4fc4-be27-4e4d384a32d8"
   },
+        {
+    "name": "Principles of Economics 1e",
+    "collection_id": "col11613",
+    "style": "economics",
+    "version": "1.12.2",
+    "server": "cnx.org",
+    "uuid": "69619d2b-68f0-44b0-b074-a9b2bf90b2c6"
+  },
   {
     "name": "Principles of Economics 1e",
     "collection_id": "col11613",
@@ -830,6 +838,14 @@
     "version": "1.12.1",
     "server": "cnx.org",
     "uuid": "69619d2b-68f0-44b0-b074-a9b2bf90b2c6"
+  },
+        {
+    "name": "Principles of Macroeconomics 1e",
+    "collection_id": "col11626",
+    "style": "economics",
+    "version": "1.13.1",
+    "server": "cnx.org",
+    "uuid": "4061c832-098e-4b3c-a1d9-7eb593a2cb31"
   },
   {
     "name": "Principles of Macroeconomics 1e",
@@ -839,6 +855,14 @@
     "server": "cnx.org",
     "uuid": "4061c832-098e-4b3c-a1d9-7eb593a2cb31"
   },
+        {
+    "name": "Principles of Microeconomics 1e",
+    "collection_id": "col11627",
+    "style": "economics",
+    "version": "1.13.1",
+    "server": "cnx.org",
+    "uuid": "ea2f225e-6063-41ca-bcd8-36482e15ef65"
+  },
   {
     "name": "Principles of Microeconomics 1e",
     "collection_id": "col11627",
@@ -847,6 +871,14 @@
     "server": "cnx.org",
     "uuid": "ea2f225e-6063-41ca-bcd8-36482e15ef65"
   },
+        {
+    "name": "Principles of Microeconomics for AP Courses 1e",
+    "collection_id": "col11858",
+    "style": "economics",
+    "version": "1.7.1",
+    "server": "cnx.org",
+    "uuid": "ca344e2d-6731-43cd-b851-a7b3aa0b37aa"
+  },
   {
     "name": "Principles of Microeconomics for AP Courses 1e",
     "collection_id": "col11858",
@@ -854,6 +886,14 @@
     "version": "1.6.1",
     "server": "cnx.org",
     "uuid": "ca344e2d-6731-43cd-b851-a7b3aa0b37aa"
+  },
+        {
+    "name": "Principles of Macroeconomics for AP Courses 1e",
+    "collection_id": "col11864",
+    "style": "economics",
+    "version": "1.4.1",
+    "server": "cnx.org",
+    "uuid": "33076054-ec1d-4417-8824-ce354efe42d0"
   },
   {
     "name": "Principles of Macroeconomics for AP Courses 1e",
