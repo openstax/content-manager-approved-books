@@ -1032,6 +1032,14 @@
     "server": "cnx.org",
     "uuid": "0889907c-f0ef-496a-bcb8-2a5bb121717f"
   },
+        {
+    "name": "Elementary Algebra 1e",
+    "collection_id": "col12116",
+    "style": "dev-math",
+    "version": "1.9.3",
+    "server": "cnx.org",
+    "uuid": "0889907c-f0ef-496a-bcb8-2a5bb121717f"
+  },
   {
     "name": "Intermediate Algebra 1e",
     "collection_id": "col12119",
