@@ -1,5 +1,13 @@
 [
       {
+    "name": "College Algebra with Corequisite Support",
+    "collection_id": "col32026",
+    "style": "precalculus-coreq",
+    "version": "1.9.12",
+    "server": "cnx.org",
+    "uuid": "507feb1e-cfff-4b54-bc07-d52636cecfe"
+  },
+      {
     "name": "U.S. History",
     "collection_id": "col11740",
     "style": "history",
