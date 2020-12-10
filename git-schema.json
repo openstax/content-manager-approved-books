@@ -1,0 +1,47 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "array",
+    "items": {
+        "$ref": "#/definitions/book-entry"
+    },
+    "definitions": {
+        "book-entry": {
+            "type": "object",
+            "properties": {
+                "name": {
+                    "type": "string",
+                    "description": "An identifier for this entry. Can be anything and is not required."
+                },
+                "slug": {
+                    "type": "string",
+                    "description": "The slug of the collection"
+                },
+                "repo": {
+                    "type": "string",
+                    "description": "The slug of the collection"
+                },
+                "version": {
+                    "type": "string",
+                    "description": "The version of the collection to pull."
+                },
+                "style": {
+                    "type": "string",
+                    "description": "Style to apply to the collection."
+                },
+                "uuid": {
+                    "type": "string",
+                    "description": "UUID of the collection to serve as another point of reference.",
+                    "format": "uuid"
+                }
+            },
+            "required": [
+                "slug",
+                "repo",
+                "version",
+                "style",
+                "uuid"
+            ],
+            "additionalProperties": false
+        }
+    }
+}
