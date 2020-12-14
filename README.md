@@ -8,7 +8,25 @@
 [Content Manager Approved Books](./approved-books.json)
 
 The purpose of this repository is to store and help manage the list of OpenStax books approved for production/distribution use.
-The file [approved-books.json](./approved-books.json) is hand-editable and contains the said list of books according to the following pattern:
+The file [approved-books.json](./approved-books.json) and [approved-git-books.json](./approved-git-books.json) are hand-editable and contain the said list of books according to the following pattern:
+
+Git Books:
+```text
+[
+  {
+    "name": anything you want e.g. example-book,
+    "collection_id": e.g. col12345,
+    "server": null,
+    "style": string corresponding to a style name,
+    "version": Tag of the repo,
+    "uuid": "fd53eae1-fa23-47c7-bb1b-972349835c3c",
+    "repo": "repo-for-book-name"
+  },
+  { ... more books}
+]
+```
+
+Archive Books:
 ```text
 [
   {
@@ -16,7 +34,9 @@ The file [approved-books.json](./approved-books.json) is hand-editable and conta
     "collection_id": e.g. col12345,
     "server": e.g. staging.cnx.org,
     "style": string corresponding to a style name,
-    "version": version string e.g. 1.7
+    "version": version string e.g. 1.7,
+    "uuid": "fd53eae1-fa23-47c7-bb1b-972349835c3c",
+    "repo": null
   },
   { ... more books}
 ]
@@ -28,7 +48,7 @@ For safety reasons, this repository cannot be pushed to directly. To make change
 
 To access and make changes to the approved books list:
 
-Navigate to: [approved-books.json](https://github.com/openstax/content-manager-approved-books/blob/master/approved-books.json)
+Navigate to the list you want - [approved-books.json](https://github.com/openstax/content-manager-approved-books/blob/master/approved-books.json) or [approved-git-books.json](https://github.com/openstax/content-manager-approved-books/blob/master/approved-git-books.json) 
 
 From here changes will be made via the GitHub user interface:
 
