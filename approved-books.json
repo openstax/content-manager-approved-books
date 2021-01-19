@@ -1,5 +1,13 @@
 [
         {
+    "name": "Intellectual Property",
+    "collection_id": "col10001",
+    "style": "business-ethics",
+    "version": "1.11.65",
+    "server": "content02.cnx.org",
+    "uuid": "3e49fb1f-aec7-4181-a479-036874e10240"
+  },
+        {
     "name": "Introduction to Sociology 2e",
     "collection_id": "col11762",
     "style": "sociology",
