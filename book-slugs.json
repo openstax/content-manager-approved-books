@@ -258,5 +258,9 @@
     {
         "uuid": "3e49fb1f-aec7-4181-a479-036874e10240",
         "slug": "intellectual-property"
-    }
+    },
+  {
+        "uuid": "7de3b673-0d9f-42da-9431-a401ea698895",
+        "slug": "physics-test-TM"
+    } 
 ]
