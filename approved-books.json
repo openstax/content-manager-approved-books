@@ -5,7 +5,8 @@
     "style": "precalculus",
     "version": "1.31.2",
     "server": "cnx.org",
-    "uuid": "13ac107a-f15f-49d2-97e8-60ab2e3b519c"
+    "uuid": "13ac107a-f15f-49d2-97e8-60ab2e3b519c",
+    "tutor_only": false
   },
   {
     "name": "Algebra and Trigonometry",
@@ -13,7 +14,8 @@
     "style": "precalculus",
     "version": "1.29.7",
     "server": "cnx.org",
-    "uuid": "13ac107a-f15f-49d2-97e8-60ab2e3b519c"
+    "uuid": "13ac107a-f15f-49d2-97e8-60ab2e3b519c",
+    "tutor_only": false
   },
   {
     "name": "Algebra and Trigonometry",
@@ -21,7 +23,8 @@
     "style": "precalculus",
     "version": "1.29.2",
     "server": "cnx.org",
-    "uuid": "13ac107a-f15f-49d2-97e8-60ab2e3b519c"
+    "uuid": "13ac107a-f15f-49d2-97e8-60ab2e3b519c",
+    "tutor_only": false
   },
   {
     "name": "Algebra and Trigonometry",
@@ -29,7 +32,8 @@
     "style": "precalculus",
     "version": "1.27.1",
     "server": "cnx.org",
-    "uuid": "13ac107a-f15f-49d2-97e8-60ab2e3b519c"
+    "uuid": "13ac107a-f15f-49d2-97e8-60ab2e3b519c",
+    "tutor_only": false
   },
   {
     "name": "Algebra and Trigonometry",
@@ -37,7 +41,8 @@
     "style": "precalculus",
     "version": "1.21.30",
     "server": "cnx.org",
-    "uuid": "13ac107a-f15f-49d2-97e8-60ab2e3b519c"
+    "uuid": "13ac107a-f15f-49d2-97e8-60ab2e3b519c",
+    "tutor_only": false
   },
   {
     "name": "American Government 1e",
@@ -45,7 +50,8 @@
     "style": "american-government",
     "version": "1.19.1",
     "server": "cnx.org",
-    "uuid": "5bcc0e59-7345-421d-8507-a1e4608685e8"
+    "uuid": "5bcc0e59-7345-421d-8507-a1e4608685e8",
+    "tutor_only": false
   },
   {
     "name": "American Government 2e",
@@ -53,7 +59,8 @@
     "style": "american-government",
     "version": "1.6.7",
     "server": "cnx.org",
-    "uuid": "9d8df601-4f12-4ac1-8224-b450bf739e5f"
+    "uuid": "9d8df601-4f12-4ac1-8224-b450bf739e5f",
+    "tutor_only": false
   },
   {
     "name": "American Government 2e",
@@ -61,7 +68,8 @@
     "style": "american-government",
     "version": "1.6.5",
     "server": "cnx.org",
-    "uuid": "9d8df601-4f12-4ac1-8224-b450bf739e5f"
+    "uuid": "9d8df601-4f12-4ac1-8224-b450bf739e5f",
+    "tutor_only": false
   },
   {
     "name": "American Government 2e",
@@ -69,7 +77,8 @@
     "style": "american-government",
     "version": "1.6.1",
     "server": "cnx.org",
-    "uuid": "9d8df601-4f12-4ac1-8224-b450bf739e5f"
+    "uuid": "9d8df601-4f12-4ac1-8224-b450bf739e5f",
+    "tutor_only": false
   },
   {
     "name": "Anatomy and Physiology",
@@ -77,7 +86,8 @@
     "style": "anatomy",
     "version": "1.22.7",
     "server": "cnx.org",
-    "uuid": "14fb4ad7-39a1-4eee-ab6e-3ef2482e3e22"
+    "uuid": "14fb4ad7-39a1-4eee-ab6e-3ef2482e3e22",
+    "tutor_only": false
   },
   {
     "name": "Anatomy and Physiology",
@@ -85,7 +95,8 @@
     "style": "anatomy",
     "version": "1.22.2",
     "server": "cnx.org",
-    "uuid": "14fb4ad7-39a1-4eee-ab6e-3ef2482e3e22"
+    "uuid": "14fb4ad7-39a1-4eee-ab6e-3ef2482e3e22",
+    "tutor_only": false
   },
   {
     "name": "Anatomy and Physiology",
@@ -93,7 +104,8 @@
     "style": "anatomy",
     "version": "1.17.21",
     "server": "cnx.org",
-    "uuid": "14fb4ad7-39a1-4eee-ab6e-3ef2482e3e22"
+    "uuid": "14fb4ad7-39a1-4eee-ab6e-3ef2482e3e22",
+    "tutor_only": false
   },
   {
     "name": "Anatomy and Physiology",
@@ -101,7 +113,8 @@
     "style": "anatomy",
     "version": "1.17.8",
     "server": "cnx.org",
-    "uuid": "14fb4ad7-39a1-4eee-ab6e-3ef2482e3e22"
+    "uuid": "14fb4ad7-39a1-4eee-ab6e-3ef2482e3e22",
+    "tutor_only": false
   },
   {
     "name": "Astronomy",
@@ -109,7 +122,8 @@
     "style": "astronomy",
     "version": "1.22.20",
     "server": "cnx.org",
-    "uuid": "2e737be8-ea65-48c3-aa0a-9f35b4c6a966"
+    "uuid": "2e737be8-ea65-48c3-aa0a-9f35b4c6a966",
+    "tutor_only": false
   },
   {
     "name": "Astronomy",
@@ -117,7 +131,8 @@
     "style": "astronomy",
     "version": "1.22.19",
     "server": "cnx.org",
-    "uuid": "2e737be8-ea65-48c3-aa0a-9f35b4c6a966"
+    "uuid": "2e737be8-ea65-48c3-aa0a-9f35b4c6a966",
+    "tutor_only": false
   },
   {
     "name": "Astronomy",
@@ -125,7 +140,8 @@
     "style": "astronomy",
     "version": "1.22.16",
     "server": "cnx.org",
-    "uuid": "2e737be8-ea65-48c3-aa0a-9f35b4c6a966"
+    "uuid": "2e737be8-ea65-48c3-aa0a-9f35b4c6a966",
+    "tutor_only": false
   },
   {
     "name": "Astronomy",
@@ -133,7 +149,8 @@
     "style": "astronomy",
     "version": "1.22.11",
     "server": "cnx.org",
-    "uuid": "2e737be8-ea65-48c3-aa0a-9f35b4c6a966"
+    "uuid": "2e737be8-ea65-48c3-aa0a-9f35b4c6a966",
+    "tutor_only": false
   },
   {
     "name": "Biology 1e",
@@ -141,7 +158,8 @@
     "style": "biology",
     "version": "1.14.1",
     "server": "cnx.org",
-    "uuid": "185cbf87-c72e-48f5-b51e-f14f21b5eabd"
+    "uuid": "185cbf87-c72e-48f5-b51e-f14f21b5eabd",
+    "tutor_only": false
   },
   {
     "name": "Biology 2e",
@@ -149,7 +167,8 @@
     "style": "biology",
     "version": "1.16.174",
     "server": "cnx.org",
-    "uuid": "8d50a0af-948b-4204-a71d-4826cba765b8"
+    "uuid": "8d50a0af-948b-4204-a71d-4826cba765b8",
+    "tutor_only": false
   },
   {
     "name": "Biology 2e",
@@ -157,7 +176,8 @@
     "style": "biology",
     "version": "1.16.144",
     "server": "cnx.org",
-    "uuid": "8d50a0af-948b-4204-a71d-4826cba765b8"
+    "uuid": "8d50a0af-948b-4204-a71d-4826cba765b8",
+    "tutor_only": false
   },
   {
     "name": "Biology 2e",
@@ -165,7 +185,8 @@
     "style": "biology",
     "version": "1.16.27",
     "server": "cnx.org",
-    "uuid": "8d50a0af-948b-4204-a71d-4826cba765b8"
+    "uuid": "8d50a0af-948b-4204-a71d-4826cba765b8",
+    "tutor_only": false
   },
   {
     "name": "Biology for AP® Courses",
@@ -173,7 +194,8 @@
     "style": "ap-biology",
     "version": "1.26.6",
     "server": "cnx.org",
-    "uuid": "6c322e32-9fb0-4c4d-a1d7-20c95c5c7af2"
+    "uuid": "6c322e32-9fb0-4c4d-a1d7-20c95c5c7af2",
+    "tutor_only": false
   },
   {
     "name": "Biology for AP® Courses",
@@ -181,7 +203,8 @@
     "style": "ap-biology",
     "version": "1.25.2",
     "server": "cnx.org",
-    "uuid": "6c322e32-9fb0-4c4d-a1d7-20c95c5c7af2"
+    "uuid": "6c322e32-9fb0-4c4d-a1d7-20c95c5c7af2",
+    "tutor_only": false
   },
   {
     "name": "Biology for AP® Courses",
@@ -189,7 +212,8 @@
     "style": "ap-biology",
     "version": "1.23.3",
     "server": "cnx.org",
-    "uuid": "6c322e32-9fb0-4c4d-a1d7-20c95c5c7af2"
+    "uuid": "6c322e32-9fb0-4c4d-a1d7-20c95c5c7af2",
+    "tutor_only": false
   },
   {
     "name": "Business Ethics",
@@ -197,7 +221,8 @@
     "style": "business-ethics",
     "version": "1.5.11",
     "server": "cnx.org",
-    "uuid": "914ac66e-e1ec-486d-8a9c-97b0f7a99774"
+    "uuid": "914ac66e-e1ec-486d-8a9c-97b0f7a99774",
+    "tutor_only": false
   },
   {
     "name": "Business Ethics",
@@ -205,7 +230,8 @@
     "style": "business-ethics",
     "version": "1.5.4",
     "server": "cnx.org",
-    "uuid": "914ac66e-e1ec-486d-8a9c-97b0f7a99774"
+    "uuid": "914ac66e-e1ec-486d-8a9c-97b0f7a99774",
+    "tutor_only": false
   },
   {
     "name": "Business Ethics",
@@ -213,7 +239,8 @@
     "style": "business-ethics",
     "version": "1.5.1",
     "server": "cnx.org",
-    "uuid": "914ac66e-e1ec-486d-8a9c-97b0f7a99774"
+    "uuid": "914ac66e-e1ec-486d-8a9c-97b0f7a99774",
+    "tutor_only": false
   },
   {
     "name": "Business Law I Essentials",
@@ -221,7 +248,8 @@
     "style": "business-ethics",
     "version": "1.8.8",
     "server": "cnx.org",
-    "uuid": "464a3fba-68c1-426a-99f9-597e739dc911"
+    "uuid": "464a3fba-68c1-426a-99f9-597e739dc911",
+    "tutor_only": false
   },
   {
     "name": "Business Law I Essentials",
@@ -229,7 +257,8 @@
     "style": "business-ethics",
     "version": "1.8.2",
     "server": "cnx.org",
-    "uuid": "464a3fba-68c1-426a-99f9-597e739dc911"
+    "uuid": "464a3fba-68c1-426a-99f9-597e739dc911",
+    "tutor_only": false
   },
   {
     "name": "Business Law I Essentials",
@@ -237,7 +266,8 @@
     "style": "business-ethics",
     "version": "1.6.5",
     "server": "cnx.org",
-    "uuid": "464a3fba-68c1-426a-99f9-597e739dc911"
+    "uuid": "464a3fba-68c1-426a-99f9-597e739dc911",
+    "tutor_only": false
   },
   {
     "name": "Calculus Volume 1",
@@ -245,7 +275,8 @@
     "style": "calculus",
     "version": "1.22.1",
     "server": "cnx.org",
-    "uuid": "8b89d172-2927-466f-8661-01abc7ccdba4"
+    "uuid": "8b89d172-2927-466f-8661-01abc7ccdba4",
+    "tutor_only": false
   },
   {
     "name": "Calculus Volume 1",
@@ -253,7 +284,8 @@
     "style": "calculus",
     "version": "1.14.1",
     "server": "cnx.org",
-    "uuid": "8b89d172-2927-466f-8661-01abc7ccdba4"
+    "uuid": "8b89d172-2927-466f-8661-01abc7ccdba4",
+    "tutor_only": false
   },
   {
     "name": "Calculus Volume 1",
@@ -261,7 +293,8 @@
     "style": "calculus",
     "version": "1.12.1",
     "server": "cnx.org",
-    "uuid": "8b89d172-2927-466f-8661-01abc7ccdba4"
+    "uuid": "8b89d172-2927-466f-8661-01abc7ccdba4",
+    "tutor_only": false
   },
   {
     "name": "Calculus Volume 2",
@@ -269,7 +302,8 @@
     "style": "calculus",
     "version": "1.22.1",
     "server": "cnx.org",
-    "uuid": "1d39a348-071f-4537-85b6-c98912458c3c"
+    "uuid": "1d39a348-071f-4537-85b6-c98912458c3c",
+    "tutor_only": false
   },
   {
     "name": "Calculus Volume 2",
@@ -277,7 +311,8 @@
     "style": "calculus",
     "version": "1.15.1",
     "server": "cnx.org",
-    "uuid": "1d39a348-071f-4537-85b6-c98912458c3c"
+    "uuid": "1d39a348-071f-4537-85b6-c98912458c3c",
+    "tutor_only": false
   },
   {
     "name": "Calculus Volume 2",
@@ -285,7 +320,8 @@
     "style": "calculus",
     "version": "1.11.1",
     "server": "cnx.org",
-    "uuid": "1d39a348-071f-4537-85b6-c98912458c3c"
+    "uuid": "1d39a348-071f-4537-85b6-c98912458c3c",
+    "tutor_only": false
   },
   {
     "name": "Calculus Volume 3",
@@ -293,7 +329,8 @@
     "style": "calculus",
     "version": "1.22.1",
     "server": "cnx.org",
-    "uuid": "a31cd793-2162-4e9e-acb5-6e6bbd76a5fa"
+    "uuid": "a31cd793-2162-4e9e-acb5-6e6bbd76a5fa",
+    "tutor_only": false
   },
   {
     "name": "Calculus Volume 3",
@@ -301,7 +338,8 @@
     "style": "calculus",
     "version": "1.15.1",
     "server": "cnx.org",
-    "uuid": "a31cd793-2162-4e9e-acb5-6e6bbd76a5fa"
+    "uuid": "a31cd793-2162-4e9e-acb5-6e6bbd76a5fa",
+    "tutor_only": false
   },
   {
     "name": "Calculus Volume 3",
@@ -309,7 +347,8 @@
     "style": "calculus",
     "version": "1.11.1",
     "server": "cnx.org",
-    "uuid": "a31cd793-2162-4e9e-acb5-6e6bbd76a5fa"
+    "uuid": "a31cd793-2162-4e9e-acb5-6e6bbd76a5fa",
+    "tutor_only": false
   },
   {
     "name": "Chemistry 1e",
@@ -317,7 +356,8 @@
     "style": "chemistry",
     "version": "1.13.1",
     "server": "cnx.org",
-    "uuid": "85abf193-2bd2-4908-8563-90b8a7ac8df6"
+    "uuid": "85abf193-2bd2-4908-8563-90b8a7ac8df6",
+    "tutor_only": false
   },
   {
     "name": "Chemistry 2e",
@@ -325,7 +365,8 @@
     "style": "chemistry",
     "version": "1.18.26",
     "server": "cnx.org",
-    "uuid": "7fccc9cf-9b71-44f6-800b-f9457fd64335"
+    "uuid": "7fccc9cf-9b71-44f6-800b-f9457fd64335",
+    "tutor_only": false
   },
   {
     "name": "Chemistry 2e",
@@ -333,7 +374,8 @@
     "style": "chemistry",
     "version": "1.16.1",
     "server": "cnx.org",
-    "uuid": "7fccc9cf-9b71-44f6-800b-f9457fd64335"
+    "uuid": "7fccc9cf-9b71-44f6-800b-f9457fd64335",
+    "tutor_only": false
   },
   {
     "name": "Chemistry 2e",
@@ -341,7 +383,8 @@
     "style": "chemistry",
     "version": "1.11.3",
     "server": "cnx.org",
-    "uuid": "7fccc9cf-9b71-44f6-800b-f9457fd64335"
+    "uuid": "7fccc9cf-9b71-44f6-800b-f9457fd64335",
+    "tutor_only": false
   },
   {
     "name": "Chemistry Atoms First 2e",
@@ -349,7 +392,8 @@
     "style": "chemistry",
     "version": "1.14.26",
     "server": "cnx.org",
-    "uuid": "d9b85ee6-c57f-4861-8208-5ddf261e9c5f"
+    "uuid": "d9b85ee6-c57f-4861-8208-5ddf261e9c5f",
+    "tutor_only": false
   },
   {
     "name": "Chemistry Atoms First 2e",
@@ -357,7 +401,8 @@
     "style": "chemistry",
     "version": "1.13.1",
     "server": "cnx.org",
-    "uuid": "d9b85ee6-c57f-4861-8208-5ddf261e9c5f"
+    "uuid": "d9b85ee6-c57f-4861-8208-5ddf261e9c5f",
+    "tutor_only": false
   },
   {
     "name": "Chemistry Atoms First 2e",
@@ -365,7 +410,8 @@
     "style": "chemistry",
     "version": "1.9.6",
     "server": "cnx.org",
-    "uuid": "d9b85ee6-c57f-4861-8208-5ddf261e9c5f"
+    "uuid": "d9b85ee6-c57f-4861-8208-5ddf261e9c5f",
+    "tutor_only": false
   },
   {
     "name": "Chemistry: Atoms First 1e",
@@ -373,7 +419,8 @@
     "style": "chemistry",
     "version": "1.10.1",
     "server": "cnx.org",
-    "uuid": "4539ae23-1ccc-421e-9b25-843acbb6c4b0"
+    "uuid": "4539ae23-1ccc-421e-9b25-843acbb6c4b0",
+    "tutor_only": false
   },
   {
     "name": "College Algebra",
@@ -381,7 +428,8 @@
     "style": "precalculus",
     "version": "1.31.1",
     "server": "cnx.org",
-    "uuid": "9b08c294-057f-4201-9f48-5d6ad992740d"
+    "uuid": "9b08c294-057f-4201-9f48-5d6ad992740d",
+    "tutor_only": false
   },
   {
     "name": "College Algebra",
@@ -389,7 +437,8 @@
     "style": "precalculus",
     "version": "1.29.3",
     "server": "cnx.org",
-    "uuid": "9b08c294-057f-4201-9f48-5d6ad992740d"
+    "uuid": "9b08c294-057f-4201-9f48-5d6ad992740d",
+    "tutor_only": false
   },
   {
     "name": "College Algebra",
@@ -397,7 +446,8 @@
     "style": "precalculus",
     "version": "1.28.1",
     "server": "cnx.org",
-    "uuid": "9b08c294-057f-4201-9f48-5d6ad992740d"
+    "uuid": "9b08c294-057f-4201-9f48-5d6ad992740d",
+    "tutor_only": false
   },
   {
     "name": "College Algebra",
@@ -405,7 +455,8 @@
     "style": "precalculus",
     "version": "1.19.32",
     "server": "cnx.org",
-    "uuid": "9b08c294-057f-4201-9f48-5d6ad992740d"
+    "uuid": "9b08c294-057f-4201-9f48-5d6ad992740d",
+    "tutor_only": false
   },
   {
     "name": "College Algebra with Corequisite Support",
@@ -413,7 +464,8 @@
     "style": "precalculus-coreq",
     "version": "1.10.2",
     "server": "cnx.org",
-    "uuid": "507feb1e-cfff-4b54-bc07-d52636cecfe3"
+    "uuid": "507feb1e-cfff-4b54-bc07-d52636cecfe3",
+    "tutor_only": false
   },
   {
     "name": "College Algebra with Corequisite Support",
@@ -421,7 +473,8 @@
     "style": "precalculus-coreq",
     "version": "1.9.12",
     "server": "cnx.org",
-    "uuid": "507feb1e-cfff-4b54-bc07-d52636cecfe3"
+    "uuid": "507feb1e-cfff-4b54-bc07-d52636cecfe3",
+    "tutor_only": false
   },
   {
     "name": "College Algebra with Corequisite Support",
@@ -429,7 +482,8 @@
     "style": "precalculus-coreq",
     "version": "1.9.6",
     "server": "cnx.org",
-    "uuid": "507feb1e-cfff-4b54-bc07-d52636cecfe3"
+    "uuid": "507feb1e-cfff-4b54-bc07-d52636cecfe3",
+    "tutor_only": false
   },
   {
     "name": "College Algebra with Corequisite Support",
@@ -437,7 +491,8 @@
     "style": "precalculus-coreq",
     "version": "1.9.2",
     "server": "cnx.org",
-    "uuid": "507feb1e-cfff-4b54-bc07-d52636cecfe3"
+    "uuid": "507feb1e-cfff-4b54-bc07-d52636cecfe3",
+    "tutor_only": false
   },
   {
     "name": "College Algebra with Corequisite Support",
@@ -445,7 +500,8 @@
     "style": "precalculus-coreq",
     "version": "1.9.1",
     "server": "cnx.org",
-    "uuid": "507feb1e-cfff-4b54-bc07-d52636cecfe3"
+    "uuid": "507feb1e-cfff-4b54-bc07-d52636cecfe3",
+    "tutor_only": false
   },
   {
     "name": "College Physics",
@@ -453,7 +509,8 @@
     "style": "college-physics",
     "version": "1.23.16",
     "server": "cnx.org",
-    "uuid": "031da8d3-b525-429c-80cf-6c8ed997733a"
+    "uuid": "031da8d3-b525-429c-80cf-6c8ed997733a",
+    "tutor_only": false
   },
   {
     "name": "College Physics",
@@ -461,7 +518,8 @@
     "style": "college-physics",
     "version": "1.23.1",
     "server": "cnx.org",
-    "uuid": "031da8d3-b525-429c-80cf-6c8ed997733a"
+    "uuid": "031da8d3-b525-429c-80cf-6c8ed997733a",
+    "tutor_only": false
   },
   {
     "name": "College Physics",
@@ -469,7 +527,8 @@
     "style": "college-physics",
     "version": "1.21.3",
     "server": "cnx.org",
-    "uuid": "031da8d3-b525-429c-80cf-6c8ed997733a"
+    "uuid": "031da8d3-b525-429c-80cf-6c8ed997733a",
+    "tutor_only": false
   },
   {
     "name": "College Physics",
@@ -477,7 +536,8 @@
     "style": "college-physics",
     "version": "1.20.15",
     "server": "cnx.org",
-    "uuid": "031da8d3-b525-429c-80cf-6c8ed997733a"
+    "uuid": "031da8d3-b525-429c-80cf-6c8ed997733a",
+    "tutor_only": false
   },
   {
     "name": "College Physics for AP® Courses",
@@ -485,7 +545,8 @@
     "style": "ap-physics",
     "version": "1.34.4",
     "server": "cnx.org",
-    "uuid": "8d04a686-d5e8-4798-a27d-c608e4d0e187"
+    "uuid": "8d04a686-d5e8-4798-a27d-c608e4d0e187",
+    "tutor_only": false
   },
   {
     "name": "College Physics for AP® Courses",
@@ -493,7 +554,8 @@
     "style": "ap-physics",
     "version": "1.33.2",
     "server": "cnx.org",
-    "uuid": "8d04a686-d5e8-4798-a27d-c608e4d0e187"
+    "uuid": "8d04a686-d5e8-4798-a27d-c608e4d0e187",
+    "tutor_only": false
   },
   {
     "name": "College Physics for AP® Courses",
@@ -501,7 +563,8 @@
     "style": "ap-physics",
     "version": "1.29.3",
     "server": "cnx.org",
-    "uuid": "8d04a686-d5e8-4798-a27d-c608e4d0e187"
+    "uuid": "8d04a686-d5e8-4798-a27d-c608e4d0e187",
+    "tutor_only": false
   },
   {
     "name": "College Success",
@@ -509,7 +572,8 @@
     "style": "college-success",
     "version": "1.10.2",
     "server": "cnx.org",
-    "uuid": "e8668a14-9a7d-4d74-b58c-3681f8351224"
+    "uuid": "e8668a14-9a7d-4d74-b58c-3681f8351224",
+    "tutor_only": false
   },
   {
     "name": "College Success",
@@ -517,7 +581,8 @@
     "style": "college-success",
     "version": "1.10.1",
     "server": "cnx.org",
-    "uuid": "e8668a14-9a7d-4d74-b58c-3681f8351224"
+    "uuid": "e8668a14-9a7d-4d74-b58c-3681f8351224",
+    "tutor_only": false
   },
   {
     "name": "College Success",
@@ -525,7 +590,8 @@
     "style": "college-success",
     "version": "1.7.7",
     "server": "cnx.org",
-    "uuid": "e8668a14-9a7d-4d74-b58c-3681f8351224"
+    "uuid": "e8668a14-9a7d-4d74-b58c-3681f8351224",
+    "tutor_only": false
   },
   {
     "name": "Concepts of Biology",
@@ -533,7 +599,8 @@
     "style": "biology",
     "version": "1.17.18",
     "server": "cnx.org",
-    "uuid": "b3c1e1d2-839c-42b0-a314-e119a8aafbdd"
+    "uuid": "b3c1e1d2-839c-42b0-a314-e119a8aafbdd",
+    "tutor_only": false
   },
   {
     "name": "Concepts of Biology",
@@ -541,7 +608,8 @@
     "style": "biology",
     "version": "1.17.6",
     "server": "cnx.org",
-    "uuid": "b3c1e1d2-839c-42b0-a314-e119a8aafbdd"
+    "uuid": "b3c1e1d2-839c-42b0-a314-e119a8aafbdd",
+    "tutor_only": false
   },
   {
     "name": "Concepts of Biology",
@@ -549,7 +617,8 @@
     "style": "biology",
     "version": "1.16.8",
     "server": "cnx.org",
-    "uuid": "b3c1e1d2-839c-42b0-a314-e119a8aafbdd"
+    "uuid": "b3c1e1d2-839c-42b0-a314-e119a8aafbdd",
+    "tutor_only": false
   },
   {
     "name": "Concepts of Biology",
@@ -557,7 +626,8 @@
     "style": "biology",
     "version": "1.16.4",
     "server": "cnx.org",
-    "uuid": "b3c1e1d2-839c-42b0-a314-e119a8aafbdd"
+    "uuid": "b3c1e1d2-839c-42b0-a314-e119a8aafbdd",
+    "tutor_only": false
   },
   {
     "name": "Elementary Algebra 1e",
@@ -565,7 +635,8 @@
     "style": "dev-math",
     "version": "1.9.3",
     "server": "cnx.org",
-    "uuid": "0889907c-f0ef-496a-bcb8-2a5bb121717f"
+    "uuid": "0889907c-f0ef-496a-bcb8-2a5bb121717f",
+    "tutor_only": false
   },
   {
     "name": "Elementary Algebra 1e",
@@ -573,7 +644,8 @@
     "style": "dev-math",
     "version": "1.9.2",
     "server": "cnx.org",
-    "uuid": "0889907c-f0ef-496a-bcb8-2a5bb121717f"
+    "uuid": "0889907c-f0ef-496a-bcb8-2a5bb121717f",
+    "tutor_only": false
   },
   {
     "name": "Elementary Algebra 1e",
@@ -581,7 +653,8 @@
     "style": "dev-math",
     "version": "1.9.1",
     "server": "cnx.org",
-    "uuid": "0889907c-f0ef-496a-bcb8-2a5bb121717f"
+    "uuid": "0889907c-f0ef-496a-bcb8-2a5bb121717f",
+    "tutor_only": false
   },
   {
     "name": "Elementary Algebra 2e",
@@ -589,7 +662,8 @@
     "style": "dev-math",
     "version": "1.8.5",
     "server": "cnx.org",
-    "uuid": "55931856-c627-418b-a56f-1dd0007683a8"
+    "uuid": "55931856-c627-418b-a56f-1dd0007683a8",
+    "tutor_only": false
   },
   {
     "name": "Elementary Algebra 2e",
@@ -597,7 +671,8 @@
     "style": "dev-math",
     "version": "1.7.1",
     "server": "cnx.org",
-    "uuid": "55931856-c627-418b-a56f-1dd0007683a8"
+    "uuid": "55931856-c627-418b-a56f-1dd0007683a8",
+    "tutor_only": false
   },
   {
     "name": "Elementary Algebra 2e",
@@ -605,7 +680,8 @@
     "style": "dev-math",
     "version": "1.4.5",
     "server": "cnx.org",
-    "uuid": "55931856-c627-418b-a56f-1dd0007683a8"
+    "uuid": "55931856-c627-418b-a56f-1dd0007683a8",
+    "tutor_only": false
   },
   {
     "name": "Entrepreneurship",
@@ -613,7 +689,8 @@
     "style": "entrepreneurship",
     "version": "1.12.7",
     "server": "cnx.org",
-    "uuid": "d380510e-6145-4625-b19a-4fa68204b6b1"
+    "uuid": "d380510e-6145-4625-b19a-4fa68204b6b1",
+    "tutor_only": false
   },
   {
     "name": "Entrepreneurship",
@@ -621,7 +698,8 @@
     "style": "entrepreneurship",
     "version": "1.11.1",
     "server": "cnx.org",
-    "uuid": "d380510e-6145-4625-b19a-4fa68204b6b1"
+    "uuid": "d380510e-6145-4625-b19a-4fa68204b6b1",
+    "tutor_only": false
   },
   {
     "name": "Entrepreneurship",
@@ -629,7 +707,8 @@
     "style": "entrepreneurship",
     "version": "1.10.6",
     "server": "cnx.org",
-    "uuid": "d380510e-6145-4625-b19a-4fa68204b6b1"
+    "uuid": "d380510e-6145-4625-b19a-4fa68204b6b1",
+    "tutor_only": false
   },
   {
     "name": "Intellectual Property",
@@ -637,7 +716,8 @@
     "style": "business-ethics",
     "version": "1.11.65",
     "server": "content02.cnx.org",
-    "uuid": "3e49fb1f-aec7-4181-a479-036874e10240"
+    "uuid": "3e49fb1f-aec7-4181-a479-036874e10240",
+    "tutor_only": false
   },
   {
     "name": "Intermediate Algebra 1e",
@@ -645,7 +725,8 @@
     "style": "dev-math",
     "version": "1.14.1",
     "server": "cnx.org",
-    "uuid": "02776133-d49d-49cb-bfaa-67c7f61b25a1"
+    "uuid": "02776133-d49d-49cb-bfaa-67c7f61b25a1",
+    "tutor_only": false
   },
   {
     "name": "Intermediate Algebra 2e",
@@ -653,7 +734,8 @@
     "style": "dev-math",
     "version": "1.6.5",
     "server": "cnx.org",
-    "uuid": "4664c267-cd62-4a99-8b28-1cb9b3aee347"
+    "uuid": "4664c267-cd62-4a99-8b28-1cb9b3aee347",
+    "tutor_only": false
   },
   {
     "name": "Intermediate Algebra 2e",
@@ -661,7 +743,8 @@
     "style": "dev-math",
     "version": "1.5.1",
     "server": "cnx.org",
-    "uuid": "4664c267-cd62-4a99-8b28-1cb9b3aee347"
+    "uuid": "4664c267-cd62-4a99-8b28-1cb9b3aee347",
+    "tutor_only": false
   },
   {
     "name": "Intermediate Algebra 2e",
@@ -669,7 +752,8 @@
     "style": "dev-math",
     "version": "1.3.5",
     "server": "cnx.org",
-    "uuid": "4664c267-cd62-4a99-8b28-1cb9b3aee347"
+    "uuid": "4664c267-cd62-4a99-8b28-1cb9b3aee347",
+    "tutor_only": false
   },
   {
     "name": "Introduction to Business",
@@ -677,7 +761,8 @@
     "style": "intro-business",
     "version": "1.9.7",
     "server": "cnx.org",
-    "uuid": "4e09771f-a8aa-40ce-9063-aa58cc24e77f"
+    "uuid": "4e09771f-a8aa-40ce-9063-aa58cc24e77f",
+    "tutor_only": false
   },
   {
     "name": "Introduction to Business",
@@ -685,7 +770,8 @@
     "style": "intro-business",
     "version": "1.9.5",
     "server": "cnx.org",
-    "uuid": "4e09771f-a8aa-40ce-9063-aa58cc24e77f"
+    "uuid": "4e09771f-a8aa-40ce-9063-aa58cc24e77f",
+    "tutor_only": false
   },
   {
     "name": "Introduction to Business",
@@ -693,7 +779,8 @@
     "style": "intro-business",
     "version": "1.9.3",
     "server": "cnx.org",
-    "uuid": "4e09771f-a8aa-40ce-9063-aa58cc24e77f"
+    "uuid": "4e09771f-a8aa-40ce-9063-aa58cc24e77f",
+    "tutor_only": false
   },
   {
     "name": "Introduction to Sociology 1e",
@@ -701,7 +788,8 @@
     "style": "sociology",
     "version": "1.18.1",
     "server": "cnx.org",
-    "uuid": "afe4332a-c97f-4fc4-be27-4e4d384a32d8"
+    "uuid": "afe4332a-c97f-4fc4-be27-4e4d384a32d8",
+    "tutor_only": false
   },
   {
     "name": "Introduction to Sociology 2e",
@@ -709,7 +797,8 @@
     "style": "sociology",
     "version": "1.14.4",
     "server": "cnx.org",
-    "uuid": "02040312-72c8-441e-a685-20e9333f3e1d"
+    "uuid": "02040312-72c8-441e-a685-20e9333f3e1d",
+    "tutor_only": false
   },
   {
     "name": "Introduction to Sociology 2e",
@@ -717,7 +806,8 @@
     "style": "sociology",
     "version": "1.14.3",
     "server": "cnx.org",
-    "uuid": "02040312-72c8-441e-a685-20e9333f3e1d"
+    "uuid": "02040312-72c8-441e-a685-20e9333f3e1d",
+    "tutor_only": false
   },
   {
     "name": "Introduction to Sociology 2e",
@@ -725,7 +815,8 @@
     "style": "sociology",
     "version": "1.14.1",
     "server": "cnx.org",
-    "uuid": "02040312-72c8-441e-a685-20e9333f3e1d"
+    "uuid": "02040312-72c8-441e-a685-20e9333f3e1d",
+    "tutor_only": false
   },
   {
     "name": "Introductory Business Statistics",
@@ -733,7 +824,8 @@
     "style": "statistics",
     "version": "1.38.22",
     "server": "cnx.org",
-    "uuid": "b56bb9e9-5eb8-48ef-9939-88b1b12ce22f"
+    "uuid": "b56bb9e9-5eb8-48ef-9939-88b1b12ce22f",
+    "tutor_only": false
   },
   {
     "name": "Introductory Business Statistics",
@@ -741,7 +833,8 @@
     "style": "statistics",
     "version": "1.37.1",
     "server": "cnx.org",
-    "uuid": "b56bb9e9-5eb8-48ef-9939-88b1b12ce22f"
+    "uuid": "b56bb9e9-5eb8-48ef-9939-88b1b12ce22f",
+    "tutor_only": false
   },
   {
     "name": "Introductory Business Statistics",
@@ -749,7 +842,8 @@
     "style": "statistics",
     "version": "1.36.3",
     "server": "cnx.org",
-    "uuid": "b56bb9e9-5eb8-48ef-9939-88b1b12ce22f"
+    "uuid": "b56bb9e9-5eb8-48ef-9939-88b1b12ce22f",
+    "tutor_only": false
   },
   {
     "name": "Introductory Statistics",
@@ -757,7 +851,8 @@
     "style": "statistics",
     "version": "1.25.17",
     "server": "cnx.org",
-    "uuid": "30189442-6998-4686-ac05-ed152b91b9de"
+    "uuid": "30189442-6998-4686-ac05-ed152b91b9de",
+    "tutor_only": false
   },
   {
     "name": "Introductory Statistics",
@@ -765,7 +860,8 @@
     "style": "statistics",
     "version": "1.25.1",
     "server": "cnx.org",
-    "uuid": "30189442-6998-4686-ac05-ed152b91b9de"
+    "uuid": "30189442-6998-4686-ac05-ed152b91b9de",
+    "tutor_only": false
   },
   {
     "name": "Introductory Statistics",
@@ -773,7 +869,8 @@
     "style": "statistics",
     "version": "1.24.1",
     "server": "cnx.org",
-    "uuid": "30189442-6998-4686-ac05-ed152b91b9de"
+    "uuid": "30189442-6998-4686-ac05-ed152b91b9de",
+    "tutor_only": false
   },
   {
     "name": "Microbiology",
@@ -781,7 +878,8 @@
     "style": "microbiology",
     "version": "1.9.12",
     "server": "cnx.org",
-    "uuid": "e42bd376-624b-4c0f-972f-e0c57998e765"
+    "uuid": "e42bd376-624b-4c0f-972f-e0c57998e765",
+    "tutor_only": false
   },
   {
     "name": "Microbiology",
@@ -789,7 +887,8 @@
     "style": "microbiology",
     "version": "1.9.8",
     "server": "cnx.org",
-    "uuid": "e42bd376-624b-4c0f-972f-e0c57998e765"
+    "uuid": "e42bd376-624b-4c0f-972f-e0c57998e765",
+    "tutor_only": false
   },
   {
     "name": "Microbiology",
@@ -797,7 +896,8 @@
     "style": "microbiology",
     "version": "1.9.1",
     "server": "cnx.org",
-    "uuid": "e42bd376-624b-4c0f-972f-e0c57998e765"
+    "uuid": "e42bd376-624b-4c0f-972f-e0c57998e765",
+    "tutor_only": false
   },
   {
     "name": "Microbiology",
@@ -805,7 +905,8 @@
     "style": "microbiology",
     "version": "1.8.6",
     "server": "cnx.org",
-    "uuid": "e42bd376-624b-4c0f-972f-e0c57998e765"
+    "uuid": "e42bd376-624b-4c0f-972f-e0c57998e765",
+    "tutor_only": false
   },
   {
     "name": "Organizational Behavior",
@@ -813,7 +914,8 @@
     "style": "principles-management",
     "version": "1.9.8",
     "server": "cnx.org",
-    "uuid": "2d941ab9-ac5b-4eb8-b21c-965d36a4f296"
+    "uuid": "2d941ab9-ac5b-4eb8-b21c-965d36a4f296",
+    "tutor_only": false
   },
   {
     "name": "Organizational Behavior",
@@ -821,7 +923,8 @@
     "style": "principles-management",
     "version": "1.9.1",
     "server": "cnx.org",
-    "uuid": "2d941ab9-ac5b-4eb8-b21c-965d36a4f296"
+    "uuid": "2d941ab9-ac5b-4eb8-b21c-965d36a4f296",
+    "tutor_only": false
   },
   {
     "name": "Organizational Behavior",
@@ -829,7 +932,8 @@
     "style": "principles-management",
     "version": "1.7.2",
     "server": "cnx.org",
-    "uuid": "2d941ab9-ac5b-4eb8-b21c-965d36a4f296"
+    "uuid": "2d941ab9-ac5b-4eb8-b21c-965d36a4f296",
+    "tutor_only": false
   },
   {
     "name": "Physics",
@@ -837,7 +941,8 @@
     "style": "hs-physics",
     "version": "1.14.7",
     "server": "cnx.org",
-    "uuid": "cce64fde-f448-43b8-ae88-27705cceb0da"
+    "uuid": "cce64fde-f448-43b8-ae88-27705cceb0da",
+    "tutor_only": false
   },
   {
     "name": "Physics",
@@ -845,7 +950,8 @@
     "style": "hs-physics",
     "version": "1.14.4",
     "server": "cnx.org",
-    "uuid": "cce64fde-f448-43b8-ae88-27705cceb0da"
+    "uuid": "cce64fde-f448-43b8-ae88-27705cceb0da",
+    "tutor_only": false
   },
   {
     "name": "Physics",
@@ -853,7 +959,8 @@
     "style": "hs-physics",
     "version": "1.14.1",
     "server": "cnx.org",
-    "uuid": "cce64fde-f448-43b8-ae88-27705cceb0da"
+    "uuid": "cce64fde-f448-43b8-ae88-27705cceb0da",
+    "tutor_only": false
   },
   {
     "name": "Physics",
@@ -861,7 +968,8 @@
     "style": "hs-physics",
     "version": "1.13.13",
     "server": "cnx.org",
-    "uuid": "cce64fde-f448-43b8-ae88-27705cceb0da"
+    "uuid": "cce64fde-f448-43b8-ae88-27705cceb0da",
+    "tutor_only": false
   },
   {
     "name": "Physics",
@@ -869,7 +977,8 @@
     "style": "hs-physics",
     "version": "1.13.11",
     "server": "cnx.org",
-    "uuid": "cce64fde-f448-43b8-ae88-27705cceb0da"
+    "uuid": "cce64fde-f448-43b8-ae88-27705cceb0da",
+    "tutor_only": false
   },
   {
     "name": "Prealgebra 1e",
@@ -877,7 +986,8 @@
     "style": "dev-math",
     "version": "1.21.1",
     "server": "cnx.org",
-    "uuid": "caa57dab-41c7-455e-bd6f-f443cda5519c"
+    "uuid": "caa57dab-41c7-455e-bd6f-f443cda5519c",
+    "tutor_only": false
   },
   {
     "name": "Prealgebra 2e",
@@ -885,7 +995,8 @@
     "style": "dev-math",
     "version": "1.10.5",
     "server": "cnx.org",
-    "uuid": "f0fa90be-fca8-43c9-9aad-715c0a2cee2b"
+    "uuid": "f0fa90be-fca8-43c9-9aad-715c0a2cee2b",
+    "tutor_only": false
   },
   {
     "name": "Prealgebra 2e",
@@ -893,7 +1004,8 @@
     "style": "dev-math",
     "version": "1.9.1",
     "server": "cnx.org",
-    "uuid": "f0fa90be-fca8-43c9-9aad-715c0a2cee2b"
+    "uuid": "f0fa90be-fca8-43c9-9aad-715c0a2cee2b",
+    "tutor_only": false
   },
   {
     "name": "Prealgebra 2e",
@@ -901,7 +1013,8 @@
     "style": "dev-math",
     "version": "1.6.2",
     "server": "cnx.org",
-    "uuid": "f0fa90be-fca8-43c9-9aad-715c0a2cee2b"
+    "uuid": "f0fa90be-fca8-43c9-9aad-715c0a2cee2b",
+    "tutor_only": false
   },
   {
     "name": "Precalculus",
@@ -909,7 +1022,8 @@
     "style": "precalculus",
     "version": "1.34.1",
     "server": "cnx.org",
-    "uuid": "fd53eae1-fa23-47c7-bb1b-972349835c3c"
+    "uuid": "fd53eae1-fa23-47c7-bb1b-972349835c3c",
+    "tutor_only": false
   },
   {
     "name": "Precalculus",
@@ -917,7 +1031,8 @@
     "style": "precalculus",
     "version": "1.19.1",
     "server": "cnx.org",
-    "uuid": "fd53eae1-fa23-47c7-bb1b-972349835c3c"
+    "uuid": "fd53eae1-fa23-47c7-bb1b-972349835c3c",
+    "tutor_only": false
   },
   {
     "name": "Precalculus",
@@ -925,7 +1040,8 @@
     "style": "precalculus",
     "version": "1.13.30",
     "server": "cnx.org",
-    "uuid": "fd53eae1-fa23-47c7-bb1b-972349835c3c"
+    "uuid": "fd53eae1-fa23-47c7-bb1b-972349835c3c",
+    "tutor_only": false
   },
   {
     "name": "Principles of Accounting, Volume 1: Financial Accounting",
@@ -933,7 +1049,8 @@
     "style": "accounting",
     "version": "1.7.7",
     "server": "cnx.org",
-    "uuid": "9ab4ba6d-1e48-486d-a2de-38ae1617ca84"
+    "uuid": "9ab4ba6d-1e48-486d-a2de-38ae1617ca84",
+    "tutor_only": false
   },
   {
     "name": "Principles of Accounting, Volume 1: Financial Accounting",
@@ -941,7 +1058,8 @@
     "style": "accounting",
     "version": "1.7.1",
     "server": "cnx.org",
-    "uuid": "9ab4ba6d-1e48-486d-a2de-38ae1617ca84"
+    "uuid": "9ab4ba6d-1e48-486d-a2de-38ae1617ca84",
+    "tutor_only": false
   },
   {
     "name": "Principles of Accounting, Volume 1: Financial Accounting",
@@ -949,7 +1067,8 @@
     "style": "accounting",
     "version": "1.5.2",
     "server": "cnx.org",
-    "uuid": "9ab4ba6d-1e48-486d-a2de-38ae1617ca84"
+    "uuid": "9ab4ba6d-1e48-486d-a2de-38ae1617ca84",
+    "tutor_only": false
   },
   {
     "name": "Principles of Accounting, Volume 2: Managerial Accounting",
@@ -957,7 +1076,8 @@
     "style": "accounting",
     "version": "1.17.5",
     "server": "cnx.org",
-    "uuid": "920d1c8a-606c-4888-bfd4-d1ee27ce1795"
+    "uuid": "920d1c8a-606c-4888-bfd4-d1ee27ce1795",
+    "tutor_only": false
   },
   {
     "name": "Principles of Accounting, Volume 2: Managerial Accounting",
@@ -965,7 +1085,8 @@
     "style": "accounting",
     "version": "1.16.1",
     "server": "cnx.org",
-    "uuid": "920d1c8a-606c-4888-bfd4-d1ee27ce1795"
+    "uuid": "920d1c8a-606c-4888-bfd4-d1ee27ce1795",
+    "tutor_only": false
   },
   {
     "name": "Principles of Accounting, Volume 2: Managerial Accounting",
@@ -973,7 +1094,8 @@
     "style": "accounting",
     "version": "1.15.1",
     "server": "cnx.org",
-    "uuid": "920d1c8a-606c-4888-bfd4-d1ee27ce1795"
+    "uuid": "920d1c8a-606c-4888-bfd4-d1ee27ce1795",
+    "tutor_only": false
   },
   {
     "name": "Principles of Economics 1e",
@@ -981,7 +1103,8 @@
     "style": "economics",
     "version": "1.12.4",
     "server": "cnx.org",
-    "uuid": "69619d2b-68f0-44b0-b074-a9b2bf90b2c6"
+    "uuid": "69619d2b-68f0-44b0-b074-a9b2bf90b2c6",
+    "tutor_only": false
   },
   {
     "name": "Principles of Economics 1e",
@@ -989,7 +1112,8 @@
     "style": "economics",
     "version": "1.12.2",
     "server": "cnx.org",
-    "uuid": "69619d2b-68f0-44b0-b074-a9b2bf90b2c6"
+    "uuid": "69619d2b-68f0-44b0-b074-a9b2bf90b2c6",
+    "tutor_only": false
   },
   {
     "name": "Principles of Economics 1e",
@@ -997,7 +1121,8 @@
     "style": "economics",
     "version": "1.12.1",
     "server": "cnx.org",
-    "uuid": "69619d2b-68f0-44b0-b074-a9b2bf90b2c6"
+    "uuid": "69619d2b-68f0-44b0-b074-a9b2bf90b2c6",
+    "tutor_only": false
   },
   {
     "name": "Principles of Economics 2e",
@@ -1005,7 +1130,8 @@
     "style": "economics",
     "version": "1.10.7",
     "server": "cnx.org",
-    "uuid": "bc498e1f-efe9-43a0-8dea-d3569ad09a82"
+    "uuid": "bc498e1f-efe9-43a0-8dea-d3569ad09a82",
+    "tutor_only": false
   },
   {
     "name": "Principles of Economics 2e",
@@ -1013,7 +1139,8 @@
     "style": "economics",
     "version": "1.9.1",
     "server": "cnx.org",
-    "uuid": "bc498e1f-efe9-43a0-8dea-d3569ad09a82"
+    "uuid": "bc498e1f-efe9-43a0-8dea-d3569ad09a82",
+    "tutor_only": false
   },
   {
     "name": "Principles of Economics 2e",
@@ -1021,7 +1148,8 @@
     "style": "economics",
     "version": "1.8.7",
     "server": "cnx.org",
-    "uuid": "bc498e1f-efe9-43a0-8dea-d3569ad09a82"
+    "uuid": "bc498e1f-efe9-43a0-8dea-d3569ad09a82",
+    "tutor_only": false
   },
   {
     "name": "Principles of Macroeconomics 1e",
@@ -1029,7 +1157,8 @@
     "style": "economics",
     "version": "1.13.2",
     "server": "cnx.org",
-    "uuid": "4061c832-098e-4b3c-a1d9-7eb593a2cb31"
+    "uuid": "4061c832-098e-4b3c-a1d9-7eb593a2cb31",
+    "tutor_only": false
   },
   {
     "name": "Principles of Macroeconomics 1e",
@@ -1037,7 +1166,8 @@
     "style": "economics",
     "version": "1.13.1",
     "server": "cnx.org",
-    "uuid": "4061c832-098e-4b3c-a1d9-7eb593a2cb31"
+    "uuid": "4061c832-098e-4b3c-a1d9-7eb593a2cb31",
+    "tutor_only": false
   },
   {
     "name": "Principles of Macroeconomics 1e",
@@ -1045,7 +1175,8 @@
     "style": "economics",
     "version": "1.12.1",
     "server": "cnx.org",
-    "uuid": "4061c832-098e-4b3c-a1d9-7eb593a2cb31"
+    "uuid": "4061c832-098e-4b3c-a1d9-7eb593a2cb31",
+    "tutor_only": false
   },
   {
     "name": "Principles of Macroeconomics 2e",
@@ -1053,7 +1184,8 @@
     "style": "economics",
     "version": "1.15.1",
     "server": "cnx.org",
-    "uuid": "27f59064-990e-48f1-b604-5188b9086c29"
+    "uuid": "27f59064-990e-48f1-b604-5188b9086c29",
+    "tutor_only": false
   },
   {
     "name": "Principles of Macroeconomics 2e",
@@ -1061,7 +1193,8 @@
     "style": "economics",
     "version": "1.14.2",
     "server": "cnx.org",
-    "uuid": "27f59064-990e-48f1-b604-5188b9086c29"
+    "uuid": "27f59064-990e-48f1-b604-5188b9086c29",
+    "tutor_only": false
   },
   {
     "name": "Principles of Macroeconomics 2e",
@@ -1069,7 +1202,8 @@
     "style": "economics",
     "version": "1.12.1",
     "server": "cnx.org",
-    "uuid": "27f59064-990e-48f1-b604-5188b9086c29"
+    "uuid": "27f59064-990e-48f1-b604-5188b9086c29",
+    "tutor_only": false
   },
   {
     "name": "Principles of Macroeconomics 2e",
@@ -1077,7 +1211,8 @@
     "style": "economics",
     "version": "1.10.7",
     "server": "cnx.org",
-    "uuid": "27f59064-990e-48f1-b604-5188b9086c29"
+    "uuid": "27f59064-990e-48f1-b604-5188b9086c29",
+    "tutor_only": false
   },
   {
     "name": "Principles of Macroeconomics for AP Courses 1e",
@@ -1085,7 +1220,8 @@
     "style": "economics",
     "version": "1.4.2",
     "server": "cnx.org",
-    "uuid": "33076054-ec1d-4417-8824-ce354efe42d0"
+    "uuid": "33076054-ec1d-4417-8824-ce354efe42d0",
+    "tutor_only": false
   },
   {
     "name": "Principles of Macroeconomics for AP Courses 1e",
@@ -1093,7 +1229,8 @@
     "style": "economics",
     "version": "1.4.1",
     "server": "cnx.org",
-    "uuid": "33076054-ec1d-4417-8824-ce354efe42d0"
+    "uuid": "33076054-ec1d-4417-8824-ce354efe42d0",
+    "tutor_only": false
   },
   {
     "name": "Principles of Macroeconomics for AP Courses 1e",
@@ -1101,7 +1238,8 @@
     "style": "economics",
     "version": "1.3.1",
     "server": "cnx.org",
-    "uuid": "33076054-ec1d-4417-8824-ce354efe42d0"
+    "uuid": "33076054-ec1d-4417-8824-ce354efe42d0",
+    "tutor_only": false
   },
   {
     "name": "Principles of Macroeconomics for AP® Courses 2e",
@@ -1109,7 +1247,8 @@
     "style": "economics",
     "version": "1.14.1",
     "server": "cnx.org",
-    "uuid": "9117cf8c-a8a3-4875-8361-9cb0f1fc9362"
+    "uuid": "9117cf8c-a8a3-4875-8361-9cb0f1fc9362",
+    "tutor_only": false
   },
   {
     "name": "Principles of Macroeconomics for AP® Courses 2e",
@@ -1117,7 +1256,8 @@
     "style": "economics",
     "version": "1.13.2",
     "server": "cnx.org",
-    "uuid": "9117cf8c-a8a3-4875-8361-9cb0f1fc9362"
+    "uuid": "9117cf8c-a8a3-4875-8361-9cb0f1fc9362",
+    "tutor_only": false
   },
   {
     "name": "Principles of Macroeconomics for AP® Courses 2e",
@@ -1125,7 +1265,8 @@
     "style": "economics",
     "version": "1.10.1",
     "server": "cnx.org",
-    "uuid": "9117cf8c-a8a3-4875-8361-9cb0f1fc9362"
+    "uuid": "9117cf8c-a8a3-4875-8361-9cb0f1fc9362",
+    "tutor_only": false
   },
   {
     "name": "Principles of Macroeconomics for AP® Courses 2e",
@@ -1133,7 +1274,8 @@
     "style": "economics",
     "version": "1.9.1",
     "server": "cnx.org",
-    "uuid": "9117cf8c-a8a3-4875-8361-9cb0f1fc9362"
+    "uuid": "9117cf8c-a8a3-4875-8361-9cb0f1fc9362",
+    "tutor_only": false
   },
   {
     "name": "Principles of Management",
@@ -1141,7 +1283,8 @@
     "style": "principles-management",
     "version": "1.12.8",
     "server": "cnx.org",
-    "uuid": "c3acb2ab-7d5c-45ad-b3cd-e59673fedd4e"
+    "uuid": "c3acb2ab-7d5c-45ad-b3cd-e59673fedd4e",
+    "tutor_only": false
   },
   {
     "name": "Principles of Management",
@@ -1149,7 +1292,8 @@
     "style": "principles-management",
     "version": "1.12.1",
     "server": "cnx.org",
-    "uuid": "c3acb2ab-7d5c-45ad-b3cd-e59673fedd4e"
+    "uuid": "c3acb2ab-7d5c-45ad-b3cd-e59673fedd4e",
+    "tutor_only": false
   },
   {
     "name": "Principles of Management",
@@ -1157,7 +1301,8 @@
     "style": "principles-management",
     "version": "1.10.2",
     "server": "cnx.org",
-    "uuid": "c3acb2ab-7d5c-45ad-b3cd-e59673fedd4e"
+    "uuid": "c3acb2ab-7d5c-45ad-b3cd-e59673fedd4e",
+    "tutor_only": false
   },
   {
     "name": "Principles of Microeconomics 1e",
@@ -1165,7 +1310,8 @@
     "style": "economics",
     "version": "1.13.3",
     "server": "cnx.org",
-    "uuid": "ea2f225e-6063-41ca-bcd8-36482e15ef65"
+    "uuid": "ea2f225e-6063-41ca-bcd8-36482e15ef65",
+    "tutor_only": false
   },
   {
     "name": "Principles of Microeconomics 1e",
@@ -1173,7 +1319,8 @@
     "style": "economics",
     "version": "1.13.1",
     "server": "cnx.org",
-    "uuid": "ea2f225e-6063-41ca-bcd8-36482e15ef65"
+    "uuid": "ea2f225e-6063-41ca-bcd8-36482e15ef65",
+    "tutor_only": false
   },
   {
     "name": "Principles of Microeconomics 1e",
@@ -1181,7 +1328,8 @@
     "style": "economics",
     "version": "1.12.1",
     "server": "cnx.org",
-    "uuid": "ea2f225e-6063-41ca-bcd8-36482e15ef65"
+    "uuid": "ea2f225e-6063-41ca-bcd8-36482e15ef65",
+    "tutor_only": false
   },
   {
     "name": "Principles of Microeconomics 2e",
@@ -1189,7 +1337,8 @@
     "style": "economics",
     "version": "1.18.1",
     "server": "cnx.org",
-    "uuid": "5c09762c-b540-47d3-9541-dda1f44f16e5"
+    "uuid": "5c09762c-b540-47d3-9541-dda1f44f16e5",
+    "tutor_only": false
   },
   {
     "name": "Principles of Microeconomics 2e",
@@ -1197,7 +1346,8 @@
     "style": "economics",
     "version": "1.15.1",
     "server": "cnx.org",
-    "uuid": "5c09762c-b540-47d3-9541-dda1f44f16e5"
+    "uuid": "5c09762c-b540-47d3-9541-dda1f44f16e5",
+    "tutor_only": false
   },
   {
     "name": "Principles of Microeconomics 2e",
@@ -1205,7 +1355,8 @@
     "style": "economics",
     "version": "1.13.5",
     "server": "cnx.org",
-    "uuid": "5c09762c-b540-47d3-9541-dda1f44f16e5"
+    "uuid": "5c09762c-b540-47d3-9541-dda1f44f16e5",
+    "tutor_only": false
   },
   {
     "name": "Principles of Microeconomics for AP Courses 1e",
@@ -1213,7 +1364,8 @@
     "style": "economics",
     "version": "1.7.1",
     "server": "cnx.org",
-    "uuid": "ca344e2d-6731-43cd-b851-a7b3aa0b37aa"
+    "uuid": "ca344e2d-6731-43cd-b851-a7b3aa0b37aa",
+    "tutor_only": false
   },
   {
     "name": "Principles of Microeconomics for AP Courses 1e",
@@ -1221,7 +1373,8 @@
     "style": "economics",
     "version": "1.6.1",
     "server": "cnx.org",
-    "uuid": "ca344e2d-6731-43cd-b851-a7b3aa0b37aa"
+    "uuid": "ca344e2d-6731-43cd-b851-a7b3aa0b37aa",
+    "tutor_only": false
   },
   {
     "name": "Principles of Microeconomics for AP® Courses 2e",
@@ -1229,7 +1382,8 @@
     "style": "economics",
     "version": "1.14.1",
     "server": "cnx.org",
-    "uuid": "636cbfd9-4e37-4575-83ab-9dec9029ca4e"
+    "uuid": "636cbfd9-4e37-4575-83ab-9dec9029ca4e",
+    "tutor_only": false
   },
   {
     "name": "Principles of Microeconomics for AP® Courses 2e",
@@ -1237,7 +1391,8 @@
     "style": "economics",
     "version": "1.12.1",
     "server": "cnx.org",
-    "uuid": "636cbfd9-4e37-4575-83ab-9dec9029ca4e"
+    "uuid": "636cbfd9-4e37-4575-83ab-9dec9029ca4e",
+    "tutor_only": false
   },
   {
     "name": "Principles of Microeconomics for AP® Courses 2e",
@@ -1245,7 +1400,8 @@
     "style": "economics",
     "version": "1.10.1",
     "server": "cnx.org",
-    "uuid": "636cbfd9-4e37-4575-83ab-9dec9029ca4e"
+    "uuid": "636cbfd9-4e37-4575-83ab-9dec9029ca4e",
+    "tutor_only": false
   },
   {
     "name": "Principles of Microeconomics for AP® Courses 2e",
@@ -1253,7 +1409,8 @@
     "style": "economics",
     "version": "1.9.2",
     "server": "cnx.org",
-    "uuid": "636cbfd9-4e37-4575-83ab-9dec9029ca4e"
+    "uuid": "636cbfd9-4e37-4575-83ab-9dec9029ca4e",
+    "tutor_only": false
   },
   {
     "name": "Psychology 1e",
@@ -1261,7 +1418,8 @@
     "style": "psychology",
     "version": "1.13.2",
     "server": "cnx.org",
-    "uuid": "4abf04bf-93a0-45c3-9cbc-2cefd46e68cc"
+    "uuid": "4abf04bf-93a0-45c3-9cbc-2cefd46e68cc",
+    "tutor_only": false
   },
   {
     "name": "Psychology 1e",
@@ -1269,7 +1427,8 @@
     "style": "psychology",
     "version": "1.13.1",
     "server": "cnx.org",
-    "uuid": "4abf04bf-93a0-45c3-9cbc-2cefd46e68cc"
+    "uuid": "4abf04bf-93a0-45c3-9cbc-2cefd46e68cc",
+    "tutor_only": false
   },
   {
     "name": "Psychology 1e",
@@ -1277,7 +1436,8 @@
     "style": "psychology",
     "version": "1.12.3",
     "server": "cnx.org",
-    "uuid": "4abf04bf-93a0-45c3-9cbc-2cefd46e68cc"
+    "uuid": "4abf04bf-93a0-45c3-9cbc-2cefd46e68cc",
+    "tutor_only": false
   },
   {
     "name": "Psychology 1e",
@@ -1285,7 +1445,8 @@
     "style": "psychology",
     "version": "1.12.2",
     "server": "cnx.org",
-    "uuid": "4abf04bf-93a0-45c3-9cbc-2cefd46e68cc"
+    "uuid": "4abf04bf-93a0-45c3-9cbc-2cefd46e68cc",
+    "tutor_only": false
   },
   {
     "name": "Psychology 2e",
@@ -1293,7 +1454,8 @@
     "style": "psychology",
     "version": "1.4.15",
     "server": "cnx.org",
-    "uuid": "06aba565-9432-40f6-97ee-b8a361f118a8"
+    "uuid": "06aba565-9432-40f6-97ee-b8a361f118a8",
+    "tutor_only": false
   },
   {
     "name": "Psychology 2e",
@@ -1301,7 +1463,8 @@
     "style": "psychology",
     "version": "1.4.6",
     "server": "cnx.org",
-    "uuid": "06aba565-9432-40f6-97ee-b8a361f118a8"
+    "uuid": "06aba565-9432-40f6-97ee-b8a361f118a8",
+    "tutor_only": false
   },
   {
     "name": "Psychology 2e",
@@ -1309,7 +1472,8 @@
     "style": "psychology",
     "version": "1.4.1",
     "server": "cnx.org",
-    "uuid": "06aba565-9432-40f6-97ee-b8a361f118a8"
+    "uuid": "06aba565-9432-40f6-97ee-b8a361f118a8",
+    "tutor_only": false
   },
   {
     "name": "Statistics",
@@ -1317,7 +1481,8 @@
     "style": "statistics",
     "version": "1.8.13",
     "server": "cnx.org",
-    "uuid": "394a1101-fd8f-4875-84fa-55f15b06ba66"
+    "uuid": "394a1101-fd8f-4875-84fa-55f15b06ba66",
+    "tutor_only": false
   },
   {
     "name": "Statistics",
@@ -1325,7 +1490,8 @@
     "style": "statistics",
     "version": "1.8.8",
     "server": "cnx.org",
-    "uuid": "394a1101-fd8f-4875-84fa-55f15b06ba66"
+    "uuid": "394a1101-fd8f-4875-84fa-55f15b06ba66",
+    "tutor_only": false
   },
   {
     "name": "Statistics",
@@ -1333,7 +1499,8 @@
     "style": "statistics",
     "version": "1.8.6",
     "server": "cnx.org",
-    "uuid": "394a1101-fd8f-4875-84fa-55f15b06ba66"
+    "uuid": "394a1101-fd8f-4875-84fa-55f15b06ba66",
+    "tutor_only": false
   },
   {
     "name": "U.S. History",
@@ -1341,7 +1508,8 @@
     "style": "history",
     "version": "1.10.18",
     "server": "cnx.org",
-    "uuid": "a7ba2fb8-8925-4987-b182-5f4429d48daa"
+    "uuid": "a7ba2fb8-8925-4987-b182-5f4429d48daa",
+    "tutor_only": false
   },
   {
     "name": "U.S. History",
@@ -1349,7 +1517,8 @@
     "style": "history",
     "version": "1.10.10",
     "server": "cnx.org",
-    "uuid": "a7ba2fb8-8925-4987-b182-5f4429d48daa"
+    "uuid": "a7ba2fb8-8925-4987-b182-5f4429d48daa",
+    "tutor_only": false
   },
   {
     "name": "U.S. History",
@@ -1357,7 +1526,8 @@
     "style": "history",
     "version": "1.10.7",
     "server": "cnx.org",
-    "uuid": "a7ba2fb8-8925-4987-b182-5f4429d48daa"
+    "uuid": "a7ba2fb8-8925-4987-b182-5f4429d48daa",
+    "tutor_only": false
   },
   {
     "name": "U.S. History",
@@ -1365,7 +1535,8 @@
     "style": "history",
     "version": "1.10.2",
     "server": "cnx.org",
-    "uuid": "a7ba2fb8-8925-4987-b182-5f4429d48daa"
+    "uuid": "a7ba2fb8-8925-4987-b182-5f4429d48daa",
+    "tutor_only": false
   },
   {
     "name": "University Physics Volume 1",
@@ -1373,7 +1544,8 @@
     "style": "u-physics",
     "version": "1.21.4",
     "server": "cnx.org",
-    "uuid": "d50f6e32-0fda-46ef-a362-9bd36ca7c97d"
+    "uuid": "d50f6e32-0fda-46ef-a362-9bd36ca7c97d",
+    "tutor_only": false
   },
   {
     "name": "University Physics Volume 1",
@@ -1381,7 +1553,8 @@
     "style": "u-physics",
     "version": "1.20.1",
     "server": "cnx.org",
-    "uuid": "d50f6e32-0fda-46ef-a362-9bd36ca7c97d"
+    "uuid": "d50f6e32-0fda-46ef-a362-9bd36ca7c97d",
+    "tutor_only": false
   },
   {
     "name": "University Physics Volume 1",
@@ -1389,7 +1562,8 @@
     "style": "u-physics",
     "version": "1.14.1",
     "server": "cnx.org",
-    "uuid": "d50f6e32-0fda-46ef-a362-9bd36ca7c97d"
+    "uuid": "d50f6e32-0fda-46ef-a362-9bd36ca7c97d",
+    "tutor_only": false
   },
   {
     "name": "University Physics Volume 2",
@@ -1397,7 +1571,8 @@
     "style": "u-physics",
     "version": "1.24.2",
     "server": "cnx.org",
-    "uuid": "7a0f9770-1c44-4acd-9920-1cd9a99f2a1e"
+    "uuid": "7a0f9770-1c44-4acd-9920-1cd9a99f2a1e",
+    "tutor_only": false
   },
   {
     "name": "University Physics Volume 2",
@@ -1405,7 +1580,8 @@
     "style": "u-physics",
     "version": "1.22.1",
     "server": "cnx.org",
-    "uuid": "7a0f9770-1c44-4acd-9920-1cd9a99f2a1e"
+    "uuid": "7a0f9770-1c44-4acd-9920-1cd9a99f2a1e",
+    "tutor_only": false
   },
   {
     "name": "University Physics Volume 2",
@@ -1413,7 +1589,8 @@
     "style": "u-physics",
     "version": "1.17.1",
     "server": "cnx.org",
-    "uuid": "7a0f9770-1c44-4acd-9920-1cd9a99f2a1e"
+    "uuid": "7a0f9770-1c44-4acd-9920-1cd9a99f2a1e",
+    "tutor_only": false
   },
   {
     "name": "University Physics Volume 3",
@@ -1421,7 +1598,8 @@
     "style": "u-physics",
     "version": "1.20.1",
     "server": "cnx.org",
-    "uuid": "af275420-6050-4707-995c-57b9cc13c358"
+    "uuid": "af275420-6050-4707-995c-57b9cc13c358",
+    "tutor_only": false
   },
   {
     "name": "University Physics Volume 3",
@@ -1429,7 +1607,8 @@
     "style": "u-physics",
     "version": "1.18.1",
     "server": "cnx.org",
-    "uuid": "af275420-6050-4707-995c-57b9cc13c358"
+    "uuid": "af275420-6050-4707-995c-57b9cc13c358",
+    "tutor_only": false
   },
   {
     "name": "University Physics Volume 3",
@@ -1437,6 +1616,7 @@
     "style": "u-physics",
     "version": "1.13.1",
     "server": "cnx.org",
-    "uuid": "af275420-6050-4707-995c-57b9cc13c358"
+    "uuid": "af275420-6050-4707-995c-57b9cc13c358",
+    "tutor_only": false
   }
 ]
