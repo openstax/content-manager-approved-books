@@ -43,8 +43,7 @@
                 "repo",
                 "version",
                 "style",
-                "uuid",
-                "tutor_only"
+                "uuid"
             ],
             "additionalProperties": false
         }

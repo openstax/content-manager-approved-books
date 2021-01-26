@@ -40,6 +40,10 @@
           "type": "string",
           "description": "Minumum supported cnx-recipes version/tag",
           "pattern": "^[v]?\\d+[.]\\d+([.]\\d+)?$"
+        },
+        "tutor_only": {
+          "type": "boolean",
+          "description": "When true the book can be only be found on Tutor and is not available on REX"
         }
       },
       "required": [
@@ -47,7 +51,8 @@
         "collection_id",
         "version",
         "style",
-        "uuid"
+        "uuid",
+        "tutor_only"
       ],
       "additionalProperties": false
     }
