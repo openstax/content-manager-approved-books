@@ -75,15 +75,6 @@
     "name": "American Government 2e",
     "collection_id": "col26739",
     "style": "american-government",
-    "version": "1.6.7",
-    "server": "cnx.org",
-    "uuid": "9d8df601-4f12-4ac1-8224-b450bf739e5f",
-    "tutor_only": false
-  },
-  {
-    "name": "American Government 2e",
-    "collection_id": "col26739",
-    "style": "american-government",
     "version": "1.6.5",
     "server": "cnx.org",
     "uuid": "9d8df601-4f12-4ac1-8224-b450bf739e5f",
@@ -390,15 +381,6 @@
     "name": "Calculus Volume 2",
     "collection_id": "col11965",
     "style": "calculus",
-    "version": "1.22.1",
-    "server": "cnx.org",
-    "uuid": "1d39a348-071f-4537-85b6-c98912458c3c",
-    "tutor_only": false
-  },
-  {
-    "name": "Calculus Volume 2",
-    "collection_id": "col11965",
-    "style": "calculus",
     "version": "1.15.1",
     "server": "cnx.org",
     "uuid": "1d39a348-071f-4537-85b6-c98912458c3c",
@@ -411,15 +393,6 @@
     "version": "1.11.1",
     "server": "cnx.org",
     "uuid": "1d39a348-071f-4537-85b6-c98912458c3c",
-    "tutor_only": false
-  },
-  {
-    "name": "Calculus Volume 3",
-    "collection_id": "col11966",
-    "style": "calculus",
-    "version": "1.22.1",
-    "server": "cnx.org",
-    "uuid": "a31cd793-2162-4e9e-acb5-6e6bbd76a5fa",
     "tutor_only": false
   },
   {
@@ -597,15 +570,6 @@
     "name": "College Algebra with Corequisite Support",
     "collection_id": "col32026",
     "style": "precalculus-coreq",
-    "version": "1.10.2",
-    "server": "cnx.org",
-    "uuid": "507feb1e-cfff-4b54-bc07-d52636cecfe3",
-    "tutor_only": false
-  },
-  {
-    "name": "College Algebra with Corequisite Support",
-    "collection_id": "col32026",
-    "style": "precalculus-coreq",
     "version": "1.9.12",
     "server": "cnx.org",
     "uuid": "507feb1e-cfff-4b54-bc07-d52636cecfe3",
@@ -717,15 +681,6 @@
     "version": "1.29.3",
     "server": "cnx.org",
     "uuid": "8d04a686-d5e8-4798-a27d-c608e4d0e187",
-    "tutor_only": false
-  },
-  {
-    "name": "College Success",
-    "collection_id": "col30990",
-    "style": "college-success",
-    "version": "1.10.2",
-    "server": "cnx.org",
-    "uuid": "e8668a14-9a7d-4d74-b58c-3681f8351224",
     "tutor_only": false
   },
   {
@@ -876,15 +831,6 @@
     "name": "Entrepreneurship",
     "collection_id": "col29104",
     "style": "entrepreneurship",
-    "version": "1.12.7",
-    "server": "cnx.org",
-    "uuid": "d380510e-6145-4625-b19a-4fa68204b6b1",
-    "tutor_only": false
-  },
-  {
-    "name": "Entrepreneurship",
-    "collection_id": "col29104",
-    "style": "entrepreneurship",
     "version": "1.11.1",
     "server": "cnx.org",
     "uuid": "d380510e-6145-4625-b19a-4fa68204b6b1",
@@ -897,15 +843,6 @@
     "version": "1.10.6",
     "server": "cnx.org",
     "uuid": "d380510e-6145-4625-b19a-4fa68204b6b1",
-    "tutor_only": false
-  },
-  {
-    "name": "Intellectual Property",
-    "collection_id": "col10001",
-    "style": "business-ethics",
-    "version": "1.11.65",
-    "server": "content02.cnx.org",
-    "uuid": "3e49fb1f-aec7-4181-a479-036874e10240",
     "tutor_only": false
   },
   {
@@ -1158,15 +1095,6 @@
     "version": "1.8.6",
     "server": "cnx.org",
     "uuid": "e42bd376-624b-4c0f-972f-e0c57998e765",
-    "tutor_only": false
-  },
-  {
-    "name": "Organizational Behavior",
-    "collection_id": "col29124",
-    "style": "principles-management",
-    "version": "1.9.8",
-    "server": "cnx.org",
-    "uuid": "2d941ab9-ac5b-4eb8-b21c-965d36a4f296",
     "tutor_only": false
   },
   {
@@ -1623,15 +1551,6 @@
     "name": "Principles of Management",
     "collection_id": "col28330",
     "style": "principles-management",
-    "version": "1.12.8",
-    "server": "cnx.org",
-    "uuid": "c3acb2ab-7d5c-45ad-b3cd-e59673fedd4e",
-    "tutor_only": false
-  },
-  {
-    "name": "Principles of Management",
-    "collection_id": "col28330",
-    "style": "principles-management",
     "version": "1.12.1",
     "server": "cnx.org",
     "uuid": "c3acb2ab-7d5c-45ad-b3cd-e59673fedd4e",
@@ -1770,15 +1689,6 @@
     "version": "1.9.2",
     "server": "cnx.org",
     "uuid": "636cbfd9-4e37-4575-83ab-9dec9029ca4e",
-    "tutor_only": false
-  },
-  {
-    "name": "Psychology 1e",
-    "collection_id": "col11629",
-    "style": "psychology",
-    "version": "1.13.2",
-    "server": "cnx.org",
-    "uuid": "4abf04bf-93a0-45c3-9cbc-2cefd46e68cc",
     "tutor_only": false
   },
   {
