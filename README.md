@@ -83,3 +83,15 @@ $ npm install
 $ npm run test
 
 ```
+
+## Sort approved_books.json file for better reading
+
+Requires `jq`
+Mac: `brew install jq`
+Linux: `sudo apt-get install jq`
+
+How to sort by version number in reverse order first and by name second:
+```bash
+jq 'sort_by(.version | split(".") | map(tonumber)) | reverse | sort_by(.name)' approved-books.json >sorted.json
+mv sorted.json approved-books.json
+```
