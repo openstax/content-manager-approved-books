@@ -32,6 +32,10 @@
                     "type": "string",
                     "description": "UUID of the collection to serve as another point of reference.",
                     "format": "uuid"
+                },
+                "tutor_only": {
+                    "type": "boolean",
+                    "description": "When true the book can be only be found on Tutor and is not available on REX"
                 }
             },
             "required": [
@@ -39,7 +43,8 @@
                 "repo",
                 "version",
                 "style",
-                "uuid"
+                "uuid",
+                "tutor_only"
             ],
             "additionalProperties": false
         }
