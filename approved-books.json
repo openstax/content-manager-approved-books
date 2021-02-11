@@ -1,4 +1,31 @@
 [
+    {
+    "name": "Fizyka dla szkół wyższych. Tom 1",
+    "collection_id": "col23946",
+    "style": "pl-u-physics",
+    "version": "1.4.8",
+    "server": "cnx.org",
+    "uuid": "4eaa8f03-88a8-485a-a777-dd3602f6c13e",
+    "tutor_only": false
+  },
+  {
+    "name": "Fizyka dla szkół wyższych. Tom 2",
+    "collection_id": "col25244",
+    "style": "pl-u-physics",
+    "version": "1.4.35",
+    "server": "cnx.org",
+    "uuid": "16ab5b96-4598-45f9-993c-b8d78d82b0c6",
+    "tutor_only": false
+  },
+  {
+    "name": "Fizyka dla szkół wyższych. Tom 3",
+    "collection_id": "col25571",
+    "style": "pl-u-physics",
+    "version": "1.6.18",
+    "server": "cnx.org",
+    "uuid": "bb62933e-f20a-4ffc-90aa-97b36c296c3e",
+    "tutor_only": false
+  },  
   {
     "name": "Algebra and Trigonometry",
     "collection_id": "col11758",
