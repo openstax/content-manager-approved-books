@@ -152,6 +152,15 @@
     "uuid": "6c322e32-9fb0-4c4d-a1d7-20c95c5c7af2",
     "tutor_only": false
   },
+      {
+    "name": "Business Ethics",
+    "collection_id": "col25722",
+    "style": "business-ethics",
+    "version": "1.5.14",
+    "server": "cnx.org",
+    "uuid": "914ac66e-e1ec-486d-8a9c-97b0f7a99774",
+    "tutor_only": false
+  },
   {
     "name": "Business Ethics",
     "collection_id": "col25722",
