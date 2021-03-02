@@ -1,9 +1,36 @@
 [
+   {
+    "name": "College Physics with Courseware",
+    "collection_id": "col12006",
+    "style": "college-physics",
+    "version": "8.32",
+    "server": "cnx.org",
+    "uuid": "405335a3-7cff-4df2-a9ad-29062a4af261",
+    "tutor_only": true
+  },
+    {
+    "name": "Life, Liberty and the Pursuit of Happiness",
+    "collection_id": "col31596",
+    "style": "ap-history",
+    "version": "14.1",
+    "server": "cnx.org",
+    "uuid": "36004586-651c-4ded-af87-203aca22d946",
+    "tutor_only": true
+  },
+    {
+    "name": "Psychologia",
+    "collection_id": "col32565",
+    "style": "pl-psychology",
+    "version": "1.1",
+    "server": "cnx.org",
+    "uuid": "728df0bb-e07f-489d-91e3-4734a5932f92",
+    "tutor_only": false
+  },
     {
     "name": "Fizyka dla szkół wyższych. Tom 1",
     "collection_id": "col23946",
     "style": "pl-u-physics",
-    "version": "1.4.8",
+    "version": "1.4.14",
     "server": "cnx.org",
     "uuid": "4eaa8f03-88a8-485a-a777-dd3602f6c13e",
     "tutor_only": false
@@ -21,7 +48,7 @@
     "name": "Fizyka dla szkół wyższych. Tom 3",
     "collection_id": "col25571",
     "style": "pl-u-physics",
-    "version": "1.6.18",
+    "version": "1.6.23",
     "server": "cnx.org",
     "uuid": "bb62933e-f20a-4ffc-90aa-97b36c296c3e",
     "tutor_only": false
