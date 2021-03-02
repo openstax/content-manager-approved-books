@@ -1,4 +1,12 @@
 [
+  {
+        "uuid": "728df0bb-e07f-489d-91e3-4734a5932f92",
+        "slug": "Psychologia"
+    },
+    {
+        "uuid": "405335a3-7cff-4df2-a9ad-29062a4af261",
+        "slug": "college-physics-courseware"
+    },
     {
         "uuid": "02040312-72c8-441e-a685-20e9333f3e1d",
         "slug": "introduction-sociology-2e"
