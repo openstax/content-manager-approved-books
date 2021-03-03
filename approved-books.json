@@ -3,7 +3,7 @@
     "name": "College Physics with Courseware",
     "collection_id": "col12006",
     "style": "college-physics",
-    "version": "8.32",
+    "version": "1.8.32",
     "server": "cnx.org",
     "uuid": "405335a3-7cff-4df2-a9ad-29062a4af261",
     "tutor_only": true
@@ -12,7 +12,7 @@
     "name": "Life, Liberty and the Pursuit of Happiness",
     "collection_id": "col31596",
     "style": "ap-history",
-    "version": "14.1",
+    "version": "1.14.1",
     "server": "cnx.org",
     "uuid": "36004586-651c-4ded-af87-203aca22d946",
     "tutor_only": true
