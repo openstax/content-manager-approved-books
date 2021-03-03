@@ -25,7 +25,7 @@
         "version": {
           "type": "string",
           "description": "The version of the collection to pull.",
-          "pattern": "^\\d+[.]\\d+([.]\\d+)?$"
+          "pattern": "^\\d+[.]\\d+[.]\\d+$"
         },
         "style": {
           "type": "string",
