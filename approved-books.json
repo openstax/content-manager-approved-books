@@ -567,6 +567,15 @@
     "tutor_only": false
   },
   {
+    "name": "Introduction to Intellectual Property",
+    "collection_id": "col32642",
+    "style": "business-ethics",
+    "version": "1.6.3",
+    "server": "cnx.org",
+    "uuid": "1b4ee0ce-ee89-44fa-a5e7-a0db9f0c94b1",
+    "tutor_only": false
+  },
+  {
     "name": "Introduction to Sociology 1e",
     "collection_id": "col11407",
     "style": "sociology",
