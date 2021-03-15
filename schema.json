@@ -1,58 +1,175 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "type": "array",
-  "items": {
-    "$ref": "#/definitions/book-entry"
+  "type": "object",
+  "properties": {
+    "approved_books": {
+      "$ref": "#/definitions/approved-books"
+    },
+    "approved_versions": {
+      "$ref": "#/definitions/approved-versions"
+    }
   },
+  "required": [
+    "approved_books",
+    "approved_versions"
+  ],
+  "additionalProperties": false,
   "definitions": {
-    "book-entry": {
+    "approved-books": {
+      "type": "array",
+      "items": {
+        "oneOf":
+          [
+            { "$ref": "#/definitions/git-book" },
+            { "$ref": "#/definitions/archive-book" }
+          ]
+      },
+      "uniqueItems": true
+    },
+    "archive-book": {
       "type": "object",
       "properties": {
-        "name": {
+        "collection_id": {
           "type": "string",
-          "description": "An identifier for this entry. Can be anything and is not required."
+          "description": "The collection ID to pull from the archive server.",
+          "pattern": "^(col)\\d{5}$"
         },
         "server": {
           "type": "string",
-          "description": "The server from which to pull the collection.",
+          "description": "The archive server from which to pull the collection.",
           "pattern": "^((staging|qa|content\\d{2}|katalyst01|easyvm5)[.])?cnx[.]org$"
-        },
-        "collection_id": {
-          "type": "string",
-          "description": "The collection ID to pull from the server.",
-          "pattern": "^(col)\\d{5}$"
-        },
-        "version": {
-          "type": "string",
-          "description": "The version of the collection to pull.",
-          "pattern": "^\\d+[.]\\d+[.]\\d+$"
         },
         "style": {
           "type": "string",
           "description": "Style to apply to the collection."
         },
-        "uuid": {
-          "type": "string",
-          "description": "UUID of the collection to serve as another point of reference.",
-          "format": "uuid"
+        "tutor_only": {
+          "type": "boolean",
+          "description": "When true the book can be only be found on Tutor and is not available on REX"
         },
-        "msrv": {
+        "books": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/book-entry"
+          },
+          "uniqueItems": true
+        }
+      },
+      "required": [
+        "collection_id",
+        "server",
+        "style",
+        "tutor_only",
+        "books"
+      ],
+      "additionalProperties": false
+    },
+    "git-book": {
+      "type": "object",
+      "properties": {
+        "repo": {
           "type": "string",
-          "description": "Minumum supported cnx-recipes version/tag",
-          "pattern": "^[v]?\\d+[.]\\d+([.]\\d+)?$"
+          "description": "The git repo with book content"
+        },
+        "style": {
+          "type": "string",
+          "description": "Style to apply to the content"
         },
         "tutor_only": {
           "type": "boolean",
           "description": "When true the book can be only be found on Tutor and is not available on REX"
+        },
+        "books": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/book-entry"
+          },
+          "uniqueItems": true
         }
       },
       "required": [
-        "server",
-        "collection_id",
-        "version",
+        "repo",
         "style",
+        "tutor_only",
+        "books"
+      ],
+      "additionalProperties": false
+    },
+    "book-entry": {
+      "type": "object",
+      "properties": {
+        "uuid": {
+          "type": "string",
+          "description": "UUID of the book.",
+          "format": "uuid"
+        },
+        "slug": {
+          "type": "string",
+          "description": "Book slug"
+        }
+      },
+      "required": [
         "uuid",
-        "tutor_only"
+        "slug"
+      ],
+      "additionalProperties": false
+    },
+    "approved-versions": {
+      "type": "array",
+      "items": {
+        "oneOf":
+          [
+            { "$ref": "#/definitions/git-version" },
+            { "$ref": "#/definitions/archive-version" }
+          ]
+      },
+      "uniqueItems": true
+    },
+    "archive-version": {
+      "type": "object",
+      "properties": {
+        "collection_id": {
+          "type": "string",
+          "description": "The collection ID to pull from the archive server.",
+          "pattern": "^(col)\\d{5}$"
+        },
+        "content_version": {
+          "type": "string",
+          "description": "The version of the collection to pull.",
+          "pattern": "^\\d+[.]\\d+[.]\\d+$"
+        },
+        "min_code_version": {
+          "type": "string",
+          "description": "The minimum code version required to build."
+        }
+      },
+      "required": [
+        "collection_id",
+        "content_version",
+        "min_code_version"
+      ],
+      "additionalProperties": false
+    },
+    "git-version": {
+      "type": "object",
+      "properties": {
+        "repo": {
+          "type": "string",
+          "description": "The git repo with book content"
+        },
+        "content_version": {
+          "type": "string",
+          "description": "The version of the content to pull from the repo."
+        },
+        "min_code_version": {
+          "type": "string",
+          "description": "The minimum code version required to build."
+        }
+      },
+      "required": [
+        "repo",
+        "content_version",
+        "min_code_version"
       ],
       "additionalProperties": false
     }
