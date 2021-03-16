@@ -52,7 +52,8 @@
           "items": {
             "$ref": "#/definitions/book-entry"
           },
-          "uniqueItems": true
+          "minItems": 1,
+          "maxItems": 1
         }
       },
       "required": [
@@ -84,6 +85,7 @@
           "items": {
             "$ref": "#/definitions/book-entry"
           },
+          "minItems": 1,
           "uniqueItems": true
         }
       },
