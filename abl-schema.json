@@ -1,0 +1,179 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "approved_books": {
+      "$ref": "#/definitions/approved-books"
+    },
+    "approved_versions": {
+      "$ref": "#/definitions/approved-versions"
+    }
+  },
+  "required": [
+    "approved_books",
+    "approved_versions"
+  ],
+  "additionalProperties": false,
+  "definitions": {
+    "approved-books": {
+      "type": "array",
+      "items": {
+        "oneOf":
+          [
+            { "$ref": "#/definitions/git-book" },
+            { "$ref": "#/definitions/archive-book" }
+          ]
+      },
+      "uniqueItems": true
+    },
+    "archive-book": {
+      "type": "object",
+      "properties": {
+        "collection_id": {
+          "type": "string",
+          "description": "The collection ID to pull from the archive server.",
+          "pattern": "^(col)\\d{5}$"
+        },
+        "server": {
+          "type": "string",
+          "description": "The archive server from which to pull the collection.",
+          "pattern": "^((staging|qa|content\\d{2}|katalyst01|easyvm5)[.])?cnx[.]org$"
+        },
+        "style": {
+          "type": "string",
+          "description": "Style to apply to the collection."
+        },
+        "tutor_only": {
+          "type": "boolean",
+          "description": "When true the book can be only be found on Tutor and is not available on REX"
+        },
+        "books": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/book-entry"
+          },
+          "minItems": 1,
+          "maxItems": 1
+        }
+      },
+      "required": [
+        "collection_id",
+        "server",
+        "style",
+        "tutor_only",
+        "books"
+      ],
+      "additionalProperties": false
+    },
+    "git-book": {
+      "type": "object",
+      "properties": {
+        "repository_name": {
+          "type": "string",
+          "description": "The git repository name with book content"
+        },
+        "style": {
+          "type": "string",
+          "description": "Style to apply to the content"
+        },
+        "tutor_only": {
+          "type": "boolean",
+          "description": "When true the book can be only be found on Tutor and is not available on REX"
+        },
+        "books": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/book-entry"
+          },
+          "minItems": 1,
+          "uniqueItems": true
+        }
+      },
+      "required": [
+        "repository_name",
+        "style",
+        "tutor_only",
+        "books"
+      ],
+      "additionalProperties": false
+    },
+    "book-entry": {
+      "type": "object",
+      "properties": {
+        "uuid": {
+          "type": "string",
+          "description": "UUID of the book.",
+          "format": "uuid"
+        },
+        "slug": {
+          "type": "string",
+          "description": "Book slug"
+        }
+      },
+      "required": [
+        "uuid",
+        "slug"
+      ],
+      "additionalProperties": false
+    },
+    "approved-versions": {
+      "type": "array",
+      "items": {
+        "oneOf":
+          [
+            { "$ref": "#/definitions/git-version" },
+            { "$ref": "#/definitions/archive-version" }
+          ]
+      },
+      "uniqueItems": true
+    },
+    "archive-version": {
+      "type": "object",
+      "properties": {
+        "collection_id": {
+          "type": "string",
+          "description": "The collection ID to pull from the archive server.",
+          "pattern": "^(col)\\d{5}$"
+        },
+        "content_version": {
+          "type": "string",
+          "description": "The version of the collection to pull.",
+          "pattern": "^\\d+[.]\\d+[.]\\d+$"
+        },
+        "min_code_version": {
+          "type": "string",
+          "description": "The minimum code version required to build."
+        }
+      },
+      "required": [
+        "collection_id",
+        "content_version",
+        "min_code_version"
+      ],
+      "additionalProperties": false
+    },
+    "git-version": {
+      "type": "object",
+      "properties": {
+        "repository_name": {
+          "type": "string",
+          "description": "The git repository name with book content"
+        },
+        "content_version": {
+          "type": "string",
+          "description": "The version of the content to pull from the repository."
+        },
+        "min_code_version": {
+          "type": "string",
+          "description": "The minimum code version required to build."
+        }
+      },
+      "required": [
+        "repository_name",
+        "content_version",
+        "min_code_version"
+      ],
+      "additionalProperties": false
+    }
+  }
+}
