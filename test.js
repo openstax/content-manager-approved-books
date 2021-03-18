@@ -142,3 +142,59 @@ test('approved-book-list.json book UUIDs are unique', t => {
   }, [])
   t.pass()
 })
+
+test('approved-books.json entries match approved-book-list.json', t => {
+  const approvedBooksData = fs.readFileSync(approvedBooksPath, { encoding: 'utf8' })
+  const approvedBookListData = fs.readFileSync(approvedBookListPath, { encoding: 'utf8' })
+  const slugData = fs.readFileSync(bookSlugsPath, { encoding: 'utf8' })
+
+
+  const slugs = JSON.parse(slugData)
+  const approvedBooks = JSON.parse(approvedBooksData)
+  const approvedBookList = JSON.parse(approvedBookListData)
+
+  const ablBooksByCollectionId = approvedBookList.approved_books.reduce((acc, entry) => {
+    acc[entry.collection_id] = {
+      "collection_id": entry.collection_id,
+      "style": entry.style,
+      "server": entry.server,
+      "tutor_only": entry.tutor_only,
+      "uuid": entry.books[0].uuid,
+      "slug": entry.books[0].slug,
+    }
+    return acc
+  }, {})
+
+  const ablBooksById = approvedBookList.approved_versions.reduce ((acc, entry) => {
+    const bookId = `${entry.collection_id}@${entry.content_version}`
+    acc[bookId] = {
+      ...ablBooksByCollectionId[entry.collection_id],
+      "version": entry.content_version
+    }
+    return acc
+  }, {})
+
+  const bookSlugsByUUID = slugs.reduce((acc, book) => {
+    acc[book['uuid']] = book['slug']
+    return acc
+  }, {})
+
+  approvedBooks.forEach((entry) => {
+    const bookId = `${entry.collection_id}@${entry.version}`
+    const ablBookEntry = ablBooksById[bookId]
+
+    if (ablBookEntry === undefined) {
+      t.fail(`Book ${bookId} not found in approved-book-list.json`)
+    }
+
+    entry['slug'] = bookSlugsByUUID[entry.uuid]
+    delete entry.name
+
+    for (const key in entry) {
+      if (entry[key] !== ablBookEntry[key]) {
+        t.fail(`Book ${bookId} in approved-books.json does not match ${key} in corresponding approved-book-list.json entry`)
+      }
+    }
+  })
+  t.pass()
+})
