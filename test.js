@@ -100,10 +100,10 @@ test('approved-book-list.json approved-versions reference approved-books', t => 
   const listData = fs.readFileSync(approvedBookListPath, { encoding: 'utf8' })
   const list = JSON.parse(listData)
   const validBookIds = list.approved_books.map(
-    entry => entry.collection_id != null ? entry.collection_id : entry.repo
+    entry => entry.collection_id != null ? entry.collection_id : entry.repository_name
   )
   list.approved_versions.forEach(entry => {
-    const bookId = entry.collection_id != null ? entry.collection_id : entry.repo
+    const bookId = entry.collection_id != null ? entry.collection_id : entry.repository_name
     if (!validBookIds.includes(bookId)) {
       t.fail(`Approved version references unknown book ${bookId}`)
     }
@@ -111,13 +111,13 @@ test('approved-book-list.json approved-versions reference approved-books', t => 
   t.pass()
 })
 
-test('approved-book-list.json collection_ids / repos are unique', t => {
+test('approved-book-list.json collection_ids / repository names are unique', t => {
   const listData = fs.readFileSync(approvedBookListPath, { encoding: 'utf8' })
   const list = JSON.parse(listData)
   list.approved_books.reduce((acc, entry) => {
-    const bookId = entry.collection_id != null ? entry.collection_id : entry.repo
+    const bookId = entry.collection_id != null ? entry.collection_id : entry.repository_name
     if (acc.includes(bookId)) {
-      t.fail(`Duplicate book ID (collection or repo) found: ${bookId}`)
+      t.fail(`Duplicate book ID (collection or repository name) found: ${bookId}`)
     }
     acc.push(bookId)
     return acc

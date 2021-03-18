@@ -14,7 +14,7 @@ Git Books:
 ```json
 [
   {
-    "repo": "osbooks-college-algebra-bundle",
+    "repository_name": "osbooks-college-algebra-bundle",
     "style": "precalculus",
     "tutor_only": false,
     "books": [
@@ -64,7 +64,7 @@ Git Books:
 ```json
 [
   {
-      "repo": "osbooks-college-algebra-bundle",
+      "repository_name": "osbooks-college-algebra-bundle",
       "content_version": "1",
       "min_code_version": "20210224.204120"
   }

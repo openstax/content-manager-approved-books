@@ -68,9 +68,9 @@
     "git-book": {
       "type": "object",
       "properties": {
-        "repo": {
+        "repository_name": {
           "type": "string",
-          "description": "The git repo with book content"
+          "description": "The git repository name with book content"
         },
         "style": {
           "type": "string",
@@ -90,7 +90,7 @@
         }
       },
       "required": [
-        "repo",
+        "repository_name",
         "style",
         "tutor_only",
         "books"
@@ -155,13 +155,13 @@
     "git-version": {
       "type": "object",
       "properties": {
-        "repo": {
+        "repository_name": {
           "type": "string",
-          "description": "The git repo with book content"
+          "description": "The git repository name with book content"
         },
         "content_version": {
           "type": "string",
-          "description": "The version of the content to pull from the repo."
+          "description": "The version of the content to pull from the repository."
         },
         "min_code_version": {
           "type": "string",
@@ -169,7 +169,7 @@
         }
       },
       "required": [
-        "repo",
+        "repository_name",
         "content_version",
         "min_code_version"
       ],
