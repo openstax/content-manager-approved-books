@@ -143,6 +143,18 @@ test('approved-book-list.json book UUIDs are unique', t => {
   t.pass()
 })
 
+test('approved-book-list.json has at least one version for each book', t => {
+  const listData = fs.readFileSync(approvedBookListPath, { encoding: 'utf8' })
+  const abl = JSON.parse(listData)
+  abl.approved_books.forEach(b => {
+    if (b.repository_name) {
+      t.truthy(abl.approved_versions.find(v => v.repository_name === b.repository_name), `No version for repository_name=${b.repository_name}`)
+    } else {
+      t.truthy(abl.approved_versions.find(v => v.collection_id === b.collection_id), `No version for collection_id=${b.collection_id}`)
+    }
+  })
+})
+
 test('approved-books.json entries match approved-book-list.json', t => {
   const approvedBooksData = fs.readFileSync(approvedBooksPath, { encoding: 'utf8' })
   const approvedBookListData = fs.readFileSync(approvedBookListPath, { encoding: 'utf8' })
