@@ -460,7 +460,7 @@
       "collection_id": "col10018",
       "server": "content02.cnx.org",
       "style": "sociology",
-      "tutor_only": false,
+      "tutor_only": true,
       "books": [
         {
           "uuid": "634d7674-0d60-419b-a779-f2b340a7efe0",
