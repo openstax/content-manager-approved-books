@@ -808,7 +808,17 @@
   "approved_versions": [
     {
       "collection_id": "col12006",
+      "content_version": "1.8.46",
+      "min_code_version": "20210224.204120"
+    },
+    {
+      "collection_id": "col12006",
       "content_version": "1.8.32",
+      "min_code_version": "20210224.204120"
+    },
+    {
+      "collection_id": "col31596",
+      "content_version": "1.14.3",
       "min_code_version": "20210224.204120"
     },
     {
