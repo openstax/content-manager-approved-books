@@ -1,4 +1,13 @@
 [
+    {
+    "name": "College Physics with Courseware",
+    "collection_id": "col12006",
+    "style": "college-physics",
+    "version": "1.8.46",
+    "server": "cnx.org",
+    "uuid": "405335a3-7cff-4df2-a9ad-29062a4af261",
+    "tutor_only": true
+  },
    {
     "name": "College Physics with Courseware",
     "collection_id": "col12006",
@@ -8,7 +17,16 @@
     "uuid": "405335a3-7cff-4df2-a9ad-29062a4af261",
     "tutor_only": true
   },
-    {
+     {
+    "name": "Life, Liberty and the Pursuit of Happiness",
+    "collection_id": "col31596",
+    "style": "ap-history",
+    "version": "1.14.3",
+    "server": "cnx.org",
+    "uuid": "36004586-651c-4ded-af87-203aca22d946",
+    "tutor_only": true
+  },
+   {
     "name": "Life, Liberty and the Pursuit of Happiness",
     "collection_id": "col31596",
     "style": "ap-history",
