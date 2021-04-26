@@ -8,15 +8,6 @@
     "uuid": "405335a3-7cff-4df2-a9ad-29062a4af261",
     "tutor_only": true
   },
-   {
-    "name": "College Physics with Courseware",
-    "collection_id": "col12006",
-    "style": "college-physics",
-    "version": "1.8.32",
-    "server": "cnx.org",
-    "uuid": "405335a3-7cff-4df2-a9ad-29062a4af261",
-    "tutor_only": true
-  },
      {
     "name": "Life, Liberty and the Pursuit of Happiness",
     "collection_id": "col31596",
@@ -26,20 +17,11 @@
     "uuid": "36004586-651c-4ded-af87-203aca22d946",
     "tutor_only": true
   },
-   {
-    "name": "Life, Liberty and the Pursuit of Happiness",
-    "collection_id": "col31596",
-    "style": "ap-history",
-    "version": "1.14.1",
-    "server": "cnx.org",
-    "uuid": "36004586-651c-4ded-af87-203aca22d946",
-    "tutor_only": true
-  },
     {
     "name": "Psychologia",
     "collection_id": "col32565",
     "style": "pl-psychology",
-    "version": "1.1.1",
+    "version": "1.1.17",
     "server": "cnx.org",
     "uuid": "728df0bb-e07f-489d-91e3-4734a5932f92",
     "tutor_only": false
@@ -202,24 +184,6 @@
     "collection_id": "col25722",
     "style": "business-ethics",
     "version": "1.5.14",
-    "server": "cnx.org",
-    "uuid": "914ac66e-e1ec-486d-8a9c-97b0f7a99774",
-    "tutor_only": false
-  },
-  {
-    "name": "Business Ethics",
-    "collection_id": "col25722",
-    "style": "business-ethics",
-    "version": "1.5.12",
-    "server": "cnx.org",
-    "uuid": "914ac66e-e1ec-486d-8a9c-97b0f7a99774",
-    "tutor_only": false
-  },
-  {
-    "name": "Business Ethics",
-    "collection_id": "col25722",
-    "style": "business-ethics",
-    "version": "1.5.11",
     "server": "cnx.org",
     "uuid": "914ac66e-e1ec-486d-8a9c-97b0f7a99774",
     "tutor_only": false
@@ -495,15 +459,6 @@
     "tutor_only": false
   },
   {
-    "name": "Elementary Algebra 2e",
-    "collection_id": "col31130",
-    "style": "dev-math",
-    "version": "1.8.5",
-    "server": "cnx.org",
-    "uuid": "55931856-c627-418b-a56f-1dd0007683a8",
-    "tutor_only": false
-  },
-  {
     "name": "Entrepreneurship",
     "collection_id": "col29104",
     "style": "entrepreneurship",
@@ -768,15 +723,6 @@
     "collection_id": "col11667",
     "style": "precalculus",
     "version": "1.36.3",
-    "server": "cnx.org",
-    "uuid": "fd53eae1-fa23-47c7-bb1b-972349835c3c",
-    "tutor_only": false
-  },
-  {
-    "name": "Precalculus",
-    "collection_id": "col11667",
-    "style": "precalculus",
-    "version": "1.34.1",
     "server": "cnx.org",
     "uuid": "fd53eae1-fa23-47c7-bb1b-972349835c3c",
     "tutor_only": false
