@@ -812,23 +812,13 @@
       "min_code_version": "20210224.204120"
     },
     {
-      "collection_id": "col12006",
-      "content_version": "1.8.32",
-      "min_code_version": "20210224.204120"
-    },
-    {
       "collection_id": "col31596",
       "content_version": "1.14.3",
       "min_code_version": "20210224.204120"
     },
     {
-      "collection_id": "col31596",
-      "content_version": "1.14.1",
-      "min_code_version": "20210224.204120"
-    },
-    {
       "collection_id": "col32565",
-      "content_version": "1.1.1",
+      "content_version": "1.1.17",
       "min_code_version": "20210224.204120"
     },
     {
@@ -848,7 +838,7 @@
     },
     {
       "collection_id": "col11758",
-      "content_version": "1.32.2",
+      "content_version": "1.33.3",
       "min_code_version": "20210224.204120"
     },
     {
@@ -919,16 +909,6 @@
     {
       "collection_id": "col25722",
       "content_version": "1.5.14",
-      "min_code_version": "20210224.204120"
-    },
-    {
-      "collection_id": "col25722",
-      "content_version": "1.5.12",
-      "min_code_version": "20210224.204120"
-    },
-    {
-      "collection_id": "col25722",
-      "content_version": "1.5.11",
       "min_code_version": "20210224.204120"
     },
     {
@@ -1082,11 +1062,6 @@
       "min_code_version": "20210224.204120"
     },
     {
-      "collection_id": "col31130",
-      "content_version": "1.8.5",
-      "min_code_version": "20210224.204120"
-    },
-    {
       "collection_id": "col29104",
       "content_version": "1.12.7",
       "min_code_version": "20210224.204120"
@@ -1234,11 +1209,6 @@
     {
       "collection_id": "col11667",
       "content_version": "1.36.3",
-      "min_code_version": "20210224.204120"
-    },
-    {
-      "collection_id": "col11667",
-      "content_version": "1.34.1",
       "min_code_version": "20210224.204120"
     },
     {
