@@ -583,13 +583,14 @@
     "server": "cnx.org",
     "uuid": "02040312-72c8-441e-a685-20e9333f3e1d",
     "tutor_only": false
-  },{
+  },
+  {
     "name": "Introduction to Sociology 3e",
-    "collection_id": "col10018",
+    "collection_id": "col32649",
     "style": "sociology",
-    "version": "1.20.1",
-    "server": "content02.cnx.org",
-    "uuid": "634d7674-0d60-419b-a779-f2b340a7efe0",
+    "version": "1.1.3",
+    "server": "cnx.org",
+    "uuid": "746f171e-0d6a-4ef2-b69d-367880872f4a",
     "tutor_only": true
   },
   {
