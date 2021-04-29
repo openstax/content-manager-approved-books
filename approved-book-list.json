@@ -469,6 +469,18 @@
       ]
     },
     {
+      "collection_id": "col32649",
+      "server": "cnx.org",
+      "style": "sociology",
+      "tutor_only": false,
+      "books": [
+        {
+          "uuid": "746f171e-0d6a-4ef2-b69d-367880872f4a",
+          "slug": "sociology-3e"
+        }
+      ]
+    },
+    {
       "collection_id": "col11776",
       "server": "cnx.org",
       "style": "statistics",
@@ -1133,6 +1145,11 @@
     },
     {
       "collection_id": "col10018",
+      "content_version": "1.20.1",
+      "min_code_version": "20210224.204120"
+    },
+    {
+      "collection_id": "col32649",
       "content_version": "1.20.1",
       "min_code_version": "20210224.204120"
     },
