@@ -1153,6 +1153,11 @@
     },
     {
       "collection_id": "col11562",
+      "content_version": "1.25.23",
+      "min_code_version": "20210224.204120"
+    },
+    {
+      "collection_id": "col11562",
       "content_version": "1.25.18",
       "min_code_version": "20210224.204120"
     },
