@@ -1,5 +1,17 @@
 {
   "approved_books": [
+  {
+      "collection_id": "col33393",
+      "server": "cnx.org",
+      "style": "u-physics",
+      "tutor_only": false,
+      "books": [
+        {
+          "uuid": "175c88b6-f89b-4eba-9514-bc45e2139a1d",
+          "slug": "física-universitaria-volumen-1"
+        }
+      ]
+    },
     {
       "collection_id": "col12006",
       "server": "cnx.org",
@@ -1414,6 +1426,11 @@
     {
       "collection_id": "col12067",
       "content_version": "1.20.1",
+      "min_code_version": "20210224.204120"
+    },
+     {
+      "collection_id": "col33393",
+      "content_version": "1.1.2",
       "min_code_version": "20210224.204120"
     }
   ]
