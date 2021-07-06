@@ -1157,6 +1157,11 @@
       "collection_id": "col11562",
       "content_version": "1.25.23",
       "min_code_version": "20210224.204120"
+    },    
+    {
+      "collection_id": "col12087",
+      "content_version": "1.9.34",
+      "min_code_version": "20210224.204120"
     },
     {
       "collection_id": "col12087",
@@ -1340,12 +1345,22 @@
     },
     {
       "collection_id": "col11740",
+      "content_version": "1.12.24",
+      "min_code_version": "20210224.204120"
+    },
+    {
+      "collection_id": "col11740",
       "content_version": "1.10.21",
       "min_code_version": "20210224.204120"
     },
     {
       "collection_id": "col11740",
       "content_version": "1.10.18",
+      "min_code_version": "20210224.204120"
+    },
+    {
+      "collection_id": "col12031",
+      "content_version": "1.26.1",
       "min_code_version": "20210224.204120"
     },
     {
@@ -1360,12 +1375,22 @@
     },
     {
       "collection_id": "col12074",
+      "content_version": "1.34.2",
+      "min_code_version": "20210224.204120"
+    },
+    {
+      "collection_id": "col12074",
       "content_version": "1.27.1",
       "min_code_version": "20210224.204120"
     },
     {
       "collection_id": "col12074",
       "content_version": "1.24.2",
+      "min_code_version": "20210224.204120"
+    },
+    {
+      "collection_id": "col12067",
+      "content_version": "1.25.8",
       "min_code_version": "20210224.204120"
     },
     {
