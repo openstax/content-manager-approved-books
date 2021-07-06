@@ -120,6 +120,18 @@
         }
       ]
     },
+       {
+      "collection_id": "col33102",
+      "server": "cnx.org",
+      "style": "american-government",
+      "tutor_only": false,
+      "books": [
+        {
+          "uuid": "30e47181-f52c-4a91-9c11-33380c428268",
+          "slug": "american-government-3e"
+        }
+      ]
+    },
     {
       "collection_id": "col11496",
       "server": "cnx.org",
