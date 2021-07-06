@@ -835,6 +835,11 @@
       "content_version": "1.8.46",
       "min_code_version": "20210224.204120"
     },
+        {
+      "collection_id": "col33102",
+      "content_version": "1.2.229",
+      "min_code_version": "20210224.204120"
+    },
     {
       "collection_id": "col31596",
       "content_version": "1.14.3",
