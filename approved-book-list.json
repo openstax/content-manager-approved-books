@@ -488,7 +488,7 @@
       "books": [
         {
           "uuid": "746f171e-0d6a-4ef2-b69d-367880872f4a",
-          "slug": "introduction-to-sociology-3e"
+          "slug": "introduction-sociology-3e"
         }
       ]
     },
@@ -995,6 +995,11 @@
       "content_version": "1.8.8",
       "min_code_version": "20210224.204120"
     },
+            {
+      "collection_id": "col11964",
+      "content_version": "1.25.1",
+      "min_code_version": "20210224.204120"
+    },
         {
       "collection_id": "col11964",
       "content_version": "1.24.1",
@@ -1010,6 +1015,11 @@
       "content_version": "1.22.1",
       "min_code_version": "20210224.204120"
     },
+            {
+      "collection_id": "col11965",
+      "content_version": "1.25.1",
+      "min_code_version": "20210224.204120"
+    },
         {
       "collection_id": "col11965",
       "content_version": "1.24.1",
@@ -1023,6 +1033,11 @@
     {
       "collection_id": "col11965",
       "content_version": "1.15.1",
+      "min_code_version": "20210224.204120"
+    },
+            {
+      "collection_id": "col11966",
+      "content_version": "1.25.1",
       "min_code_version": "20210224.204120"
     },
         {
@@ -1218,6 +1233,11 @@
     {
       "collection_id": "col12119",
       "content_version": "1.14.1",
+      "min_code_version": "20210224.204120"
+    },
+            {
+      "collection_id": "col31234",
+      "content_version": "1.9.5",
       "min_code_version": "20210224.204120"
     },
         {
