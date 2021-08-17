@@ -1292,6 +1292,11 @@
       "content_version": "1.6.21",
       "min_code_version": "20210224.204120"
     },
+        {
+      "collection_id": "col11407",
+      "content_version": "1.18.2",
+      "min_code_version": "20210224.204120"
+    },
     {
       "collection_id": "col11407",
       "content_version": "1.18.1",
