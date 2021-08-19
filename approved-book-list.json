@@ -2,7 +2,7 @@
   "approved_books": [
    {
       "collection_id": "col10280",
-      "server": "cnx.org",
+      "server": "content01.cnx.org",
       "style": "u-physics",
       "tutor_only": false,
       "books": [
@@ -1700,7 +1700,7 @@
     {
       "collection_id": "col10280",
       "content_version": "1.3.5",
-      "min_code_version": "20210224.204120"
+      "min_code_version": "99999999.999999"
     }
   ]
 }
