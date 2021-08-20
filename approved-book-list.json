@@ -56,7 +56,7 @@
       "books": [
         {
           "uuid": "728df0bb-e07f-489d-91e3-4734a5932f92",
-          "slug": "Psychologia"
+          "slug": "psychologia-polska"
         }
       ]
     },
@@ -867,6 +867,11 @@
       "content_version": "1.14.3",
       "min_code_version": "20210224.204120"
     },
+     {
+      "collection_id": "col32565",
+      "content_version": "1.122",
+      "min_code_version": "20210224.204120"
+    },
     {
       "collection_id": "col32565",
       "content_version": "1.1.39",
@@ -874,12 +879,27 @@
     },
     {
       "collection_id": "col23946",
+      "content_version": "5.64",
+      "min_code_version": "20210224.204120"
+    },
+    {
+      "collection_id": "col23946",
       "content_version": "1.4.14",
+      "min_code_version": "20210224.204120"
+    },
+     {
+      "collection_id": "col25244",
+      "content_version": "7.39",
       "min_code_version": "20210224.204120"
     },
     {
       "collection_id": "col25244",
       "content_version": "1.5.1",
+      "min_code_version": "20210224.204120"
+    },
+    {
+      "collection_id": "col25571",
+      "content_version": "8.1",
       "min_code_version": "20210224.204120"
     },
     {
