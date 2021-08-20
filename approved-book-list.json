@@ -1,5 +1,17 @@
 {
   "approved_books": [
+  {
+     "collection_id": "col10246",
+     "server": "content01.cnx.org",
+     "style": "u-physics",
+     "tutor_only": false,
+     "books": [
+       {
+         "uuid": "e6c05fb7-fd07-4c23-8b4e-ece003b63131",
+         "slug": "física-universitaria-volumen-2"
+       }
+     ]
+   },
    {
       "collection_id": "col10280",
       "server": "content01.cnx.org",
