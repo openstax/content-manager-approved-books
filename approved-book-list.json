@@ -1471,6 +1471,11 @@
     },
     {
       "collection_id": "col33393",
+      "content_version": "1.10.1",
+      "min_code_version": "20210224.204120"
+    },
+    {
+      "collection_id": "col33393",
       "content_version": "1.2.1",
       "min_code_version": "20210224.204120"
     },
