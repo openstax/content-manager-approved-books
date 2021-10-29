@@ -865,7 +865,12 @@
     }
   ],
   "approved_versions": [
-    {
+        {
+      "collection_id": "col33393",
+      "content_version": "1.12.2",
+      "min_code_version": "20210823.155019"
+    },
+{
       "collection_id": "col12006",
       "content_version": "1.8.46",
       "min_code_version": "20210224.204120"
