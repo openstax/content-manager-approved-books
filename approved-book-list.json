@@ -1516,11 +1516,6 @@
       "min_code_version": "20210224.204120"
     },
     {
-      "collection_id": "col10246",
-      "content_version": "1.3.2",
-      "min_code_version": "99999999.999999"
-    },
-    {
       "repository_name": "osbooks-writing-guide",
       "content_version": "1",
       "min_code_version": "99999999.999999"
