@@ -80,7 +80,7 @@
           "type": "string",
           "description": "Style to apply to the content"
         },
-        "platform": {
+        "platforms": {
           "type": "array",
           "items": {
             "enum": ["tutor", "rex"]
@@ -101,7 +101,7 @@
       "required": [
         "repository_name",
         "style",
-        "platform",
+        "platforms",
         "versions"
       ],
       "additionalProperties": false
