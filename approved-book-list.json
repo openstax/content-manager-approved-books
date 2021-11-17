@@ -1,15 +1,25 @@
 {
+  "api_version": 2,
   "approved_books": [
     {
       "repository_name": "osbooks-writing-guide",
       "style": "english-composition",
-      "tutor_only": false,
-      "books": [
-        {
-          "uuid": "ee7ce46b-0972-4b2c-bc6e-8998c785cd57",
-          "slug": "writing-guide"
+      "platforms": ["rex"],
+      "versions": [{
+        "repository_name": "osbooks-writing-guide",
+        "min_code_version": "99999999.999999",
+        "edition": 1,
+        "commit_sha": "4ff250a4779bc500660063acb85b7aab7df94396",
+        "commit_metadata": {
+          "committed_at": "2021-10-25T10:47:06+00:00",
+          "books": [
+            {
+              "uuid": "ee7ce46b-0972-4b2c-bc6e-8998c785cd57",
+              "slug": "writing-guide"
+            }
+          ]
         }
-      ]
+      }]
     },
     {
       "collection_id": "col33604",
@@ -1514,11 +1524,6 @@
       "collection_id": "col33393",
       "content_version": "1.1.2",
       "min_code_version": "20210224.204120"
-    },
-    {
-      "repository_name": "osbooks-writing-guide",
-      "content_version": "1",
-      "min_code_version": "99999999.999999"
-  }
+    }
   ]
 }
