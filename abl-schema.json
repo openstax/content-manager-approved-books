@@ -76,10 +76,6 @@
           "type": "string",
           "description": "The git repository name with book content"
         },
-        "style": {
-          "type": "string",
-          "description": "Style to apply to the content"
-        },
         "platforms": {
           "type": "array",
           "items": {
@@ -100,7 +96,6 @@
       },
       "required": [
         "repository_name",
-        "style",
         "platforms",
         "versions"
       ],
@@ -109,10 +104,6 @@
     "git-version": {
       "type": "object",
       "properties": {
-        "repository_name": {
-          "type": "string",
-          "description": "The git repository name with book version content"
-        },
         "min_code_version": {
           "type": "string",
           "pattern": "^\\d{8}[.]\\d{6}$"
@@ -130,7 +121,6 @@
         }
       },
       "required": [
-        "repository_name",
         "min_code_version",
         "edition",
         "commit_sha",
@@ -149,7 +139,7 @@
         "books": {
           "type": "array",
           "items": {
-            "$ref": "#/definitions/book-entry"
+            "$ref": "#/definitions/git-book-entry"
           }
         }
       },
@@ -173,6 +163,30 @@
         }
       },
       "required": [
+        "uuid",
+        "slug"
+      ],
+      "additionalProperties": false
+    },
+    "git-book-entry": {
+      "type": "object",
+      "properties": {
+        "style": {
+          "type": "string",
+          "description": "Style to apply to the content"
+        },
+        "uuid": {
+          "type": "string",
+          "description": "UUID of the book.",
+          "format": "uuid"
+        },
+        "slug": {
+          "type": "string",
+          "description": "Book slug"
+        }
+      },
+      "required": [
+        "style",
         "uuid",
         "slug"
       ],
