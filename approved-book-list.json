@@ -9,9 +9,9 @@
         "repository_name": "osbooks-writing-guide",
         "min_code_version": "1.0",
         "edition": 1,
-        "commit_sha": "4ff250a4779bc500660063acb85b7aab7df94396",
+        "commit_sha": "010623a06784ffec04a2e46910dd8bc7b437da15",
         "commit_metadata": {
-          "committed_at": "2021-10-25T10:47:06+00:00",
+          "committed_at": "2021-12-03T10:47:06+00:00",
           "books": [
             {
               "uuid": "ee7ce46b-0972-4b2c-bc6e-8998c785cd57",
