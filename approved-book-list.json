@@ -3,14 +3,83 @@
   "approved_books": [
     {
       "repository_name": "osbooks-writing-guide",
-      "style": "english-composition",
-      "tutor_only": false,
-      "books": [
-        {
-          "uuid": "ee7ce46b-0972-4b2c-bc6e-8998c785cd57",
-          "slug": "writing-guide"
+      "platforms": ["rex"],
+      "versions": [{
+        "min_code_version": "20211111.15352",
+        "edition": 1,
+        "commit_sha": "c3f7f0a3aca2f342294c1befdaffb6ec93486e2b",
+        "commit_metadata": {
+          "committed_at": "2021-12-02T10:47:06+00:00",
+          "books": [{
+            "style": "english-composition",
+            "uuid": "ee7ce46b-0972-4b2c-bc6e-8998c785cd57",
+            "slug": "writing-guide"
+          }]
         }
-      ]
+      }]
+    },
+    {
+      "repository_name": "osbooks-college-algebra-bundle",
+      "platforms": ["rex"],
+      "versions": [
+        {
+          "min_code_version": "20210224.204120",
+          "edition": 1,
+          "commit_sha": "b32463c3eed4f25be9b91e74c014c57ddc865a3d",
+          "commit_metadata": {
+            "committed_at": "2021-09-21T18:42:06+00:00",
+            "books": [{
+              "style": "precalculus",
+              "uuid": "13ac107a-f15f-49d2-97e8-60ab2e3b519c",
+              "slug": "algebra-and-trigonometry"
+            },
+            {
+              "style": "precalculus",
+              "uuid": "9b08c294-057f-4201-9f48-5d6ad992740d",
+              "slug": "college-algebra"
+            },
+            {
+              "style": "precalculus",
+              "uuid": "fd53eae1-fa23-47c7-bb1b-972349835c3c",
+              "slug": "precalculus"
+            },
+            {
+              "style": "precalculus-coreq",
+              "uuid": "507feb1e-cfff-4b54-bc07-d52636cecfe3",
+              "slug": "college-algebra-corequisite-support"
+            }
+          ]
+          }
+        },
+        {
+        "min_code_version": "20211111.15352",
+        "edition": 2,
+        "commit_sha": "08409b8a2dab4fc143a6b3ba5e032790b5ea876c",
+        "commit_metadata": {
+          "committed_at": "2021-12-03T19:30:06+00:00",
+          "books": [{
+            "style": "precalculus",
+            "uuid": "13ac107a-f15f-49d2-97e8-60ab2e3b519c",
+            "slug": "algebra-and-trigonometry-2e"
+          },
+          {
+            "style": "precalculus",
+            "uuid": "9b08c294-057f-4201-9f48-5d6ad992740d",
+            "slug": "college-algebra-2e"
+          },
+          {
+            "style": "precalculus",
+            "uuid": "fd53eae1-fa23-47c7-bb1b-972349835c3c",
+            "slug": "precalculus-2e"
+          },
+          {
+            "style": "precalculus-coreq",
+            "uuid": "507feb1e-cfff-4b54-bc07-d52636cecfe3",
+            "slug": "college-algebra-corequisite-support-2e"
+          }
+        ]
+        }
+      }]
     },
     {
       "collection_id": "col33604",
@@ -117,18 +186,6 @@
         {
           "uuid": "bb62933e-f20a-4ffc-90aa-97b36c296c3e",
           "slug": "fizyka-dla-szkół-wyższych-tom-3"
-        }
-      ]
-    },
-    {
-      "collection_id": "col11758",
-      "server": "cnx.org",
-      "style": "precalculus",
-      "tutor_only": false,
-      "books": [
-        {
-          "uuid": "13ac107a-f15f-49d2-97e8-60ab2e3b519c",
-          "slug": "algebra-and-trigonometry"
         }
       ]
     },
@@ -333,30 +390,6 @@
         {
           "uuid": "4539ae23-1ccc-421e-9b25-843acbb6c4b0",
           "slug": "chemistry-atoms-first"
-        }
-      ]
-    },
-    {
-      "collection_id": "col11759",
-      "server": "cnx.org",
-      "style": "precalculus",
-      "tutor_only": false,
-      "books": [
-        {
-          "uuid": "9b08c294-057f-4201-9f48-5d6ad992740d",
-          "slug": "college-algebra"
-        }
-      ]
-    },
-    {
-      "collection_id": "col32026",
-      "server": "cnx.org",
-      "style": "precalculus-coreq",
-      "tutor_only": false,
-      "books": [
-        {
-          "uuid": "507feb1e-cfff-4b54-bc07-d52636cecfe3",
-          "slug": "college-algebra-corequisite-support"
         }
       ]
     },
@@ -609,18 +642,6 @@
         {
           "uuid": "f0fa90be-fca8-43c9-9aad-715c0a2cee2b",
           "slug": "prealgebra-2e"
-        }
-      ]
-    },
-    {
-      "collection_id": "col11667",
-      "server": "cnx.org",
-      "style": "precalculus",
-      "tutor_only": false,
-      "books": [
-        {
-          "uuid": "fd53eae1-fa23-47c7-bb1b-972349835c3c",
-          "slug": "precalculus"
         }
       ]
     },
@@ -957,16 +978,6 @@
       "min_code_version": "20210224.204120"
     },
     {
-      "collection_id": "col11758",
-      "content_version": "1.37.4",
-      "min_code_version": "20210224.204120"
-    },
-    {
-      "collection_id": "col11758",
-      "content_version": "1.33.3",
-      "min_code_version": "20210224.204120"
-    },
-    {
       "collection_id": "col11995",
       "content_version": "1.19.1",
       "min_code_version": "20210224.204120"
@@ -1104,26 +1115,6 @@
     {
       "collection_id": "col12012",
       "content_version": "1.10.1",
-      "min_code_version": "20210224.204120"
-    },
-    {
-      "collection_id": "col11759",
-      "content_version": "1.35.3",
-      "min_code_version": "20210224.204120"
-    },
-    {
-      "collection_id": "col11759",
-      "content_version": "1.32.2",
-      "min_code_version": "20210224.204120"
-    },
-    {
-      "collection_id": "col32026",
-      "content_version": "1.13.3",
-      "min_code_version": "20210224.204120"
-    },
-    {
-      "collection_id": "col32026",
-      "content_version": "1.10.2",
       "min_code_version": "20210224.204120"
     },
     {
@@ -1322,16 +1313,6 @@
       "min_code_version": "20210224.204120"
     },
     {
-      "collection_id": "col11667",
-      "content_version": "1.39.1",
-      "min_code_version": "20210224.204120"
-    },
-    {
-      "collection_id": "col11667",
-      "content_version": "1.36.3",
-      "min_code_version": "20210224.204120"
-    },
-    {
       "collection_id": "col25448",
       "content_version": "1.7.16",
       "min_code_version": "20210224.204120"
@@ -1515,11 +1496,6 @@
       "collection_id": "col33393",
       "content_version": "1.1.2",
       "min_code_version": "20210224.204120"
-    },
-    {
-      "repository_name": "osbooks-writing-guide",
-      "content_version": "1",
-      "min_code_version": "99999999.999999"
-  }
+    }
   ]
 }
