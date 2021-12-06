@@ -3,7 +3,7 @@
   "approved_books": [
     {
       "repository_name": "osbooks-writing-guide",
-      "platforms": ["rex"],
+      "platforms": ["REX"],
       "versions": [{
         "min_code_version": "20211111.15352",
         "edition": 1,
@@ -20,7 +20,7 @@
     },
     {
       "repository_name": "osbooks-college-algebra-bundle",
-      "platforms": ["rex"],
+      "platforms": ["REX"],
       "versions": [
         {
           "min_code_version": "20210224.204120",
