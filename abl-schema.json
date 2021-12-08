@@ -79,7 +79,7 @@
         "platforms": {
           "type": "array",
           "items": {
-            "enum": ["tutor", "rex"]
+            "enum": ["TUTOR", "REX"]
           },
           "description": "The platform(s) this book will be on",
           "minItems": 1,
