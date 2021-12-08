@@ -3,7 +3,7 @@
   "type": "object",
   "properties": {
     "api_version": {
-      "type": "number"
+      "const": 2
     },
     "approved_books": {
       "$ref": "#/definitions/approved-books"
