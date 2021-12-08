@@ -2,6 +2,9 @@
   "$schema": "http://json-schema.org/draft-07/schema#",
   "type": "object",
   "properties": {
+    "api_version": {
+      "const": 2
+    },
     "approved_books": {
       "$ref": "#/definitions/approved-books"
     },
@@ -10,6 +13,7 @@
     }
   },
   "required": [
+    "api_version",
     "approved_books",
     "approved_versions"
   ],
@@ -72,18 +76,19 @@
           "type": "string",
           "description": "The git repository name with book content"
         },
-        "style": {
-          "type": "string",
-          "description": "Style to apply to the content"
-        },
-        "tutor_only": {
-          "type": "boolean",
-          "description": "When true the book can be only be found on Tutor and is not available on REX"
-        },
-        "books": {
+        "platforms": {
           "type": "array",
           "items": {
-            "$ref": "#/definitions/book-entry"
+            "enum": ["TUTOR", "REX"]
+          },
+          "description": "The platform(s) this book will be on",
+          "minItems": 1,
+          "uniqueItems": true
+        },
+        "versions": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/git-version"
           },
           "minItems": 1,
           "uniqueItems": true
@@ -91,8 +96,55 @@
       },
       "required": [
         "repository_name",
-        "style",
-        "tutor_only",
+        "platforms",
+        "versions"
+      ],
+      "additionalProperties": false
+    },
+    "git-version": {
+      "type": "object",
+      "properties": {
+        "min_code_version": {
+          "type": "string",
+          "pattern": "^\\d{8}[.]\\d{6}$"
+        },
+        "edition": {
+          "type": "integer",
+          "description": "Human-readable way to tell the edition of a book"
+        },
+        "commit_sha": {
+          "type": "string",
+          "pattern": "^[a-z0-9]{40}$"
+        },
+        "commit_metadata": {
+          "$ref": "#/definitions/commit-metadata"
+        }
+      },
+      "required": [
+        "min_code_version",
+        "edition",
+        "commit_sha",
+        "commit_metadata"
+      ],
+      "additionalProperties": false
+    },
+    "commit-metadata": {
+      "type": "object",
+      "properties": {
+        "committed_at": {
+          "type": "string",
+          "format": "date-time",
+          "description": "Human-readable way to order the books"
+        },
+        "books": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/git-book-entry"
+          }
+        }
+      },
+      "required": [
+        "committed_at",
         "books"
       ],
       "additionalProperties": false
@@ -116,14 +168,34 @@
       ],
       "additionalProperties": false
     },
+    "git-book-entry": {
+      "type": "object",
+      "properties": {
+        "style": {
+          "type": "string",
+          "description": "Style to apply to the content"
+        },
+        "uuid": {
+          "type": "string",
+          "description": "UUID of the book.",
+          "format": "uuid"
+        },
+        "slug": {
+          "type": "string",
+          "description": "Book slug"
+        }
+      },
+      "required": [
+        "style",
+        "uuid",
+        "slug"
+      ],
+      "additionalProperties": false
+    },
     "approved-versions": {
       "type": "array",
       "items": {
-        "oneOf":
-          [
-            { "$ref": "#/definitions/git-version" },
-            { "$ref": "#/definitions/archive-version" }
-          ]
+        "$ref": "#/definitions/archive-version"
       },
       "uniqueItems": true
     },
@@ -147,29 +219,6 @@
       },
       "required": [
         "collection_id",
-        "content_version",
-        "min_code_version"
-      ],
-      "additionalProperties": false
-    },
-    "git-version": {
-      "type": "object",
-      "properties": {
-        "repository_name": {
-          "type": "string",
-          "description": "The git repository name with book content"
-        },
-        "content_version": {
-          "type": "string",
-          "description": "The version of the content to pull from the repository."
-        },
-        "min_code_version": {
-          "type": "string",
-          "description": "The minimum code version required to build."
-        }
-      },
-      "required": [
-        "repository_name",
         "content_version",
         "min_code_version"
       ],
