@@ -7,7 +7,7 @@
       "versions": [{
         "min_code_version": "20211111.15352",
         "edition": 1,
-        "commit_sha": "c3f7f0a3aca2f342294c1befdaffb6ec93486e2b",
+        "commit_sha": "c0c84aef4e1613e1111aaafdfa4e6bd726f480ea",
         "commit_metadata": {
           "committed_at": "2021-12-02T10:47:06+00:00",
           "books": [{
