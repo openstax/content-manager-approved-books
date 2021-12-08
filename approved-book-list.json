@@ -25,7 +25,7 @@
         {
           "min_code_version": "20210224.204120",
           "edition": 1,
-          "commit_sha": "b32463c3eed4f25be9b91e74c014c57ddc865a3d",
+          "commit_sha": "ebc5beb15766e5a72d4d5085c1d470ae868007fb",
           "commit_metadata": {
             "committed_at": "2021-09-21T18:42:06+00:00",
             "books": [{
