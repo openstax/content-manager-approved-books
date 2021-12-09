@@ -2,6 +2,93 @@
   "api_version": 2,
   "approved_books": [
     {
+      "repository_name": "osbooks-writing-guide",
+      "platforms": ["REX"],
+      "versions": [
+        {
+          "min_code_version": "20211111.153520",
+          "edition": 1,
+          "commit_sha": "833cc3c75629e1a80585729b054e8cca51f6abe4",
+          "commit_metadata": {
+            "committed_at": "2021-12-02T10:47:06+00:00",
+            "books": [
+              {
+                "style": "english-composition",
+                "uuid": "ee7ce46b-0972-4b2c-bc6e-8998c785cd57",
+                "slug": "writing-guide"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "repository_name": "osbooks-college-algebra-bundle",
+      "platforms": ["REX"],
+      "versions": [
+        {
+          "min_code_version": "20210224.204120",
+          "edition": 1,
+          "commit_sha": "ebc5beb15766e5a72d4d5085c1d470ae868007fb",
+          "commit_metadata": {
+            "committed_at": "2021-09-21T18:42:06+00:00",
+            "books": [
+              {
+                "style": "precalculus",
+                "uuid": "13ac107a-f15f-49d2-97e8-60ab2e3b519c",
+                "slug": "algebra-and-trigonometry"
+              },
+              {
+                "style": "precalculus",
+                "uuid": "9b08c294-057f-4201-9f48-5d6ad992740d",
+                "slug": "college-algebra"
+              },
+              {
+                "style": "precalculus",
+                "uuid": "fd53eae1-fa23-47c7-bb1b-972349835c3c",
+                "slug": "precalculus"
+              },
+              {
+                "style": "precalculus-coreq",
+                "uuid": "507feb1e-cfff-4b54-bc07-d52636cecfe3",
+                "slug": "college-algebra-corequisite-support"
+              }
+            ]
+          }
+        },
+        {
+          "min_code_version": "20211111.153520",
+          "edition": 2,
+          "commit_sha": "fcfa851a18fc910ebd112990270877df9de31cb7",
+          "commit_metadata": {
+            "committed_at": "2021-12-06T15:03:16+00:00",
+            "books": [
+              {
+                "style": "precalculus",
+                "uuid": "13ac107a-f15f-49d2-97e8-60ab2e3b519c",
+                "slug": "algebra-and-trigonometry-2e"
+              },
+              {
+                "style": "precalculus",
+                "uuid": "9b08c294-057f-4201-9f48-5d6ad992740d",
+                "slug": "college-algebra-2e"
+              },
+              {
+                "style": "precalculus",
+                "uuid": "fd53eae1-fa23-47c7-bb1b-972349835c3c",
+                "slug": "precalculus-2e"
+              },
+              {
+                "style": "precalculus-coreq",
+                "uuid": "507feb1e-cfff-4b54-bc07-d52636cecfe3",
+                "slug": "college-algebra-corequisite-support-2e"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
       "collection_id": "col33604",
       "server": "cnx.org",
       "style": "u-physics",
