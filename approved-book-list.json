@@ -59,28 +59,28 @@
         {
           "min_code_version": "20211111.153520",
           "edition": 2,
-          "commit_sha": "fcfa851a18fc910ebd112990270877df9de31cb7",
+          "commit_sha": "5c7968acfe188edaddb37385d3fa6519390fa653",
           "commit_metadata": {
-            "committed_at": "2021-12-06T15:03:16+00:00",
+            "committed_at": "2021-12-09T16:55:16+00:00",
             "books": [
               {
                 "style": "precalculus",
-                "uuid": "13ac107a-f15f-49d2-97e8-60ab2e3b519c",
+                "uuid": "eaefdaf1-bda0-4ada-a9fe-f1c065bfcc4e",
                 "slug": "algebra-and-trigonometry-2e"
               },
               {
                 "style": "precalculus",
-                "uuid": "9b08c294-057f-4201-9f48-5d6ad992740d",
+                "uuid": "35d7cce2-48dd-4403-b6a5-e828cb5a17da",
                 "slug": "college-algebra-2e"
               },
               {
                 "style": "precalculus",
-                "uuid": "fd53eae1-fa23-47c7-bb1b-972349835c3c",
+                "uuid": "59024a63-2b1a-4631-94c5-ae275a77b587",
                 "slug": "precalculus-2e"
               },
               {
                 "style": "precalculus-coreq",
-                "uuid": "507feb1e-cfff-4b54-bc07-d52636cecfe3",
+                "uuid": "f021395f-fd63-46cd-ab95-037c6f051730",
                 "slug": "college-algebra-corequisite-support-2e"
               }
             ]
