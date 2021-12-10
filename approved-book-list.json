@@ -984,6 +984,11 @@
     },
     {
       "collection_id": "col31596",
+      "content_version": "1.14.5",
+      "min_code_version": "20210224.204120"
+    },
+    {
+      "collection_id": "col31596",
       "content_version": "1.14.3",
       "min_code_version": "20210224.204120"
     },
@@ -1370,6 +1375,11 @@
     {
       "collection_id": "col29124",
       "content_version": "1.9.8",
+      "min_code_version": "20210224.204120"
+    },
+    {
+      "collection_id": "col12081",
+      "content_version": "1.14.43",
       "min_code_version": "20210224.204120"
     },
     {
