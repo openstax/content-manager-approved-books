@@ -944,6 +944,11 @@
   "approved_versions": [
     {
       "collection_id": "col33604",
+      "content_version": "1.4.10",
+      "min_code_version": "20210823.155019"
+    },
+    {
+      "collection_id": "col33604",
       "content_version": "1.4.1",
       "min_code_version": "20210823.155019"
     },
