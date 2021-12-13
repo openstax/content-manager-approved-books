@@ -59,9 +59,9 @@
         {
           "min_code_version": "20211111.153520",
           "edition": 2,
-          "commit_sha": "03c2aa8b51c2b5c7b332ecc822b02ee1c0621664",
+          "commit_sha": "970d21eebca11e2838056df5827563f9e0762f5b",
           "commit_metadata": {
-            "committed_at": "2021-12-13T15:45:16+00:00",
+            "committed_at": "2021-12-13T14:45:16+00:00",
             "books": [
               {
                 "style": "precalculus",
