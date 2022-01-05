@@ -141,11 +141,16 @@
           "items": {
             "$ref": "#/definitions/git-book-entry"
           }
+        },
+        "schema_version": {
+          "description": "Describes the repo structure and migrations to use",
+          "enum": [1, 2, 3]
         }
       },
       "required": [
         "committed_at",
-        "books"
+        "books",
+        "schema_version"
       ],
       "additionalProperties": false
     },
