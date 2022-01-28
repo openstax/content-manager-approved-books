@@ -2,6 +2,32 @@
   "api_version": 2,
   "approved_books": [
     {
+      "repository_name": "osbooks-introductory-statistics-bundle",
+      "platforms": ["REX"],
+      "versions": [
+        {
+          "min_code_version": "20210224.204120",
+          "edition": 1,
+          "commit_sha": "b2d6c72e96a6d78d713935e8876ed2015782f202",
+          "commit_metadata": {
+            "committed_at": "2022-01-27T17:32:00+00:00",
+            "books": [
+              {
+                "style": "statistics",
+                "uuid": "30189442-6998-4686-ac05-ed152b91b9de",
+                "slug": "introductory-statistics"
+              },
+              {
+                "style": "statistics",
+                "uuid": "b56bb9e9-5eb8-48ef-9939-88b1b12ce22f",
+                "slug": "introductory-business-statistics"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
       "repository_name": "osbooks-principles-accounting-bundle",
       "platforms": ["REX"],
       "versions": [
@@ -662,30 +688,6 @@
         {
           "uuid": "746f171e-0d6a-4ef2-b69d-367880872f4a",
           "slug": "introduction-sociology-3e"
-        }
-      ]
-    },
-    {
-      "collection_id": "col11776",
-      "server": "cnx.org",
-      "style": "statistics",
-      "tutor_only": false,
-      "books": [
-        {
-          "uuid": "b56bb9e9-5eb8-48ef-9939-88b1b12ce22f",
-          "slug": "introductory-business-statistics"
-        }
-      ]
-    },
-    {
-      "collection_id": "col11562",
-      "server": "cnx.org",
-      "style": "statistics",
-      "tutor_only": false,
-      "books": [
-        {
-          "uuid": "30189442-6998-4686-ac05-ed152b91b9de",
-          "slug": "introductory-statistics"
         }
       ]
     },
@@ -1357,26 +1359,6 @@
     {
       "collection_id": "col32649",
       "content_version": "1.3.19",
-      "min_code_version": "20210224.204120"
-    },
-    {
-      "collection_id": "col11776",
-      "content_version": "1.38.28",
-      "min_code_version": "20210224.204120"
-    },
-    {
-      "collection_id": "col11776",
-      "content_version": "1.38.24",
-      "min_code_version": "20210224.204120"
-    },
-    {
-      "collection_id": "col11562",
-      "content_version": "1.25.24",
-      "min_code_version": "20210224.204120"
-    },
-    {
-      "collection_id": "col11562",
-      "content_version": "1.25.23",
       "min_code_version": "20210224.204120"
     },
     {
