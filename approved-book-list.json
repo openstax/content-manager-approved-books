@@ -2,6 +2,32 @@
   "api_version": 2,
   "approved_books": [
     {
+      "repository_name": "osbooks-principles-accounting-bundle",
+      "platforms": ["REX"],
+      "versions": [
+        {
+          "min_code_version": "20210224.204120",
+          "edition": 1,
+          "commit_sha": "b9d51183f034108cec6dc5f613e64bdcf2563328",
+          "commit_metadata": {
+            "committed_at": "2022-01-27T17:32:00+00:00",
+            "books": [
+              {
+                "style": "accounting",
+                "uuid": "9ab4ba6d-1e48-486d-a2de-38ae1617ca84",
+                "slug": "principles-financial-accounting"
+              },
+              {
+                "style": "accounting",
+                "uuid": "920d1c8a-606c-4888-bfd4-d1ee27ce1795",
+                "slug": "principles-managerial-accounting"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
       "repository_name": "osbooks-introduction-business",
       "platforms": ["REX"],
       "versions": [
@@ -736,30 +762,6 @@
       ]
     },
     {
-      "collection_id": "col25448",
-      "server": "cnx.org",
-      "style": "accounting",
-      "tutor_only": false,
-      "books": [
-        {
-          "uuid": "9ab4ba6d-1e48-486d-a2de-38ae1617ca84",
-          "slug": "principles-financial-accounting"
-        }
-      ]
-    },
-    {
-      "collection_id": "col25479",
-      "server": "cnx.org",
-      "style": "accounting",
-      "tutor_only": false,
-      "books": [
-        {
-          "uuid": "920d1c8a-606c-4888-bfd4-d1ee27ce1795",
-          "slug": "principles-managerial-accounting"
-        }
-      ]
-    },
-    {
       "collection_id": "col11613",
       "server": "cnx.org",
       "style": "economics",
@@ -1425,26 +1427,6 @@
     {
       "collection_id": "col11667",
       "content_version": "1.36.3",
-      "min_code_version": "20210224.204120"
-    },
-    {
-      "collection_id": "col25448",
-      "content_version": "1.7.16",
-      "min_code_version": "20210224.204120"
-    },
-    {
-      "collection_id": "col25448",
-      "content_version": "1.7.8",
-      "min_code_version": "20210224.204120"
-    },
-    {
-      "collection_id": "col25479",
-      "content_version": "1.18.15",
-      "min_code_version": "20210224.204120"
-    },
-    {
-      "collection_id": "col25479",
-      "content_version": "1.18.1",
       "min_code_version": "20210224.204120"
     },
     {
