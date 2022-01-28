@@ -2,6 +2,27 @@
   "api_version": 2,
   "approved_books": [
     {
+      "repository_name": "osbooks-introduction-business",
+      "platforms": ["REX"],
+      "versions": [
+        {
+          "min_code_version": "20210224.204120",
+          "edition": 1,
+          "commit_sha": "5876a1f64f7090fafb6f6db01ccf5e589de2df73",
+          "commit_metadata": {
+            "committed_at": "2022-01-27T17:32:00+00:00",
+            "books": [
+              {
+                "style": "intro-business",
+                "uuid": "4e09771f-a8aa-40ce-9063-aa58cc24e77f",
+                "slug": "introduction-business"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
       "repository_name": "osbooks-introduccion-estadistica-bundle",
       "platforms": ["REX"],
       "versions": [
@@ -567,18 +588,6 @@
         {
           "uuid": "4664c267-cd62-4a99-8b28-1cb9b3aee347",
           "slug": "intermediate-algebra-2e"
-        }
-      ]
-    },
-    {
-      "collection_id": "col25734",
-      "server": "cnx.org",
-      "style": "intro-business",
-      "tutor_only": false,
-      "books": [
-        {
-          "uuid": "4e09771f-a8aa-40ce-9063-aa58cc24e77f",
-          "slug": "introduction-business"
         }
       ]
     },
@@ -1311,16 +1320,6 @@
     {
       "collection_id": "col31234",
       "content_version": "1.7.2",
-      "min_code_version": "20210224.204120"
-    },
-    {
-      "collection_id": "col25734",
-      "content_version": "1.11.6",
-      "min_code_version": "20210224.204120"
-    },
-    {
-      "collection_id": "col25734",
-      "content_version": "1.9.8",
       "min_code_version": "20210224.204120"
     },
     {
