@@ -2,6 +2,32 @@
   "api_version": 2,
   "approved_books": [
     {
+      "repository_name": "osbooks-principles-of-management-bundle",
+      "platforms": ["REX"],
+      "versions": [
+        {
+          "min_code_version": "20210224.204120",
+          "edition": 1,
+          "commit_sha": "e938aee576d7e29b89977b5596b904f6d8ea7e35",
+          "commit_metadata": {
+            "committed_at": "2022-01-06T17:32:00+00:00",
+            "books": [
+              {
+                "style": "principles-management",
+                "uuid": "c3acb2ab-7d5c-45ad-b3cd-e59673fedd4e",
+                "slug": "principles-management"
+              },
+              {
+                "style": "principles-management",
+                "uuid": "2d941ab9-ac5b-4eb8-b21c-965d36a4f296",
+                "slug": "organizational-behavior"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
       "repository_name": "osbooks-principles-economics-bundle",
       "platforms": ["REX"],
       "versions": [
@@ -801,18 +827,6 @@
       ]
     },
     {
-      "collection_id": "col29124",
-      "server": "cnx.org",
-      "style": "principles-management",
-      "tutor_only": false,
-      "books": [
-        {
-          "uuid": "2d941ab9-ac5b-4eb8-b21c-965d36a4f296",
-          "slug": "organizational-behavior"
-        }
-      ]
-    },
-    {
       "collection_id": "col12081",
       "server": "cnx.org",
       "style": "hs-physics",
@@ -857,18 +871,6 @@
         {
           "uuid": "fd53eae1-fa23-47c7-bb1b-972349835c3c",
           "slug": "precalculus"
-        }
-      ]
-    },
-        {
-      "collection_id": "col28330",
-      "server": "cnx.org",
-      "style": "principles-management",
-      "tutor_only": false,
-      "books": [
-        {
-          "uuid": "c3acb2ab-7d5c-45ad-b3cd-e59673fedd4e",
-          "slug": "principles-management"
         }
       ]
     },
@@ -1337,16 +1339,6 @@
       "min_code_version": "20210224.204120"
     },
     {
-      "collection_id": "col29124",
-      "content_version": "1.12.3",
-      "min_code_version": "20210224.204120"
-    },
-    {
-      "collection_id": "col29124",
-      "content_version": "1.9.8",
-      "min_code_version": "20210224.204120"
-    },
-    {
       "collection_id": "col12081",
       "content_version": "1.14.43",
       "min_code_version": "20210224.204120"
@@ -1374,16 +1366,6 @@
     {
       "collection_id": "col11667",
       "content_version": "1.36.3",
-      "min_code_version": "20210224.204120"
-    },
-    {
-      "collection_id": "col28330",
-      "content_version": "1.14.4",
-      "min_code_version": "20210224.204120"
-    },
-    {
-      "collection_id": "col28330",
-      "content_version": "1.12.8",
       "min_code_version": "20210224.204120"
     },
     {
