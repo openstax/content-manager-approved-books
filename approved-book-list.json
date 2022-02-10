@@ -842,18 +842,6 @@
       ]
     },
     {
-      "collection_id": "col11758",
-      "server": "cnx.org",
-      "style": "precalculus",
-      "tutor_only": false,
-      "books": [
-        {
-          "uuid": "13ac107a-f15f-49d2-97e8-60ab2e3b519c",
-          "slug": "algebra-and-trigonometry"
-        }
-      ]
-    },
-    {
       "collection_id": "col11995",
       "server": "cnx.org",
       "style": "american-government",
@@ -1056,16 +1044,6 @@
     {
       "collection_id": "col25571",
       "content_version": "1.6.23",
-      "min_code_version": "20210224.204120"
-    },
-    {
-      "collection_id": "col11758",
-      "content_version": "1.37.4",
-      "min_code_version": "20210224.204120"
-    },
-    {
-      "collection_id": "col11758",
-      "content_version": "1.33.3",
       "min_code_version": "20210224.204120"
     },
     {
