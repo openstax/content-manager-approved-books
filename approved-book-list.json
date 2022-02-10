@@ -1,7 +1,7 @@
 {
   "api_version": 2,
   "approved_books": [
-        {
+    {
       "repository_name": "osbooks-introduction-anthropology",
       "platforms": ["REX"],
       "versions": [
@@ -19,7 +19,9 @@
               }
             ]
           }
-        },
+        }
+      ]
+    },    
     {
       "repository_name": "osbooks-introduction-sociology",
       "platforms": ["REX"],
