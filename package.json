@@ -5,7 +5,7 @@
     "test": "ava -v --fail-fast --serial test.js"
   },
   "devDependencies": {
-    "ajv": "^6.12.2",
+    "ajv": "^6.12.3",
     "ava": "^3.7.1"
   }
 }
