@@ -214,7 +214,7 @@
         {
           "min_code_version": "20210224.204120",
           "edition": 2,
-          "commit_sha": "fd8ed22059c208381fac1f05254ec9a12eb5dc17",
+          "commit_sha": "97c23b751b406aaa913a66af931176a54b19d65a",
           "commit_metadata": {
             "committed_at": "2022-01-28T17:32:00+00:00",
             "books": [
@@ -329,7 +329,7 @@
         {
           "min_code_version": "20210224.204120",
           "edition": 1,
-          "commit_sha": "1d384dba17a058e96fb2d8b6954b73034677d2ae",
+          "commit_sha": "741a7af5c0fed04213fb7cde687675570cc896d1",
           "commit_metadata": {
             "committed_at": "2022-02-09T17:32:00+00:00",
             "books": [
