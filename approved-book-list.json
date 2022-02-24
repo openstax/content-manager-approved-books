@@ -298,6 +298,21 @@
               }
             ]
           }
+        },
+        {
+          "min_code_version": "20210224.204120",
+          "edition": 2,
+          "commit_sha": "a4a17feb4c91bd51729052dfef503d5b3b381975",
+          "commit_metadata": {
+            "committed_at": "2022-02-22T17:32:00+00:00",
+            "books": [
+              {
+                "style": "astronomy",
+                "uuid": "4c29f9e5-a53d-42c0-bdb5-091990527d79",
+                "slug": "astronomy-2e"
+              }
+            ]
+          }
         }
       ]
     },
