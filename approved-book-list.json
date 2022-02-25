@@ -421,14 +421,29 @@
         {
           "min_code_version": "20210224.204120",
           "edition": 1,
-          "commit_sha": "1dcaf5f3e629f6da1c18793f310af3c488affde4",
+          "commit_sha": "e989ec347d89ce8acc03487d801ff4851325fe53",
           "commit_metadata": {
-            "committed_at": "2022-02-09T17:32:00+00:00",
+            "committed_at": "2022-02-14T17:32:00+00:00",
             "books": [
               {
                 "style": "biology",
                 "uuid": "185cbf87-c72e-48f5-b51e-f14f21b5eabd",
                 "slug": "biology"
+              }
+            ]
+          }
+        },
+        {
+          "min_code_version": "20210224.204120",
+          "edition": 2,
+          "commit_sha": "4ebcf8e5e2404d910bbd36e3780bf9ecda042d53",
+          "commit_metadata": {
+            "committed_at": "2022-02-22T17:32:00+00:00",
+            "books": [
+              {
+                "style": "biology",
+                "uuid": "8d50a0af-948b-4204-a71d-4826cba765b8",
+                "slug": "biology-2e"
               },
               {
                 "style": "biology",
@@ -439,21 +454,6 @@
                 "style": "ap-biology",
                 "uuid": "6c322e32-9fb0-4c4d-a1d7-20c95c5c7af2",
                 "slug": "biology-ap-courses"
-              }
-            ]
-          }
-        },
-        {
-          "min_code_version": "20210224.204120",
-          "edition": 2,
-          "commit_sha": "879b754391e22a89361f0c4c0e65760a69c490f9",
-          "commit_metadata": {
-            "committed_at": "2022-02-09T17:32:00+00:00",
-            "books": [
-              {
-                "style": "biology",
-                "uuid": "8d50a0af-948b-4204-a71d-4826cba765b8",
-                "slug": "biology-2e"
               }
             ]
           }
