@@ -2,6 +2,37 @@
   "api_version": 2,
   "approved_books": [
     {
+      "repository_name": "osbooks-calculo-bundle",
+      "platforms": ["REX"],
+      "versions": [
+        {
+          "min_code_version": "20220228.174637",
+          "edition": 1,
+          "commit_sha": "da492e7d1d0cab75aeca41f08b5c88fd2132a5f9",
+          "commit_metadata": {
+            "committed_at": "2022-03-02T20:06:00+00:00",
+            "books": [
+              {
+                "style": "calculus",
+                "uuid": "8635f0be-e734-4cd1-a10e-8063e5b863b6",
+                "slug": "cálculo-volumen-1"
+              },
+              {
+                "style": "calculus",
+                "uuid": "8079f22f-c0a0-43ed-bb35-871d8d9743f3",
+                "slug": "cálculo-volumen-2"
+              },
+              {
+                "style": "calculus",
+                "uuid": "21b1d0df-a716-4205-8e86-0d0787b2c991",
+                "slug": "cálculo-volumen-3"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
       "repository_name": "osbooks-introduction-anthropology",
       "platforms": ["REX"],
       "versions": [
