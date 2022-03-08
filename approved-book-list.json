@@ -969,7 +969,7 @@
     },
     {
       "repository_name": "osbooks-life-liberty-and-pursuit-happiness",
-      "platforms": ["Tutor"],
+      "platforms": ["TUTOR"],
       "versions": [
         {
           "min_code_version": "20210224.204120",
