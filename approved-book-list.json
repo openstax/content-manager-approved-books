@@ -1,6 +1,27 @@
 {
   "api_version": 2,
   "approved_books": [
+        {
+      "repository_name": "osbooks-principles-finance",
+      "platforms": ["REX"],
+      "versions": [
+        {
+          "min_code_version": "20220228.174637",
+          "edition": 1,
+          "commit_sha": "e47ac5640a3007735a87ea142dbb2559499cb87a",
+          "commit_metadata": {
+            "committed_at": "2022-03-11T16:21:00+00:00",
+            "books": [
+              {
+                "style": "finance",
+                "uuid": "052b8372-0c5e-4ff6-8fd3-326377e9e91f",
+                "slug": "principles-finance"
+              }
+            ]
+          }
+        }
+      ]
+    }, 
     {
       "repository_name": "osbooks-fisica-universitaria-bundle",
       "platforms": ["REX"],
