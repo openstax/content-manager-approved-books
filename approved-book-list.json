@@ -799,6 +799,26 @@
               }
             ]
           }
+        },
+        {
+          "min_code_version": "20210224.204120",
+          "edition": 1,
+          "commit_sha": "87b8a3a36755d20de62a4122d5d267b3fec48a3f",
+          "commit_metadata": {
+            "committed_at": "2022-03-17T17:32:00+00:00",
+            "books": [
+              {
+                "style": "accounting",
+                "uuid": "9ab4ba6d-1e48-486d-a2de-38ae1617ca84",
+                "slug": "principles-financial-accounting"
+              },
+              {
+                "style": "accounting",
+                "uuid": "920d1c8a-606c-4888-bfd4-d1ee27ce1795",
+                "slug": "principles-managerial-accounting"
+              }
+            ]
+          }
         }
       ]
     },
