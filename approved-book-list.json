@@ -235,6 +235,18 @@
                 "uuid": "746f171e-0d6a-4ef2-b69d-367880872f4a",
                 "slug": "introduction-sociology-3e"
               }
+              {
+          "min_code_version": "20210224.204120",
+          "edition": 3,
+          "commit_sha": "433bfcd11e4294a704a871c1ffdb29d0ed6c8d41",
+          "commit_metadata": {
+            "committed_at": "2022-03-23T16:51:00+00:00",
+            "books": [
+              {
+                "style": "sociology",
+                "uuid": "746f171e-0d6a-4ef2-b69d-367880872f4a",
+                "slug": "introduction-sociology-3e"
+              }
             ]
           }
         }
