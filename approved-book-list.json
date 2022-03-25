@@ -658,6 +658,18 @@
                 "uuid": "14fb4ad7-39a1-4eee-ab6e-3ef2482e3e22",
                 "slug": "anatomy-and-physiology"
               }
+        {
+          "min_code_version": "20210224.204120",
+          "edition": 2,
+          "commit_sha": "e15ae75a052fcc96eae6857aec091e8734d092ba",
+          "commit_metadata": {
+            "committed_at": "2022-03-24T17:11:00+00:00",
+            "books": [
+              {
+                "style": "anatomy",
+                "uuid": "4fd99458-6fdf-49bc-8688-a6dc17a1268d",
+                "slug": "anatomy-and-physiology-2e"
+              }
             ]
           }
         }
