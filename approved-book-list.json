@@ -1140,7 +1140,7 @@
         "platforms": ["REX"],
         "versions": [
           {
-            "min_code_version": "20210224.204120",
+            "min_code_version": "20220411.192702",
             "edition": 1,
             "commit_sha": "1aa3e7a901c0f0ddc37d34f890055d61a7476946",
             "commit_metadata": {
