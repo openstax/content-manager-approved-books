@@ -540,7 +540,8 @@
                   "slug": "physics"
                 }
               ]
-            },
+            }
+          },
               {
             "min_code_version": "20210224.204120",
             "edition": 1,
