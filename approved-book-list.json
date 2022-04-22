@@ -540,6 +540,20 @@
                   "slug": "physics"
                 }
               ]
+            },
+              {
+            "min_code_version": "20210224.204120",
+            "edition": 1,
+            "commit_sha": "c590ceb06f211fe11e604f8c647c2e37b03b8681",
+            "commit_metadata": {
+              "committed_at": "2022-04-22T18:17:00+00:00",
+              "books": [
+                {
+                  "style": "hs-physics",
+                  "uuid": "cce64fde-f448-43b8-ae88-27705cceb0da",
+                  "slug": "physics"
+                }
+              ]
             }
           }
         ]
