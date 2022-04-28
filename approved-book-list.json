@@ -1,7 +1,28 @@
 {
     "api_version": 2,
     "approved_books": [
+        {
+        "repository_name": "osbooks-precalculo",
+        "platforms": ["REX"],
+        "versions": [
           {
+            "min_code_version": "20220422.171947",
+            "edition": 1,
+            "commit_sha": "ea84f53d5640cd35e385dacca670e494017e9ee0",
+            "commit_metadata": {
+              "committed_at": "2022-04-27T19:08:00+00:00",
+              "books": [
+                {
+                  "style": "precalculus",
+                  "uuid": "52f5163f-a7e1-4545-b0fa-8001df262ca9",
+                  "slug": "precálculo-2ed"
+                }
+              ]
+            }
+          }
+        ]
+      },   
+        {
         "repository_name": "osbooks-principles-finance",
         "platforms": ["REX"],
         "versions": [
