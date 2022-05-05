@@ -2,6 +2,27 @@
     "api_version": 2,
     "approved_books": [
         {
+        "repository_name": "osbooks-introduction-political-science",
+        "platforms": ["REX"],
+        "versions": [
+          {
+            "min_code_version": "20220422.171947",
+            "edition": 1,
+            "commit_sha": "05dcbabc1264952909138b43c72328406c7cf19c",
+            "commit_metadata": {
+              "committed_at": "2022-05-04T05:17:00+00:00",
+              "books": [
+                {
+                  "style": "political-science",
+                  "uuid": "89060098-2918-4037-8ebe-d90622d7a6bf",
+                  "slug": "introduction-political-science"
+                }
+              ]
+            }
+          }
+        ]
+      },
+        {
         "repository_name": "osbooks-precalculo",
         "platforms": ["REX"],
         "versions": [
@@ -21,7 +42,7 @@
             }
           }
         ]
-      },   
+        },   
         {
         "repository_name": "osbooks-principles-finance",
         "platforms": ["REX"],
