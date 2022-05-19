@@ -22,7 +22,7 @@
           }
         ]
       },
-              {
+        {
         "repository_name": "osbooks-quimica-bundle",
         "platforms": ["REX"],
         "versions": [
@@ -45,7 +45,9 @@
                 }
               ]
             }
-          },
+          }
+        ]
+      },
         {
         "repository_name": "osbooks-precalculo",
         "platforms": ["REX"],
