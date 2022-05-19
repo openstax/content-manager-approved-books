@@ -22,6 +22,30 @@
           }
         ]
       },
+              {
+        "repository_name": "osbooks-quimica-bundle",
+        "platforms": ["REX"],
+        "versions": [
+          {
+            "min_code_version": "20220509.174553",
+            "edition": 2,
+            "commit_sha": "9b2eeca1398bf089ba8ba9d42fbf5d0b0b672d0a",
+            "commit_metadata": {
+              "committed_at": "2022-05-19T14:26:00+00:00",
+              "books": [
+                {
+                  "style": "chemistry",
+                  "uuid": "462aa3f1-d65d-4cd9-a5ee-3214f95769b8",
+                  "slug": "química-2ed"
+                },
+                {
+                  "style": "chemistry",
+                  "uuid": "9702782f-fd50-4310-92ac-d29d39065419",
+                  "slug": "química-comenzando-átomos-2ed"
+                }
+              ]
+            }
+          },
         {
         "repository_name": "osbooks-precalculo",
         "platforms": ["REX"],
