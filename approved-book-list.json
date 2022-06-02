@@ -1,6 +1,27 @@
 {
     "api_version": 2,
     "approved_books": [
+            {
+        "repository_name": "osbooks-introduction-philosophy",
+        "platforms": ["REX"],
+        "versions": [
+          {
+            "min_code_version": "20220509.174553",
+            "edition": 1,
+            "commit_sha": "ec61644ed9622f84bbfc739bc0c99d1d1a105aac",
+            "commit_metadata": {
+              "committed_at": "2022-06-02T20:21:00+00:00",
+              "books": [
+                {
+                  "style": "philosophy",
+                  "uuid": "fe58be6f-3b61-4e16-b3b6-db6924f0b2f2",
+                  "slug": "introduction-philosophy"
+                }
+              ]
+            }
+          }
+        ]
+      }, 
         {
         "repository_name": "osbooks-introduction-political-science",
         "platforms": ["REX"],
