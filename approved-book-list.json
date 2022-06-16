@@ -405,6 +405,23 @@
           }
         ]
       },
+        {
+            "min_code_version": "20220509.174553",
+            "edition": 2,
+            "commit_sha": "bdfd9abe16fe3242e9afdf3963fb77916ac2f5ec",
+            "commit_metadata": {
+              "committed_at": "2022-05-20T20:57:00+00:00",
+              "books": [
+                {
+                  "style": "psychology",
+                  "uuid": "06aba565-9432-40f6-97ee-b8a361f118a8",
+                  "slug": "psychology-2e"
+                }
+              ]
+            }
+          }
+        ]
+      },
       {
         "repository_name": "osbooks-us-history",
         "platforms": ["REX"],
@@ -678,6 +695,28 @@
             "commit_sha": "474e3ea37463145a063eeaf4aaadd8abf38d540e",
             "commit_metadata": {
               "committed_at": "2022-02-07T17:32:00+00:00",
+              "books": [
+                {
+                  "style": "chemistry",
+                  "uuid": "7fccc9cf-9b71-44f6-800b-f9457fd64335",
+                  "slug": "chemistry-2e"
+                },
+                {
+                  "style": "chemistry",
+                  "uuid": "d9b85ee6-c57f-4861-8208-5ddf261e9c5f",
+                  "slug": "chemistry-atoms-first-2e"
+                }
+              ]
+            }
+          }
+        ]
+      },
+{
+            "min_code_version": "20220509.174553",
+            "edition": 2,
+            "commit_sha": "aa7927d51c4af4adbca2cc19a9ea8d51655e4b19",
+            "commit_metadata": {
+              "committed_at": "2022-06-02T01:32:00+00:00",
               "books": [
                 {
                   "style": "chemistry",
