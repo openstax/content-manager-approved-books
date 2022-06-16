@@ -706,10 +706,8 @@
                 }
               ]
             }
-          }
-        ]
-      },
-{
+          },
+            {
             "min_code_version": "20220509.174553",
             "edition": 2,
             "commit_sha": "aa7927d51c4af4adbca2cc19a9ea8d51655e4b19",
