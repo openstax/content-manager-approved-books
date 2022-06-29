@@ -1,6 +1,39 @@
 {
     "api_version": 2,
     "approved_books": [
+        {
+  "repository_name": "osbooks-otto-book",
+  "platforms": [
+    "REX"
+  ],
+  "versions": [
+    {
+      "min_code_version": "20220509.174553",
+      "edition": 1,
+      "commit_sha": "5c6fc96e6a0c387089ec68c913b56f85504e4bd8",
+      "commit_metadata": {
+        "committed_at": "2022-06-29T17:19:22+00:00",
+        "books": [
+          {
+            "slug": "ottó-book",
+            "style": "business-ethics",
+            "uuid": "4abf0fff-9300-4554-9cb9-2cefd46ecccc"
+          },
+          {
+            "slug": "Tschüß",
+            "style": "business-ethics",
+            "uuid": "aa4a0fff-9300-4554-9cb9-2cefecccc59a"
+          },
+          {
+            "slug": "tőkés-tűíz",
+            "style": "business-ethics",
+            "uuid": "aa4a0fff-9301-4554-9cb9-333fecccc112"
+          }
+        ]
+      }
+    }
+  ]
+},
             {
         "repository_name": "osbooks-introduction-philosophy",
         "platforms": ["REX"],
