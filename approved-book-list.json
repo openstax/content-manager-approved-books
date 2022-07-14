@@ -1536,6 +1536,21 @@
                 }
               ]
             }
+          },
+            {
+            "min_code_version": "20211111.153520",
+            "edition": 1,
+            "commit_sha": "d2295cd55524ab032215fe8344dbfcd1307683b4",
+            "commit_metadata": {
+              "committed_at": "2022-07-13T19:40:06+00:00",
+              "books": [
+                {
+                  "style": "english-composition",
+                  "uuid": "ee7ce46b-0972-4b2c-bc6e-8998c785cd57",
+                  "slug": "writing-guide"
+                }
+              ]
+            }
           }
         ]
       },
