@@ -1832,6 +1832,26 @@
                 }
               ]
             }
+          },
+          {
+            "min_code_version": "20220718.200539",
+            "edition": 2,
+            "commit_sha": "9388979940c188b275b26a376296c2117dbcb5fc",
+            "commit_metadata": {
+              "committed_at": "2022-07-19T21:29:00+00:00",
+              "books": [
+                {
+                  "style": "college-physics-2e",
+                  "uuid": "a31df062-930a-4f46-8953-605711e6d204",
+                  "slug": "college-physics-2e"
+                },
+                {
+                  "style": "ap-physics-2e",
+                  "uuid": "fc65697b-5a9e-4dfe-ac03-035129f7be28",
+                  "slug": "college-physics-ap-courses-2e"
+                }
+              ]
+            }
           }
         ]
       }
