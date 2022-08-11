@@ -1169,6 +1169,21 @@
                 }
               ]
             }
+          },
+            {
+            "min_code_version": "20220801.182716",
+            "edition": 2,
+            "commit_sha": "49ff4991deecd150f374d8e63586fcb17f656390",
+            "commit_metadata": {
+              "committed_at": "2022-07-28T14:59:00+00:00",
+              "books": [
+                {
+                  "style": "anatomy",
+                  "uuid": "4fd99458-6fdf-49bc-8688-a6dc17a1268d",
+                  "slug": "anatomy-and-physiology-2e"
+                }
+              ]
+            }
           }
         ]
       },
