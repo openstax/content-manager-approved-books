@@ -1662,7 +1662,37 @@
                 }
               ]
             }
-          }
+          },
+          {
+            "min_code_version": "20211111.153520",
+            "edition": 2,
+            "commit_sha": "60d6cb8e1e84f3584a99f408f1145bdcbb32d398",
+            "commit_metadata": {
+              "committed_at": "2022-08-25T19:07:16+00:00",
+              "books": [
+                {
+                  "style": "precalculus",
+                  "uuid": "eaefdaf1-bda0-4ada-a9fe-f1c065bfcc4e",
+                  "slug": "algebra-and-trigonometry-2e"
+                },
+                {
+                  "style": "precalculus",
+                  "uuid": "35d7cce2-48dd-4403-b6a5-e828cb5a17da",
+                  "slug": "college-algebra-2e"
+                },
+                {
+                  "style": "precalculus",
+                  "uuid": "f021395f-fd63-46cd-ab95-037c6f051730",
+                  "slug": "precalculus-2e"
+                },
+                {
+                  "style": "precalculus-coreq",
+                  "uuid": "59024a63-2b1a-4631-94c5-ae275a77b587",
+                  "slug": "college-algebra-corequisite-support-2e"
+                }
+              ]
+            }
+          }  
         ]
       },
       {
@@ -1711,6 +1741,27 @@
                   "style": "pl-psychology",
                   "uuid": "728df0bb-e07f-489d-91e3-4734a5932f92",
                   "slug": "psychologia"
+                }
+              ]
+            }
+          }
+        ]
+      },
+         {
+        "repository_name": "osbooks-mikroekonomia",
+        "platforms": ["REX"],
+        "versions": [
+          {
+            "min_code_version": "20220815.182343",
+            "edition": 1,
+            "commit_sha": "b2feb56b4a78ac0d39a64c9acb3661885dddd959",
+            "commit_metadata": {
+              "committed_at": "2022-08-25T15:06:06+00:00",
+              "books": [
+                {
+                  "style": "pl-economics",
+                  "uuid": "c9cbc0aa-3afa-448b-8048-3ca2e0ee2f6a",
+                  "slug": "mikroekonomia-podstawy"
                 }
               ]
             }
