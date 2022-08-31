@@ -1771,7 +1771,7 @@
             "edition": 1,
             "commit_sha": "6041c464fe7969105c0a8d0023b7e96d35076af7",
             "commit_metadata": {
-              "committed_at": "2022-08-31T16::54+00:00",
+              "committed_at": "2022-08-31T16:54+00:00",
               "books": [
                 {
                   "style": "pl-economics",
