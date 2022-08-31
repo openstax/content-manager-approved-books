@@ -1765,6 +1765,21 @@
                 }
               ]
             }
+          },
+             {
+            "min_code_version": "20220815.182343",
+            "edition": 1,
+            "commit_sha": "6041c464fe7969105c0a8d0023b7e96d35076af7",
+            "commit_metadata": {
+              "committed_at": "2022-08-31T16:54:06+00:00",
+              "books": [
+                {
+                  "style": "pl-economics",
+                  "uuid": "c9cbc0aa-3afa-448b-8048-3ca2e0ee2f6a",
+                  "slug": "mikroekonomia-podstawy"
+                }
+              ]
+            }
           }
         ]
       },
