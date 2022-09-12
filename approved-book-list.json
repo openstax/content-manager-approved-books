@@ -1784,9 +1784,9 @@
             {
             "min_code_version": "20220815.182343",
             "edition": 1,
-            "commit_sha": "3d196886b4d7fc86385cb495d0482d1a698fa553",
+            "commit_sha": "6d9348a2bcedcc9e65e9ecd1c85b8008af708622",
             "commit_metadata": {
-              "committed_at": "2022-09-08T09:49:06+00:00",
+              "committed_at": "2022-09-12T16:23:06+00:00",
               "books": [
                 {
                   "style": "pl-economics",
