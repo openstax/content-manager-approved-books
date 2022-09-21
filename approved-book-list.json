@@ -70,6 +70,21 @@
                 }
               ]
             }
+          },
+            {
+            "min_code_version": "20220422.171947",
+            "edition": 1,
+            "commit_sha": "6dafb193e3408ab55e7468c2f59d5d71d5c603e4",
+            "commit_metadata": {
+              "committed_at": "2022-09-21T13:56:00+00:00",
+              "books": [
+                {
+                  "style": "political-science",
+                  "uuid": "89060098-2918-4037-8ebe-d90622d7a6bf",
+                  "slug": "introduction-political-science"
+                }
+              ]
+            }
           }
         ]
       },
@@ -1176,6 +1191,21 @@
             "commit_sha": "49ff4991deecd150f374d8e63586fcb17f656390",
             "commit_metadata": {
               "committed_at": "2022-07-28T14:59:00+00:00",
+              "books": [
+                {
+                  "style": "anatomy",
+                  "uuid": "4fd99458-6fdf-49bc-8688-a6dc17a1268d",
+                  "slug": "anatomy-and-physiology-2e"
+                }
+              ]
+            }
+          },
+            {
+            "min_code_version": "20220801.182716",
+            "edition": 2,
+            "commit_sha": "6c4f0f5f278c122e5d69a83ad35ea4a1ed075217",
+            "commit_metadata": {
+              "committed_at": "2022-09-19T16:14:00+00:00",
               "books": [
                 {
                   "style": "anatomy",
