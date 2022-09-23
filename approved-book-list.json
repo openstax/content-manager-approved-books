@@ -1753,6 +1753,31 @@
                 }
               ]
             }
+          },
+            {
+            "min_code_version": "20210224.204120",
+            "edition": 1,
+            "commit_sha": "0cd082f5b1f2317b760783f54621704444842c08",
+            "commit_metadata": {
+              "committed_at": "2022-09-21T10:27:00+00:00",
+              "books": [
+                {
+                  "style": "pl-u-physics",
+                  "uuid": "4eaa8f03-88a8-485a-a777-dd3602f6c13e",
+                  "slug": "fizyka-dla-szkół-wyższych-tom-1"
+                },
+                {
+                  "style": "pl-u-physics",
+                  "uuid": "16ab5b96-4598-45f9-993c-b8d78d82b0c6",
+                  "slug": "fizyka-dla-szkół-wyższych-tom-2"
+                },
+                {
+                  "style": "pl-u-physics",
+                  "uuid": "bb62933e-f20a-4ffc-90aa-97b36c296c3e",
+                  "slug": "fizyka-dla-szkół-wyższych-tom-3"
+                }
+              ]
+            }
           }
         ]
       },
