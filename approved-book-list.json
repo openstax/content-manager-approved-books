@@ -1799,6 +1799,21 @@
                 }
               ]
             }
+          },
+             {
+            "min_code_version": "20210224.204120",
+            "edition": 1,
+            "commit_sha": "8bd461c65a1aab16e9b25e484bbfe45a7cd5a467",
+            "commit_metadata": {
+              "committed_at": "2022-10-05T13:59:06+00:00",
+              "books": [
+                {
+                  "style": "pl-psychology",
+                  "uuid": "728df0bb-e07f-489d-91e3-4734a5932f92",
+                  "slug": "psychologia"
+                }
+              ]
+            }
           }
         ]
       },
