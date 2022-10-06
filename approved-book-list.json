@@ -1788,9 +1788,9 @@
              {
             "min_code_version": "20210224.204120",
             "edition": 1,
-            "commit_sha": "ab606c6e619e667b8d088111aaba6e9beb17bfe9",
+            "commit_sha": "38a443ed78161b9a32fb7b50b9322998e6c6003c",
             "commit_metadata": {
-              "committed_at": "2022-10-06T15:07:06+00:00",
+              "committed_at": "2022-10-06T19:27:06+00:00",
               "books": [
                 {
                   "style": "pl-psychology",
