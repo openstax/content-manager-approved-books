@@ -399,21 +399,6 @@
         "versions": [
           {
             "min_code_version": "20210224.204120",
-            "edition": 1,
-            "commit_sha": "c28d7c7199fc24ae462e088b395077ab52fc4a78",
-            "commit_metadata": {
-              "committed_at": "2022-02-09T17:32:00+00:00",
-              "books": [
-                {
-                  "style": "sociology",
-                  "uuid": "afe4332a-c97f-4fc4-be27-4e4d384a32d8",
-                  "slug": "introduction-sociology"
-                }
-              ]
-            }
-          },
-          {
-            "min_code_version": "20210224.204120",
             "edition": 2,
             "commit_sha": "247752b30f009818f9ae90b0e6fe1a0b0fdbac4e",
             "commit_metadata": {
@@ -1803,9 +1788,9 @@
              {
             "min_code_version": "20210224.204120",
             "edition": 1,
-            "commit_sha": "8bd461c65a1aab16e9b25e484bbfe45a7cd5a467",
+            "commit_sha": "ab606c6e619e667b8d088111aaba6e9beb17bfe9",
             "commit_metadata": {
-              "committed_at": "2022-10-05T13:59:06+00:00",
+              "committed_at": "2022-10-06T15:07:06+00:00",
               "books": [
                 {
                   "style": "pl-psychology",
