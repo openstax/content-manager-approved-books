@@ -100,6 +100,21 @@
                 }
               ]
             }
+          },
+            {
+            "min_code_version": "20220422.171947",
+            "edition": 1,
+            "commit_sha": "31c4e6a1b79f7cafbedfef7669baa63959f8a48e",
+            "commit_metadata": {
+              "committed_at": "2022-10-27T19:35:00+00:00",
+              "books": [
+                {
+                  "style": "political-science",
+                  "uuid": "89060098-2918-4037-8ebe-d90622d7a6bf",
+                  "slug": "introduction-political-science"
+                }
+              ]
+            }
           }
         ]
       },
