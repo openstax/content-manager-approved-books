@@ -12,14 +12,16 @@
             "commit_metadata": {
               "committed_at": "2022-12-01T18:01:00+00:00",
               "books": [
-                {
-                  "style": "world-history",
-                  "uuid": "685e3163-1032-4529-bb3a-f97a54412704",
-                  "slug": "world-history-volume-2"
-                }
-              ]
+                  {
+                    "style": "world-history",
+                    "uuid": "685e3163-1032-4529-bb3a-f97a54412704",
+                    "slug": "world-history-volume-2"
+                  }
+                ]
+              }
             }
-          },    
+          ]
+        },
         {
         "repository_name": "osbooks-introduction-philosophy",
         "platforms": ["REX"],
