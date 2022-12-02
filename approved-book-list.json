@@ -1,7 +1,26 @@
 {
     "api_version": 2,
     "approved_books": [
-            {
+         {
+        "repository_name": "osbooks-world-history",
+        "platforms": ["REX"],
+        "versions": [
+          {
+            "min_code_version": "20221109.213337",
+            "edition": 1,
+            "commit_sha": "8199dcbaea5dfc66454642573fd70d0db25dd8f6",
+            "commit_metadata": {
+              "committed_at": "2022-12-01T18:01:00+00:00",
+              "books": [
+                {
+                  "style": "world-history",
+                  "uuid": "685e3163-1032-4529-bb3a-f97a54412704",
+                  "slug": "world-history-volume-2"
+                }
+              ]
+            }
+          },    
+        {
         "repository_name": "osbooks-introduction-philosophy",
         "platforms": ["REX"],
         "versions": [
@@ -1383,6 +1402,31 @@
                   "style": "economics",
                   "uuid": "636cbfd9-4e37-4575-83ab-9dec9029ca4e",
                   "slug": "principles-microeconomics-ap-courses-2e"
+                }
+              ]
+            }
+          },
+             {
+            "min_code_version": "20221109.213337",
+            "edition": 3,
+            "commit_sha": "10ad93ade723617bd0c671f763455b8bb697c3d6",
+            "commit_metadata": {
+              "committed_at": "2022-12-02T20:27:00+00:00",
+              "books": [
+                {
+                  "style": "economics",
+                  "uuid": "4c34671f-b057-4918-8796-38ca1b2f4151",
+                  "slug": "principles-economics-3e"
+                },
+                {
+                  "style": "economics",
+                  "uuid": "aff0c733-b223-4dfb-aad6-297bd361bdcf",
+                  "slug": "principles-macroeconomics-3e"
+                },
+                {
+                  "style": "economics",
+                  "uuid": "759181db-a886-4a98-8f5c-770a83a78832",
+                  "slug": "principles-microeconomics-3e"
                 }
               ]
             }
