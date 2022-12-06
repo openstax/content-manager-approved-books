@@ -8,9 +8,9 @@
           {
             "min_code_version": "20221109.213337",
             "edition": 1,
-            "commit_sha": "8199dcbaea5dfc66454642573fd70d0db25dd8f6",
+            "commit_sha": "9e07b607fba421a9eca39123bf3c7784994a3b67",
             "commit_metadata": {
-              "committed_at": "2022-12-01T18:01:00+00:00",
+              "committed_at": "2022-12-06T19:26:00+00:00",
               "books": [
                   {
                     "style": "world-history",
