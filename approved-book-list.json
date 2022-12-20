@@ -705,6 +705,21 @@
                 }
               ]
             }
+          },
+            {
+            "min_code_version": "20210224.204120",
+            "edition": 1,
+            "commit_sha": "d5b48993507df68d2b07ce32d1fd9fb9372eed71",
+            "commit_metadata": {
+              "committed_at": "2022-12-20T21:26:00+00:00",
+              "books": [
+                {
+                  "style": "microbiology",
+                  "uuid": "e42bd376-624b-4c0f-972f-e0c57998e765",
+                  "slug": "microbiology"
+                }
+              ]
+            }
           }
         ]
       },
