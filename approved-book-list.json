@@ -37,6 +37,27 @@
             }
           ]
         },
+         {
+        "repository_name": "osbooks-principles-marketing",
+        "platforms": ["REX"],
+        "versions": [
+          {
+            "min_code_version": "20221219.191545",
+            "edition": 1,
+            "commit_sha": "68b1186f442fe664e53b7b74c1b75036b7dbb227",
+            "commit_metadata": {
+              "committed_at": "2022-12-20T21:55:00+00:00",
+              "books": [
+                {
+                  "style": "marketing",
+                  "uuid": "2731eee8-0eb1-4d80-ae83-01b4af642ff6",
+                  "slug": "principles-marketing"
+                }
+              ]
+            }
+          }
+        ]
+       },  
         {
         "repository_name": "osbooks-introduction-philosophy",
         "platforms": ["REX"],
@@ -1261,6 +1282,31 @@
             "commit_sha": "dec9eade421032a7052a0c1201aed58c129cd659",
             "commit_metadata": {
               "committed_at": "2022-06-09T17:07:00+00:00",
+              "books": [
+                {
+                  "style": "biology",
+                  "uuid": "8d50a0af-948b-4204-a71d-4826cba765b8",
+                  "slug": "biology-2e"
+                },
+                {
+                  "style": "biology",
+                  "uuid": "b3c1e1d2-839c-42b0-a314-e119a8aafbdd",
+                  "slug": "concepts-biology"
+                },
+                {
+                  "style": "ap-biology",
+                  "uuid": "6c322e32-9fb0-4c4d-a1d7-20c95c5c7af2",
+                  "slug": "biology-ap-courses"
+                }
+              ]
+            }
+          },
+            {
+            "min_code_version": "20210224.204120",
+            "edition": 2,
+            "commit_sha": "f862e3bc6da7a36aa193e1de965c0fb1be628d42",
+            "commit_metadata": {
+              "committed_at": "2023-01-09T22:03:00+00:00",
               "books": [
                 {
                   "style": "biology",
