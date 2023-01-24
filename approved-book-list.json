@@ -558,6 +558,21 @@
                 }
               ]
             }
+          },
+             {
+            "min_code_version": "20210224.204120",
+            "edition": 3,
+            "commit_sha": "b632c445f9fc78070965da7988250652ef0e14fe",
+            "commit_metadata": {
+              "committed_at": "2023-01-20T21:22:00+00:00",
+              "books": [
+                {
+                  "style": "sociology",
+                  "uuid": "746f171e-0d6a-4ef2-b69d-367880872f4a",
+                  "slug": "introduction-sociology-3e"
+                }
+              ]
+            }
           }
         ]
       },
@@ -797,6 +812,31 @@
                 }
               ]
             }
+          },
+            {
+            "min_code_version": "20210224.204120",
+            "edition": 1,
+            "commit_sha": "baa48614399341df82fad09b1cde0568f9a8c0ee",
+            "commit_metadata": {
+              "committed_at": "2023-01-19T20:47:00+00:00",
+              "books": [
+                {
+                  "style": "u-physics",
+                  "uuid": "d50f6e32-0fda-46ef-a362-9bd36ca7c97d",
+                  "slug": "university-physics-volume-1"
+                },
+                {
+                  "style": "u-physics",
+                  "uuid": "7a0f9770-1c44-4acd-9920-1cd9a99f2a1e",
+                  "slug": "university-physics-volume-2"
+                },
+                {
+                  "style": "u-physics",
+                  "uuid": "af275420-6050-4707-995c-57b9cc13c358",
+                  "slug": "university-physics-volume-3"
+                }
+              ]
+            }
           }
         ]
       },
@@ -878,6 +918,31 @@
                 }
               ]
             }
+          },
+             {
+            "min_code_version": "20210224.204120",
+            "edition": 2,
+            "commit_sha": "0570724e4bf2ae6a233e7fb6ff6de0a651c385d9",
+            "commit_metadata": {
+              "committed_at": "2023-01-19T16:40:00+00:00",
+              "books": [
+                {
+                  "style": "dev-math",
+                  "uuid": "f0fa90be-fca8-43c9-9aad-715c0a2cee2b",
+                  "slug": "prealgebra-2e"
+                },
+                {
+                  "style": "dev-math",
+                  "uuid": "55931856-c627-418b-a56f-1dd0007683a8",
+                  "slug": "elementary-algebra-2e"
+                },
+                {
+                  "style": "dev-math",
+                  "uuid": "4664c267-cd62-4a99-8b28-1cb9b3aee347",
+                  "slug": "intermediate-algebra-2e"
+                }
+              ]
+            }
           }
         ]
       },
@@ -906,6 +971,21 @@
             "commit_sha": "28e0444d673d4537f601efd721536b0cfb32f83a",
             "commit_metadata": {
               "committed_at": "2022-06-07T15:12:00+00:00",
+              "books": [
+                {
+                  "style": "statistics",
+                  "uuid": "394a1101-fd8f-4875-84fa-55f15b06ba66",
+                  "slug": "statistics"
+                }
+              ]
+            }
+          },
+            {
+            "min_code_version": "20210224.204120",
+            "edition": 1,
+            "commit_sha": "469405ac97fb321a8044bef49e70e7ebbc4b834a",
+            "commit_metadata": {
+              "committed_at": "2023-01-18T21:41:00+00:00",
               "books": [
                 {
                   "style": "statistics",
@@ -1016,6 +1096,21 @@
                 }
               ]
             }
+          },
+            {
+            "min_code_version": "20210224.204120",
+            "edition": 2,
+            "commit_sha": "c1c4aa9f06d410b8a2016e24b4e827225535b974",
+            "commit_metadata": {
+              "committed_at": "2023-01-23T21:39:00+00:00",
+              "books": [
+                {
+                  "style": "astronomy",
+                  "uuid": "4c29f9e5-a53d-42c0-bdb5-091990527d79",
+                  "slug": "astronomy-2e"
+                }
+              ]
+            }
           }
         ]
       },
@@ -1059,6 +1154,21 @@
             "commit_sha": "d5c20096bc985a8095b618bf54bace8c0d912e51",
             "commit_metadata": {
               "committed_at": "2022-06-02T22:43:00+00:00",
+              "books": [
+                {
+                  "style": "hs-physics",
+                  "uuid": "cce64fde-f448-43b8-ae88-27705cceb0da",
+                  "slug": "physics"
+                }
+              ]
+            }
+          },
+            {
+            "min_code_version": "20210224.204120",
+            "edition": 1,
+            "commit_sha": "4702e44115724afaecf273b7b22e020d00ab06a1",
+            "commit_metadata": {
+              "committed_at": "2023-01-23T14:39:00+00:00",
               "books": [
                 {
                   "style": "hs-physics",
@@ -1211,6 +1321,31 @@
             "commit_sha": "0f37a198bb83232e1eb211bf63edda88cc45d63e",
             "commit_metadata": {
               "committed_at": "2022-06-15T18:11:00+00:00",
+              "books": [
+                {
+                  "style": "calculus",
+                  "uuid": "8b89d172-2927-466f-8661-01abc7ccdba4",
+                  "slug": "calculus-volume-1"
+                },
+                {
+                  "style": "calculus",
+                  "uuid": "1d39a348-071f-4537-85b6-c98912458c3c",
+                  "slug": "calculus-volume-2"
+                },
+                {
+                  "style": "calculus",
+                  "uuid": "a31cd793-2162-4e9e-acb5-6e6bbd76a5fa",
+                  "slug": "calculus-volume-3"
+                }
+              ]
+            }
+          },
+            {
+            "min_code_version": "20210224.204120",
+            "edition": 1,
+            "commit_sha": "74358c8e87ad6cca52fd78d97120b65bb031dc90",
+            "commit_metadata": {
+              "committed_at": "2023-01-13T17:07:00+00:00",
               "books": [
                 {
                   "style": "calculus",
@@ -2367,6 +2502,26 @@
             "commit_sha": "9388979940c188b275b26a376296c2117dbcb5fc",
             "commit_metadata": {
               "committed_at": "2022-07-19T21:29:00+00:00",
+              "books": [
+                {
+                  "style": "college-physics-2e",
+                  "uuid": "a31df062-930a-4f46-8953-605711e6d204",
+                  "slug": "college-physics-2e"
+                },
+                {
+                  "style": "ap-physics-2e",
+                  "uuid": "fc65697b-5a9e-4dfe-ac03-035129f7be28",
+                  "slug": "college-physics-ap-courses-2e"
+                }
+              ]
+            }
+          },
+            {
+            "min_code_version": "20220718.200539",
+            "edition": 2,
+            "commit_sha": "6d29e2366c3643996cf37b8579e88460fc4a6673",
+            "commit_metadata": {
+              "committed_at": "2023-01-11T21:13:00+00:00",
               "books": [
                 {
                   "style": "college-physics-2e",
