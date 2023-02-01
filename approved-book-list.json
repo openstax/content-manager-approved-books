@@ -943,6 +943,31 @@
                 }
               ]
             }
+          },
+            {
+            "min_code_version": "20210224.204120",
+            "edition": 2,
+            "commit_sha": "6635588d01a2e4bbeb677a05ada05c3eaeadcc3e",
+            "commit_metadata": {
+              "committed_at": "2023-02-01T02:01:00+00:00",
+              "books": [
+                {
+                  "style": "dev-math",
+                  "uuid": "f0fa90be-fca8-43c9-9aad-715c0a2cee2b",
+                  "slug": "prealgebra-2e"
+                },
+                {
+                  "style": "dev-math",
+                  "uuid": "55931856-c627-418b-a56f-1dd0007683a8",
+                  "slug": "elementary-algebra-2e"
+                },
+                {
+                  "style": "dev-math",
+                  "uuid": "4664c267-cd62-4a99-8b28-1cb9b3aee347",
+                  "slug": "intermediate-algebra-2e"
+                }
+              ]
+            }
           }
         ]
       },
