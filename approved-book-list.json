@@ -39,7 +39,7 @@
         },
                  {
         "repository_name": "osbooks-contemporary-mathematics",
-        "platforms": [""],
+        "platforms": ["REX"],
         "versions": [
           {
             "min_code_version": "99999999.999999",
