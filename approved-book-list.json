@@ -34,6 +34,26 @@
                   }
                 ]
               }
+            },
+            {
+            "min_code_version": "20230220.155442",
+            "edition": 1,
+            "commit_sha": "2f9976b9265be84e0775a09b1dffa3deb350edaa",
+            "commit_metadata": {
+              "committed_at": "2023-03-31T17:55:00+00:00",
+              "books": [
+                  {
+                    "style": "world-history",
+                    "uuid": "685e3163-1032-4529-bb3a-f97a54407214",
+                    "slug": "world-history-volume-1"
+                  },
+                  {
+                    "style": "world-history",
+                    "uuid": "685e3163-1032-4529-bb3a-f97a54412704",
+                    "slug": "world-history-volume-2"
+                  }
+                ]
+              }
             }
           ]
         },
