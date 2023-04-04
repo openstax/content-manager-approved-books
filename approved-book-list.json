@@ -446,7 +446,7 @@
               ]
             }
           },
-             {
+         {
         "repository_name": "osbooks-college-success",
         "platforms": ["REX"],
         "versions": [
