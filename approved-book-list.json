@@ -445,6 +445,26 @@
                 }
               ]
             }
+           },
+          {
+            "min_code_version": "20230220.155442",
+            "edition": 1,
+            "commit_sha": "bb3047c7047ff90b626ac8aee552bd7d17e2cce3",
+            "commit_metadata": {
+              "committed_at": "2023-04-04T15:04:00+00:00",
+              "books": [
+                {
+                  "style": "college-success",
+                  "uuid": "e8668a14-9a7d-4d74-b58c-3681f8351224",
+                  "slug": "college-success"
+                },
+                {
+                  "style": "college-success",
+                  "uuid": "62a49025-8cd8-407c-9cfb-c7eba55cf1c6",
+                  "slug": "college-success-concise"
+                }  
+              ]
+            }
           }
         ]
       }, 
