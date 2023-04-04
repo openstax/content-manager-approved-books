@@ -445,11 +445,7 @@
                 }
               ]
             }
-          },
-         {
-        "repository_name": "osbooks-college-success",
-        "platforms": ["REX"],
-        "versions": [
+           },
           {
             "min_code_version": "20230220.155442",
             "edition": 1,
