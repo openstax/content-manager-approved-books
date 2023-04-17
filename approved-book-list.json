@@ -105,6 +105,21 @@
                 }
               ]
             }
+          },
+          {
+            "min_code_version": "20230220.155442",
+            "edition": 1,
+            "commit_sha": "152af2fe2bafa8f7e8378bb67392a0bb6ca25062",
+            "commit_metadata": {
+              "committed_at": "2023-04-17T01:52:00+00:00",
+              "books": [
+                {
+                  "style": "contemporary-math",
+                  "uuid": "7193a423-3ad7-4ac6-98dd-90c70e4724b7",
+                  "slug": "contemporary-mathematics"
+                }
+              ]
+            }
           }
         ]
        },
