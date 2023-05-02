@@ -943,6 +943,31 @@
                 }
               ]
             }
+          },
+            {
+            "min_code_version": "20210224.204120",
+            "edition": 1,
+            "commit_sha": "2bd5135881a577f903a431ab7b5d9c90d9f5bde7",
+            "commit_metadata": {
+              "committed_at": "2023-04-05T20:18:00+00:00",
+              "books": [
+                {
+                  "style": "u-physics",
+                  "uuid": "d50f6e32-0fda-46ef-a362-9bd36ca7c97d",
+                  "slug": "university-physics-volume-1"
+                },
+                {
+                  "style": "u-physics",
+                  "uuid": "7a0f9770-1c44-4acd-9920-1cd9a99f2a1e",
+                  "slug": "university-physics-volume-2"
+                },
+                {
+                  "style": "u-physics",
+                  "uuid": "af275420-6050-4707-995c-57b9cc13c358",
+                  "slug": "university-physics-volume-3"
+                }
+              ]
+            }
           }
         ]
       },
@@ -1234,6 +1259,21 @@
             "commit_sha": "c1c4aa9f06d410b8a2016e24b4e827225535b974",
             "commit_metadata": {
               "committed_at": "2023-01-23T21:39:00+00:00",
+              "books": [
+                {
+                  "style": "astronomy",
+                  "uuid": "4c29f9e5-a53d-42c0-bdb5-091990527d79",
+                  "slug": "astronomy-2e"
+                }
+              ]
+            }
+          },
+            {
+            "min_code_version": "20210224.204120",
+            "edition": 2,
+            "commit_sha": "d3175cd0c294d17290ba142dbb5634726919e0f8",
+            "commit_metadata": {
+              "committed_at": "2023-04-05T21:39:00+00:00",
               "books": [
                 {
                   "style": "astronomy",
