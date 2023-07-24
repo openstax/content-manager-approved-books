@@ -1148,6 +1148,31 @@
                 }
               ]
             }
+          },
+                {
+            "min_code_version": "20210224.204120",
+            "edition": 1,
+            "commit_sha": "19db9a8fa66fc296074c54462f59b20c5ef974dc",
+            "commit_metadata": {
+              "committed_at": "2023-07-215T21:20:00+00:00",
+              "books": [
+                {
+                  "style": "u-physics",
+                  "uuid": "d50f6e32-0fda-46ef-a362-9bd36ca7c97d",
+                  "slug": "university-physics-volume-1"
+                },
+                {
+                  "style": "u-physics",
+                  "uuid": "7a0f9770-1c44-4acd-9920-1cd9a99f2a1e",
+                  "slug": "university-physics-volume-2"
+                },
+                {
+                  "style": "u-physics",
+                  "uuid": "af275420-6050-4707-995c-57b9cc13c358",
+                  "slug": "university-physics-volume-3"
+                }
+              ]
+            }
           }
         ]
       },
@@ -1820,6 +1845,31 @@
                 }
               ]
             }
+          },
+               {
+            "min_code_version": "20210224.204120",
+            "edition": 1,
+            "commit_sha": "d87509aa093a8b326b56d37aab811218422131aa",
+            "commit_metadata": {
+              "committed_at": "2023-07-17T17:16:00+00:00",
+              "books": [
+                {
+                  "style": "calculus",
+                  "uuid": "8b89d172-2927-466f-8661-01abc7ccdba4",
+                  "slug": "calculus-volume-1"
+                },
+                {
+                  "style": "calculus",
+                  "uuid": "1d39a348-071f-4537-85b6-c98912458c3c",
+                  "slug": "calculus-volume-2"
+                },
+                {
+                  "style": "calculus",
+                  "uuid": "a31cd793-2162-4e9e-acb5-6e6bbd76a5fa",
+                  "slug": "calculus-volume-3"
+                }
+              ]
+            }
           }
         ]
       },
@@ -2281,6 +2331,31 @@
             "commit_sha": "d3148f49441a004ee44d5b3be87d2b8089c38e6a",
             "commit_metadata": {
               "committed_at": "2023-07-11T16:23:00+00:00",
+              "books": [
+                {
+                  "style": "economics",
+                  "uuid": "4c34671f-b057-4918-8796-38ca1b2f4151",
+                  "slug": "principles-economics-3e"
+                },
+                {
+                  "style": "economics",
+                  "uuid": "aff0c733-b223-4dfb-aad6-297bd361bdcf",
+                  "slug": "principles-macroeconomics-3e"
+                },
+                {
+                  "style": "economics",
+                  "uuid": "759181db-a886-4a98-8f5c-770a83a78832",
+                  "slug": "principles-microeconomics-3e"
+                }
+              ]
+            }
+          },
+            {
+            "min_code_version": "20221109.213337",
+            "edition": 3,
+            "commit_sha": "2364976ca879b6f3df8d8df7cd837dffd3245806",
+            "commit_metadata": {
+              "committed_at": "2023-07-24T19:43:00+00:00",
               "books": [
                 {
                   "style": "economics",
@@ -3077,6 +3152,21 @@
             "commit_sha": "13df038da25bc4c51f4b745ead810eefd3577f12",
             "commit_metadata": {
               "committed_at": "2023-06-28T14:11:06+00:00",
+              "books": [
+                {
+                  "style": "american-government",
+                  "uuid": "30e47181-f52c-4a91-9c11-33380c428268",
+                  "slug": "american-government-3e"
+                }
+              ]
+            }
+          },
+             {
+            "min_code_version": "20210224.204120",
+            "edition": 3,
+            "commit_sha": "9fd57bdcefe609a88a15e9c7bff40d8746ad353d",
+            "commit_metadata": {
+              "committed_at": "2023-07-21T20:28:06+00:00",
               "books": [
                 {
                   "style": "american-government",
