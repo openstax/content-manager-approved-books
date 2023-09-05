@@ -77,7 +77,28 @@
             }
           ]
         },
-                 {
+        {
+        "repository_name": "osbooks-organic-chemistry",
+        "platforms": ["REX"],
+        "versions": [
+          {
+            "min_code_version": "20230828.164620",
+            "edition": 1,
+            "commit_sha": "6e5c6a0071b4c558f7485675f5dc800b4c3292f8",
+            "commit_metadata": {
+              "committed_at": "2023-09-01T15:18:00+00:00",
+              "books": [
+                {
+                  "style": "organic-chemistry",
+                  "uuid": "6c2f7d1d-fbad-42e8-b977-9b903e6cb83b",
+                  "slug": "organic-chemistry"
+                }
+              ]
+            }
+          }
+         ]
+        },
+     {
         "repository_name": "osbooks-contemporary-mathematics",
         "platforms": ["REX"],
         "versions": [
