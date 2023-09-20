@@ -591,6 +591,31 @@
                 }  
               ]
             }
+          },
+            {
+            "min_code_version": "20230620.181811",
+            "edition": 1,
+            "commit_sha": "a00c0869067960a5702fddaccc2d9c7724e80778",
+            "commit_metadata": {
+              "committed_at": "2023-09-20T20:10:00+00:00",
+              "books": [
+                {
+                  "style": "college-success",
+                  "uuid": "e8668a14-9a7d-4d74-b58c-3681f8351224",
+                  "slug": "college-success"
+                },
+                {
+                  "style": "college-success",
+                  "uuid": "62a49025-8cd8-407c-9cfb-c7eba55cf1c6",
+                  "slug": "college-success-concise"
+                },
+                {
+                "style": "hs-college-success",
+                  "uuid": "503d9717-0d3a-409f-893e-d25740d237dc",
+                  "slug": "preparing-for-college-success"
+                }  
+              ]
+            }
           }
         ]
       }, 
