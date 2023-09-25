@@ -95,6 +95,21 @@
                 }
               ]
             }
+          },
+            {
+            "min_code_version": "20230828.164620",
+            "edition": 10,
+            "commit_sha": "c3c7128f60ed79e4d9f5221752549b4e58550a33",
+            "commit_metadata": {
+              "committed_at": "2023-09-25T18:09:00+00:00",
+              "books": [
+                {
+                  "style": "organic-chemistry",
+                  "uuid": "6c2f7d1d-fbad-42e8-b977-9b903e6cb83b",
+                  "slug": "organic-chemistry"
+                }
+              ]
+            }
           }
          ]
         },
@@ -1080,6 +1095,21 @@
             "commit_sha": "a31cbce1263c0557ed14aa99c8151261274c5d21",
             "commit_metadata": {
               "committed_at": "2023-07-05T17:16:00+00:00",
+              "books": [
+                {
+                  "style": "microbiology",
+                  "uuid": "e42bd376-624b-4c0f-972f-e0c57998e765",
+                  "slug": "microbiology"
+                }
+              ]
+            }
+          },
+            {
+            "min_code_version": "20210224.204120",
+            "edition": 1,
+            "commit_sha": "4eda8cc1def7a6dbf90de25da6ab6da0a044e3bd",
+            "commit_metadata": {
+              "committed_at": "2023-09-25T19:21:00+00:00",
               "books": [
                 {
                   "style": "microbiology",
