@@ -3122,6 +3122,27 @@
           }
         ]
       },
+         {
+        "repository_name": "osbooks-makroekonomia-test",
+        "platforms": ["REX"],
+        "versions": [
+          {
+            "min_code_version": "20230828.164620",
+            "edition": 1,
+            "commit_sha": "6296c52b5dd37649359690c56b548c0555d8d53a",
+            "commit_metadata": {
+              "committed_at": "2023-09-29T14:44:06+00:00",
+              "books": [
+                {
+                  "style": "pl-economics",
+                  "uuid": "823ae3e1-57c4-44c5-b54a-310091040cf6",
+                  "slug": "makroekonomia-podstawy"
+                }
+              ]
+            }
+          }
+        ]
+      },
       {
         "repository_name": "osbooks-life-liberty-and-pursuit-happiness",
         "platforms": ["TUTOR"],
