@@ -3129,9 +3129,9 @@
           {
             "min_code_version": "20230828.164620",
             "edition": 1,
-            "commit_sha": "6296c52b5dd37649359690c56b548c0555d8d53a",
+            "commit_sha": "53c8ac6c606f7a422a6165c8c681949fb73afc71",
             "commit_metadata": {
-              "committed_at": "2023-09-29T14:44:06+00:00",
+              "committed_at": "2023-10-19T19:42:06+00:00",
               "books": [
                 {
                   "style": "pl-economics",
