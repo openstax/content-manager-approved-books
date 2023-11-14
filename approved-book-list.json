@@ -117,21 +117,6 @@
         "repository_name": "osbooks-contemporary-mathematics",
         "platforms": ["REX"],
         "versions": [
-          {
-            "min_code_version": "99999999.999999",
-            "edition": 1,
-            "commit_sha": "619f6dd40d8aa80fa1927ff7c29cfbca47e722c2",
-            "commit_metadata": {
-              "committed_at": "2023-02-23T08:28:00+00:00",
-              "books": [
-                {
-                  "style": "contemporary-math",
-                  "uuid": "7193a423-3ad7-4ac6-98dd-90c70e4724b7",
-                  "slug": "contemporary-mathematics"
-                }
-              ]
-            }
-          },
             {
             "min_code_version": "20230220.155442",
             "edition": 1,
