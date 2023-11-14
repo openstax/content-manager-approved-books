@@ -77,6 +77,27 @@
             }
           ]
         },
+            {
+        "repository_name": "osbooks-workplace-software-skills",
+        "platforms": ["REX"],
+        "versions": [
+          {
+            "min_code_version": "20231109.173216",
+            "edition": 1,
+            "commit_sha": "5ff9145fb41dc00d85177d93368d5665e65aa0e6",
+            "commit_metadata": {
+              "committed_at": "2023-11-14T15:51:00+00:00",
+              "books": [
+                {
+                  "style": "bca",
+                  "uuid": "3d2454dc-2735-4e24-a7e0-f89a79893699",
+                  "slug": "workplace-software-skills"
+                }
+              ]
+            }
+          }
+        ]
+       },  
         {
         "repository_name": "osbooks-organic-chemistry",
         "platforms": ["REX"],
