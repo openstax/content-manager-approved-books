@@ -2506,18 +2506,18 @@
               {
             "min_code_version": "20231109.173216",
             "edition": 2,
-            "commit_sha": "12b5e497c4f690515353a1ef966b66db5e1d316b",
+            "commit_sha": "074bd14e349451fbc5461d3da09dfb74056f34ad",
             "commit_metadata": {
-              "committed_at": "2023-11-27T15:06:00+00:00",
+              "committed_at": "2023-12-06T17:12:00+00:00",
               "books": [
                 {
                   "style": "statistics",
-                  "uuid": "30189442-6998-4686-ac05-ed152b91b9de",
+                  "uuid": "c4b474e4-4e3b-4232-b35c-2c3535bfae73",
                   "slug": "introductory-statistics-2e"
                 },
                 {
                   "style": "statistics",
-                  "uuid": "b56bb9e9-5eb8-48ef-9939-88b1b12ce22f",
+                  "uuid": "547026cb-a330-4809-94bf-126be5f62381",
                   "slug": "introductory-business-statistics-2e"
                 }
               ]
