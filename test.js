@@ -54,7 +54,7 @@ test('approved-book-list.json collection_ids / repository names are unique', t =
   t.pass()
 })
 
-test('approved-book-list.json git book UUIDs are unique between books', t => {
+test('approved-book-list.json git book UUIDs are used by 1 book edition', t => {
   const listData = fs.readFileSync(approvedBookListPath, { encoding: 'utf8' })
   const list = JSON.parse(listData)
   const uuidAcc = new Set()
@@ -70,10 +70,17 @@ test('approved-book-list.json git book UUIDs are unique between books', t => {
       })
     })
 
-    // Add our UUIDs to the set of seen UUIDs
+    // Add our UUIDs to the set of seen UUIDs and check that they are not
+    // used by multiple editions
+    const editionByUUID = {}
     entry.versions.forEach(v => {
       v.commit_metadata.books.forEach(b => {
+        const edition = editionByUUID[b.uuid]
+        if (edition !== undefined && edition !== v.edition) {
+          t.fail(`Duplicate book UUID found: ${b.uuid}`)
+        }
         uuidAcc.add(b.uuid)
+        editionByUUID[b.uuid] = edition
       })
     })
   })
