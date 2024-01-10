@@ -46,6 +46,26 @@
               }
             ]
           }
+        },
+         {
+          "min_code_version": "20230220.155442",
+          "edition": 1,
+          "commit_sha": "88b982a3d4fa7a86572ac0f4abddddd47dea536d",
+          "commit_metadata": {
+            "committed_at": "2023-12-13T17:11:00+00:00",
+            "books": [
+              {
+                "style": "world-history",
+                "uuid": "685e3163-1032-4529-bb3a-f97a54407214",
+                "slug": "world-history-volume-1"
+              },
+              {
+                "style": "world-history",
+                "uuid": "685e3163-1032-4529-bb3a-f97a54412704",
+                "slug": "world-history-volume-2"
+              }
+            ]
+          }
         }
       ]
     },
@@ -66,6 +86,29 @@
                 "style": "bca",
                 "uuid": "3d2454dc-2735-4e24-a7e0-f89a79893699",
                 "slug": "workplace-software-skills"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "repository_name": "osbooks-makroekonomia",
+      "platforms": [
+        "REX"
+      ],
+     "versions": [
+        {
+          "min_code_version": "20230828.164620",
+          "edition": 1,
+          "commit_sha": "dd262f0f1088d97b2182c4b52948eb38fe976950",
+          "commit_metadata": {
+            "committed_at": "2024-01-09T14:50:00+00:00",
+            "books": [
+              {
+                "style": "pl-economics",
+                "uuid": "823ae3e1-57c4-44c5-b54a-310091040cf6",
+                "slug": "makroekonomia-podstawy"
               }
             ]
           }
@@ -99,6 +142,21 @@
           "commit_sha": "c3c7128f60ed79e4d9f5221752549b4e58550a33",
           "commit_metadata": {
             "committed_at": "2023-09-25T18:09:00+00:00",
+            "books": [
+              {
+                "style": "organic-chemistry",
+                "uuid": "6c2f7d1d-fbad-42e8-b977-9b903e6cb83b",
+                "slug": "organic-chemistry"
+              }
+            ]
+          }
+        },
+        {
+          "min_code_version": "20230828.164620",
+          "edition": 10,
+          "commit_sha": "4384612e4e0db4186609bff70be0b3bfb9a38a7d",
+          "commit_metadata": {
+            "committed_at": "2024-01-09T17:39:00+00:00",
             "books": [
               {
                 "style": "organic-chemistry",
@@ -145,6 +203,21 @@
               }
             ]
           }
+        },
+         {
+          "min_code_version": "20230220.155442",
+          "edition": 1,
+          "commit_sha": "3674d0968b2de1d8315d25f0da34bbcee8ea2e38",
+          "commit_metadata": {
+            "committed_at": "2023-12-21T03:20:00+00:00",
+            "books": [
+              {
+                "style": "contemporary-math",
+                "uuid": "7193a423-3ad7-4ac6-98dd-90c70e4724b7",
+                "slug": "contemporary-mathematics"
+              }
+            ]
+          }
         }
       ]
     },
@@ -160,6 +233,21 @@
           "commit_sha": "68b1186f442fe664e53b7b74c1b75036b7dbb227",
           "commit_metadata": {
             "committed_at": "2022-12-20T21:55:00+00:00",
+            "books": [
+              {
+                "style": "marketing",
+                "uuid": "2731eee8-0eb1-4d80-ae83-01b4af642ff6",
+                "slug": "principles-marketing"
+              }
+            ]
+          }
+        },
+        {
+          "min_code_version": "20221219.191545",
+          "edition": 1,
+          "commit_sha": "059cfc90e49b315c277a509828152f2238273ef7",
+          "commit_metadata": {
+            "committed_at": "2024-01-08T23:07:00+00:00",
             "books": [
               {
                 "style": "marketing",
@@ -206,6 +294,21 @@
               }
             ]
           }
+        },
+        {
+          "min_code_version": "20220509.174553",
+          "edition": 1,
+          "commit_sha": "a904be03ef555eb4d86f9f08b40a58c5c041ab3a",
+          "commit_metadata": {
+            "committed_at": "2023-12-19T18:52:00+00:00",
+            "books": [
+              {
+                "style": "philosophy",
+                "uuid": "fe58be6f-3b61-4e16-b3b6-db6924f0b2f2",
+                "slug": "introduction-philosophy"
+              }
+            ]
+          }
         }
       ]
     },
@@ -236,6 +339,21 @@
           "commit_sha": "8bc3842357161ce2e3958ccac902e6c1a302531f",
           "commit_metadata": {
             "committed_at": "2023-04-05T20:24:00+00:00",
+            "books": [
+              {
+                "style": "political-science",
+                "uuid": "89060098-2918-4037-8ebe-d90622d7a6bf",
+                "slug": "introduction-political-science"
+              }
+            ]
+          }
+        },
+        {
+          "min_code_version": "20220422.171947",
+          "edition": 1,
+          "commit_sha": "70946451869ed95d4d80863f6d49c04937ce2ad7",
+          "commit_metadata": {
+            "committed_at": "2024-01-03T17:41:00+00:00",
             "books": [
               {
                 "style": "political-science",
@@ -325,6 +443,21 @@
           "commit_sha": "f5f272e7df05baabade61d4ed6c3ed55394417f3",
           "commit_metadata": {
             "committed_at": "2023-06-08T15:37:00+00:00",
+            "books": [
+              {
+                "style": "finance",
+                "uuid": "052b8372-0c5e-4ff6-8fd3-326377e9e91f",
+                "slug": "principles-finance"
+              }
+            ]
+          }
+        },
+        {
+          "min_code_version": "20220228.174637",
+          "edition": 1,
+          "commit_sha": "1c16cb9a91dde855a8a2d6f6618231a8144a7908",
+          "commit_metadata": {
+            "committed_at": "2024-01-08T18:05:00+00:00",
             "books": [
               {
                 "style": "finance",
@@ -634,6 +767,21 @@
               }
             ]
           }
+        },
+         {
+          "min_code_version": "20220118.185250",
+          "edition": 1,
+          "commit_sha": "153910ec77fb3fc657ff0fa570b006ba01787287",
+          "commit_metadata": {
+            "committed_at": "2023-12-20T14:50:00+00:00",
+            "books": [
+              {
+                "style": "anthropology",
+                "uuid": "cf0085c6-528c-4101-ad26-19c612c5a2fa",
+                "slug": "introduction-anthropology"
+              }
+            ]
+          }
         }
       ]
     },
@@ -710,6 +858,21 @@
               }
             ]
           }
+        },
+        {
+          "min_code_version": "20220509.174553",
+          "edition": 2,
+          "commit_sha": "eafe3108d09f49be0e6d579fc99635a651123047",
+          "commit_metadata": {
+            "committed_at": "2024-01-05T24:09:00+00:00",
+            "books": [
+              {
+                "style": "psychology",
+                "uuid": "06aba565-9432-40f6-97ee-b8a361f118a8",
+                "slug": "psychology-2e"
+              }
+            ]
+          }
         }
       ]
     },
@@ -778,6 +941,21 @@
           "commit_sha": "4eda8cc1def7a6dbf90de25da6ab6da0a044e3bd",
           "commit_metadata": {
             "committed_at": "2023-09-25T19:21:00+00:00",
+            "books": [
+              {
+                "style": "microbiology",
+                "uuid": "e42bd376-624b-4c0f-972f-e0c57998e765",
+                "slug": "microbiology"
+              }
+            ]
+          }
+        },
+         {
+          "min_code_version": "20210224.204120",
+          "edition": 1,
+          "commit_sha": "3e7c2c84e6287447d5fd771f59a444d0a863cf4d",
+          "commit_metadata": {
+            "committed_at": "2024-01-10T14:37:00+00:00",
             "books": [
               {
                 "style": "microbiology",
@@ -978,6 +1156,21 @@
               }
             ]
           }
+        },
+        {
+          "min_code_version": "20210224.204120",
+          "edition": 1,
+          "commit_sha": "2e8c686f1c2260f985b16057c9f2ca53480c2aea",
+          "commit_metadata": {
+            "committed_at": "2024-01-04T18:21:00+00:00",
+            "books": [
+              {
+                "style": "entrepreneurship",
+                "uuid": "d380510e-6145-4625-b19a-4fa68204b6b1",
+                "slug": "entrepreneurship"
+              }
+            ]
+          }
         }
       ]
     },
@@ -1089,6 +1282,26 @@
           "commit_sha": "b40bd2c58b03865444521ae1d676d1ecc915fa73",
           "commit_metadata": {
             "committed_at": "2023-06-28T14:08:00+00:00",
+            "books": [
+              {
+                "style": "chemistry",
+                "uuid": "7fccc9cf-9b71-44f6-800b-f9457fd64335",
+                "slug": "chemistry-2e"
+              },
+              {
+                "style": "chemistry",
+                "uuid": "d9b85ee6-c57f-4861-8208-5ddf261e9c5f",
+                "slug": "chemistry-atoms-first-2e"
+              }
+            ]
+          }
+        },
+        {
+          "min_code_version": "20220509.174553",
+          "edition": 2,
+          "commit_sha": "c896566956790d61bd001c96b72b04134157802e",
+          "commit_metadata": {
+            "committed_at": "2024-01-08T18:07:00+00:00",
             "books": [
               {
                 "style": "chemistry",
@@ -1218,6 +1431,31 @@
               }
             ]
           }
+        },
+        {
+          "min_code_version": "20210224.204120",
+          "edition": 2,
+          "commit_sha": "fc22b3fac4b8255df71c5435f5aecf7b702a5b1f",
+          "commit_metadata": {
+            "committed_at": "2024-01-08T18:56:00+00:00",
+            "books": [
+              {
+                "style": "biology",
+                "uuid": "8d50a0af-948b-4204-a71d-4826cba765b8",
+                "slug": "biology-2e"
+              },
+              {
+                "style": "biology",
+                "uuid": "b3c1e1d2-839c-42b0-a314-e119a8aafbdd",
+                "slug": "concepts-biology"
+              },
+              {
+                "style": "ap-biology",
+                "uuid": "6c322e32-9fb0-4c4d-a1d7-20c95c5c7af2",
+                "slug": "biology-ap-courses"
+              }
+            ]
+          }
         }
       ]
     },
@@ -1248,6 +1486,21 @@
           "commit_sha": "f1ce9eae17994e24f5211355b1d3ba079449b99a",
           "commit_metadata": {
             "committed_at": "2023-06-15T13:54:00+00:00",
+            "books": [
+              {
+                "style": "anatomy",
+                "uuid": "4fd99458-6fdf-49bc-8688-a6dc17a1268d",
+                "slug": "anatomy-and-physiology-2e"
+              }
+            ]
+          }
+        },
+         {
+          "min_code_version": "20220801.182716",
+          "edition": 2,
+          "commit_sha": "8e5dcaad8026bb179d4e1c82a7a11475580d5cef",
+          "commit_metadata": {
+            "committed_at": "2023-12-19T14:44:00+00:00",
             "books": [
               {
                 "style": "anatomy",
@@ -1304,6 +1557,26 @@
               }
             ]
           }
+        },
+        {
+          "min_code_version": "20210224.204120",
+          "edition": 1,
+          "commit_sha": "fc1c69bf570191c823ee64ff253906ca2c7d215f",
+          "commit_metadata": {
+            "committed_at": "2024-01-08T23:05:00+00:00",
+            "books": [
+              {
+                "style": "principles-management",
+                "uuid": "c3acb2ab-7d5c-45ad-b3cd-e59673fedd4e",
+                "slug": "principles-management"
+              },
+              {
+                "style": "principles-management",
+                "uuid": "2d941ab9-ac5b-4eb8-b21c-965d36a4f296",
+                "slug": "organizational-behavior"
+              }
+            ]
+          }
         }
       ]
     },
@@ -1316,9 +1589,9 @@
         {
           "min_code_version": "20221109.213337",
           "edition": 3,
-          "commit_sha": "d3148f49441a004ee44d5b3be87d2b8089c38e6a",
+          "commit_sha": "d37f6d2e4c688e3249ff1c29329209630af05db9",
           "commit_metadata": {
-            "committed_at": "2023-07-11T16:23:00+00:00",
+            "committed_at": "2024-01-04T19:19:00+00:00",
             "books": [
               {
                 "style": "economics",
@@ -1458,6 +1731,26 @@
               }
             ]
           }
+        },
+        {
+          "min_code_version": "20210224.204120",
+          "edition": 1,
+          "commit_sha": "d67f124b0e042f4dc2a235b3951fd435901865e6",
+          "commit_metadata": {
+            "committed_at": "2023-12-13T17:02:00+00:00",
+            "books": [
+              {
+                "style": "accounting",
+                "uuid": "9ab4ba6d-1e48-486d-a2de-38ae1617ca84",
+                "slug": "principles-financial-accounting"
+              },
+              {
+                "style": "accounting",
+                "uuid": "920d1c8a-606c-4888-bfd4-d1ee27ce1795",
+                "slug": "principles-managerial-accounting"
+              }
+            ]
+          }
         }
       ]
     },
@@ -1562,6 +1855,21 @@
               }
             ]
           }
+        },
+        {
+          "min_code_version": "20211111.153520",
+          "edition": 1,
+          "commit_sha": "bafaaf8a7d915fb91b85bd150c35c86e9deab63b",
+          "commit_metadata": {
+            "committed_at": "2023-12-19T21:36:06+00:00",
+            "books": [
+              {
+                "style": "english-composition",
+                "uuid": "ee7ce46b-0972-4b2c-bc6e-8998c785cd57",
+                "slug": "writing-guide"
+              }
+            ]
+          }
         }
       ]
     },
@@ -1607,6 +1915,36 @@
           "commit_sha": "32bee6abf3e7917b8b8c3273e32c7affa75ab1f2",
           "commit_metadata": {
             "committed_at": "2023-06-22T21:35:16+00:00",
+            "books": [
+              {
+                "style": "precalculus",
+                "uuid": "eaefdaf1-bda0-4ada-a9fe-f1c065bfcc4e",
+                "slug": "algebra-and-trigonometry-2e"
+              },
+              {
+                "style": "precalculus",
+                "uuid": "35d7cce2-48dd-4403-b6a5-e828cb5a17da",
+                "slug": "college-algebra-2e"
+              },
+              {
+                "style": "precalculus",
+                "uuid": "f021395f-fd63-46cd-ab95-037c6f051730",
+                "slug": "precalculus-2e"
+              },
+              {
+                "style": "precalculus-coreq",
+                "uuid": "59024a63-2b1a-4631-94c5-ae275a77b587",
+                "slug": "college-algebra-corequisite-support-2e"
+              }
+            ]
+          }
+        },
+        {
+          "min_code_version": "20211111.153520",
+          "edition": 2,
+          "commit_sha": "8608bfb8fd1e6b9fc11fc6f9e4c79de7a3e5c148",
+          "commit_metadata": {
+            "committed_at": "2024-01-09T16:11:16+00:00",
             "books": [
               {
                 "style": "precalculus",
@@ -1817,6 +2155,21 @@
           "commit_sha": "9fd57bdcefe609a88a15e9c7bff40d8746ad353d",
           "commit_metadata": {
             "committed_at": "2023-07-21T20:28:06+00:00",
+            "books": [
+              {
+                "style": "american-government",
+                "uuid": "30e47181-f52c-4a91-9c11-33380c428268",
+                "slug": "american-government-3e"
+              }
+            ]
+          }
+        },
+         {
+          "min_code_version": "20210224.204120",
+          "edition": 3,
+          "commit_sha": "a48fde53c720db62b1dde7439805d2a4ce7c639b",
+          "commit_metadata": {
+            "committed_at": "2024-01-05T15:30:06+00:00",
             "books": [
               {
                 "style": "american-government",
