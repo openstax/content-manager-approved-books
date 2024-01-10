@@ -73,6 +73,29 @@
       ]
     },
     {
+      "repository_name": "osbooks-makroekonomia",
+      "platforms": [
+        "REX"
+      ],
+     "versions": [
+        {
+          "min_code_version": "20230828.164620",
+          "edition": 1,
+          "commit_sha": "dd262f0f1088d97b2182c4b52948eb38fe976950",
+          "commit_metadata": {
+            "committed_at": "2024-01-09T14:50:00+00:00",
+            "books": [
+              {
+                "style": "pl-economics",
+                "uuid": "823ae3e1-57c4-44c5-b54a-310091040cf6",
+                "slug": "makroekonomia-podstawy"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
       "repository_name": "osbooks-organic-chemistry",
       "platforms": [
         "REX"
