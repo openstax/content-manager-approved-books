@@ -89,6 +89,21 @@
               }
             ]
           }
+        },
+          {
+          "min_code_version": "20231109.173216",
+          "edition": 1,
+          "commit_sha": "b6c3469b1d633c7313f36c703ae609e746525ff7",
+          "commit_metadata": {
+            "committed_at": "2024-01-03T19:03:00+00:00",
+            "books": [
+              {
+                "style": "bca",
+                "uuid": "3d2454dc-2735-4e24-a7e0-f89a79893699",
+                "slug": "workplace-software-skills"
+              }
+            ]
+          }
         }
       ]
     },
@@ -820,6 +835,21 @@
               }
             ]
           }
+        },
+         {
+          "min_code_version": "20210224.204120",
+          "edition": 3,
+          "commit_sha": "bb3eda91978459fe371fb5a7919bda533b567759",
+          "commit_metadata": {
+            "committed_at": "2024-01-18T20:37:00+00:00",
+            "books": [
+              {
+                "style": "sociology",
+                "uuid": "746f171e-0d6a-4ef2-b69d-367880872f4a",
+                "slug": "introduction-sociology-3e"
+              }
+            ]
+          }
         }
       ]
     },
@@ -903,6 +933,21 @@
           "commit_sha": "59e152a5b72f50498877a5405c0e64a5ca836bc9",
           "commit_metadata": {
             "committed_at": "2023-07-06T15:03:00+00:00",
+            "books": [
+              {
+                "style": "history",
+                "uuid": "a7ba2fb8-8925-4987-b182-5f4429d48daa",
+                "slug": "us-history"
+              }
+            ]
+          }
+        },
+        {
+          "min_code_version": "20210224.204120",
+          "edition": 1,
+          "commit_sha": "52526e6f09b81aba5b16bbffa750096fe46645c2",
+          "commit_metadata": {
+            "committed_at": "2024-01-10T23:53:00+00:00",
             "books": [
               {
                 "style": "history",
@@ -1022,6 +1067,31 @@
               }
             ]
           }
+        },
+        {
+          "min_code_version": "20210224.204120",
+          "edition": 1,
+          "commit_sha": "b454fefddb830f00291efa8379896b0ffbda8ec8",
+          "commit_metadata": {
+            "committed_at": "2024-01-19T18:26:00+00:00",
+            "books": [
+              {
+                "style": "u-physics",
+                "uuid": "d50f6e32-0fda-46ef-a362-9bd36ca7c97d",
+                "slug": "university-physics-volume-1"
+              },
+              {
+                "style": "u-physics",
+                "uuid": "7a0f9770-1c44-4acd-9920-1cd9a99f2a1e",
+                "slug": "university-physics-volume-2"
+              },
+              {
+                "style": "u-physics",
+                "uuid": "af275420-6050-4707-995c-57b9cc13c358",
+                "slug": "university-physics-volume-3"
+              }
+            ]
+          }
         }
       ]
     },
@@ -1080,6 +1150,31 @@
               }
             ]
           }
+        },
+         {
+          "min_code_version": "20210224.204120",
+          "edition": 2,
+          "commit_sha": "e2113bd98584c3ae3b8f4df1e772ce81b7277217",
+          "commit_metadata": {
+            "committed_at": "2024-01-23T17:39:00+00:00",
+            "books": [
+              {
+                "style": "dev-math",
+                "uuid": "f0fa90be-fca8-43c9-9aad-715c0a2cee2b",
+                "slug": "prealgebra-2e"
+              },
+              {
+                "style": "dev-math",
+                "uuid": "55931856-c627-418b-a56f-1dd0007683a8",
+                "slug": "elementary-algebra-2e"
+              },
+              {
+                "style": "dev-math",
+                "uuid": "4664c267-cd62-4a99-8b28-1cb9b3aee347",
+                "slug": "intermediate-algebra-2e"
+              }
+            ]
+          }
         }
       ]
     },
@@ -1110,6 +1205,21 @@
           "commit_sha": "d78d272347a32b126fe2fe11716a20aaa266844d",
           "commit_metadata": {
             "committed_at": "2023-04-05T20:04:00+00:00",
+            "books": [
+              {
+                "style": "statistics",
+                "uuid": "394a1101-fd8f-4875-84fa-55f15b06ba66",
+                "slug": "statistics"
+              }
+            ]
+          }
+        },
+         {
+          "min_code_version": "20210224.204120",
+          "edition": 1,
+          "commit_sha": "c85bf38081665afaf221297a3781a99981b1faf7",
+          "commit_metadata": {
+            "committed_at": "2024-01-23T16:36:00+00:00",
             "books": [
               {
                 "style": "statistics",
@@ -1183,9 +1293,9 @@
         {
           "min_code_version": "20210224.204120",
           "edition": 2,
-          "commit_sha": "d3175cd0c294d17290ba142dbb5634726919e0f8",
+          "commit_sha": "2c9c7a2fb2c958c17dfe43a631cffe572f52804d",
           "commit_metadata": {
-            "committed_at": "2023-04-05T21:39:00+00:00",
+            "committed_at": "2024-01-23T17:08:00+00:00",
             "books": [
               {
                 "style": "astronomy",
@@ -1239,6 +1349,21 @@
           "commit_sha": "72af53ddd7b2625ad7a2af10fe1f4e8b1c26de67",
           "commit_metadata": {
             "committed_at": "2023-06-24T11:42:00+00:00",
+            "books": [
+              {
+                "style": "hs-physics",
+                "uuid": "cce64fde-f448-43b8-ae88-27705cceb0da",
+                "slug": "physics"
+              }
+            ]
+          }
+        },
+         {
+          "min_code_version": "20210224.204120",
+          "edition": 1,
+          "commit_sha": "97cda38ee86bed4a1f87bec2e60a8e6aa32c42a5",
+          "commit_metadata": {
+            "committed_at": "2024-01-19T15:33:00+00:00",
             "books": [
               {
                 "style": "hs-physics",
@@ -1617,6 +1742,31 @@
           "commit_sha": "2364976ca879b6f3df8d8df7cd837dffd3245806",
           "commit_metadata": {
             "committed_at": "2023-07-24T19:43:00+00:00",
+            "books": [
+              {
+                "style": "economics",
+                "uuid": "4c34671f-b057-4918-8796-38ca1b2f4151",
+                "slug": "principles-economics-3e"
+              },
+              {
+                "style": "economics",
+                "uuid": "aff0c733-b223-4dfb-aad6-297bd361bdcf",
+                "slug": "principles-macroeconomics-3e"
+              },
+              {
+                "style": "economics",
+                "uuid": "759181db-a886-4a98-8f5c-770a83a78832",
+                "slug": "principles-microeconomics-3e"
+              }
+            ]
+          }
+        },
+        {
+          "min_code_version": "20221109.213337",
+          "edition": 3,
+          "commit_sha": "e0eb73e36a2247eca32a60fb831335e60963a4b9",
+          "commit_metadata": {
+            "committed_at": "2024-01-23T22:56:00+00:00",
             "books": [
               {
                 "style": "economics",
@@ -2213,6 +2363,26 @@
           "commit_sha": "ccb55818efecb95fb6e990e9be27235a2a256a6f",
           "commit_metadata": {
             "committed_at": "2023-07-27T15:27:00+00:00",
+            "books": [
+              {
+                "style": "college-physics-2e",
+                "uuid": "a31df062-930a-4f46-8953-605711e6d204",
+                "slug": "college-physics-2e"
+              },
+              {
+                "style": "ap-physics-2e",
+                "uuid": "fc65697b-5a9e-4dfe-ac03-035129f7be28",
+                "slug": "college-physics-ap-courses-2e"
+              }
+            ]
+          }
+        },
+         {
+          "min_code_version": "20220718.200539",
+          "edition": 2,
+          "commit_sha": "9cf2141b843dd0dabab734cf026429f83fba2dd7",
+          "commit_metadata": {
+            "committed_at": "2024-01-19T14:48:00+00:00",
             "books": [
               {
                 "style": "college-physics-2e",
