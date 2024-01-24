@@ -1283,8 +1283,7 @@
           }
         }
       ]
-    },
-    {
+    }, {
       "repository_name": "osbooks-astronomy",
       "platforms": [
         "REX"
@@ -1293,9 +1292,9 @@
         {
           "min_code_version": "20210224.204120",
           "edition": 2,
-          "commit_sha": "2c9c7a2fb2c958c17dfe43a631cffe572f52804d",
+          "commit_sha": "d3175cd0c294d17290ba142dbb5634726919e0f8",
           "commit_metadata": {
-            "committed_at": "2024-01-23T17:08:00+00:00",
+            "committed_at": "2023-04-05T21:39:00+00:00",
             "books": [
               {
                 "style": "astronomy",
@@ -1311,6 +1310,21 @@
           "commit_sha": "a52f4ee5bb84c8554fb5a2abf0a3fce256fe31ec",
           "commit_metadata": {
             "committed_at": "2023-07-07T20:20:00+00:00",
+            "books": [
+              {
+                "style": "astronomy",
+                "uuid": "4c29f9e5-a53d-42c0-bdb5-091990527d79",
+                "slug": "astronomy-2e"
+              }
+            ]
+          }
+        },
+         {
+          "min_code_version": "20210224.204120",
+          "edition": 2,
+          "commit_sha": "2c9c7a2fb2c958c17dfe43a631cffe572f52804d",
+          "commit_metadata": {
+            "committed_at": "2024-01-23T17:08:00+00:00",
             "books": [
               {
                 "style": "astronomy",
