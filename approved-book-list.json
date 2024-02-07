@@ -1602,6 +1602,31 @@
               }
             ]
           }
+        },
+         {
+          "min_code_version": "20210224.204120",
+          "edition": 1,
+          "commit_sha": "3dd0a5c763c526a3bc5b8b7b843b9ab5bbf32275",
+          "commit_metadata": {
+            "committed_at": "2024-02-05T19:09:00+00:00",
+            "books": [
+              {
+                "style": "calculus",
+                "uuid": "8b89d172-2927-466f-8661-01abc7ccdba4",
+                "slug": "calculus-volume-1"
+              },
+              {
+                "style": "calculus",
+                "uuid": "1d39a348-071f-4537-85b6-c98912458c3c",
+                "slug": "calculus-volume-2"
+              },
+              {
+                "style": "calculus",
+                "uuid": "a31cd793-2162-4e9e-acb5-6e6bbd76a5fa",
+                "slug": "calculus-volume-3"
+              }
+            ]
+          }
         }
       ]
     },
