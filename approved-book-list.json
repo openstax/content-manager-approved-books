@@ -1871,111 +1871,6 @@
       ],
       "versions": [
         {
-          "min_code_version": "20210224.204120",
-          "edition": 1,
-          "commit_sha": "444e84e333a10b4d5fca63c2d166331c4a5794f2",
-          "commit_metadata": {
-            "committed_at": "2022-01-12T17:32:00+00:00",
-            "books": [
-              {
-                "style": "economics",
-                "uuid": "69619d2b-68f0-44b0-b074-a9b2bf90b2c6",
-                "slug": "principles-economics"
-              },
-              {
-                "style": "economics",
-                "uuid": "4061c832-098e-4b3c-a1d9-7eb593a2cb31",
-                "slug": "principles-macroeconomics"
-              },
-              {
-                "style": "economics",
-                "uuid": "ea2f225e-6063-41ca-bcd8-36482e15ef65",
-                "slug": "principles-microeconomics"
-              },
-              {
-                "style": "economics",
-                "uuid": "33076054-ec1d-4417-8824-ce354efe42d0",
-                "slug": "principles-macroeconomics-ap-courses"
-              },
-              {
-                "style": "economics",
-                "uuid": "ca344e2d-6731-43cd-b851-a7b3aa0b37aa",
-                "slug": "principles-microeconomics-ap-courses"
-              }
-            ]
-          }
-        },
-        {
-          "min_code_version": "20210224.204120",
-          "edition": 2,
-          "commit_sha": "122f50b60089b57a7d1ad812cbe8de519678b4b3",
-          "commit_metadata": {
-            "committed_at": "2022-01-27T17:32:00+00:00",
-            "books": [
-              {
-                "style": "economics",
-                "uuid": "bc498e1f-efe9-43a0-8dea-d3569ad09a82",
-                "slug": "principles-economics-2e"
-              },
-              {
-                "style": "economics",
-                "uuid": "27f59064-990e-48f1-b604-5188b9086c29",
-                "slug": "principles-macroeconomics-2e"
-              },
-              {
-                "style": "economics",
-                "uuid": "5c09762c-b540-47d3-9541-dda1f44f16e5",
-                "slug": "principles-microeconomics-2e"
-              },
-              {
-                "style": "economics",
-                "uuid": "9117cf8c-a8a3-4875-8361-9cb0f1fc9362",
-                "slug": "principles-macroeconomics-ap-courses-2e"
-              },
-              {
-                "style": "economics",
-                "uuid": "636cbfd9-4e37-4575-83ab-9dec9029ca4e",
-                "slug": "principles-microeconomics-ap-courses-2e"
-              }
-            ]
-          }
-        },
-        {
-          "min_code_version": "20210224.204120",
-          "edition": 2,
-          "commit_sha": "a6dd6c50f231bbc95e5bbccb2a3520a258bb4e6e",
-          "commit_metadata": {
-            "committed_at": "2022-06-15T20:12:00+00:00",
-            "books": [
-              {
-                "style": "economics",
-                "uuid": "bc498e1f-efe9-43a0-8dea-d3569ad09a82",
-                "slug": "principles-economics-2e"
-              },
-              {
-                "style": "economics",
-                "uuid": "27f59064-990e-48f1-b604-5188b9086c29",
-                "slug": "principles-macroeconomics-2e"
-              },
-              {
-                "style": "economics",
-                "uuid": "5c09762c-b540-47d3-9541-dda1f44f16e5",
-                "slug": "principles-microeconomics-2e"
-              },
-              {
-                "style": "economics",
-                "uuid": "9117cf8c-a8a3-4875-8361-9cb0f1fc9362",
-                "slug": "principles-macroeconomics-ap-courses-2e"
-              },
-              {
-                "style": "economics",
-                "uuid": "636cbfd9-4e37-4575-83ab-9dec9029ca4e",
-                "slug": "principles-microeconomics-ap-courses-2e"
-              }
-            ]
-          }
-        },
-        {
           "min_code_version": "20221109.213337",
           "edition": 3,
           "commit_sha": "d37f6d2e4c688e3249ff1c29329209630af05db9",
@@ -2058,26 +1953,6 @@
         "REX"
       ],
       "versions": [
-        {
-          "min_code_version": "20210224.204120",
-          "edition": 1,
-          "commit_sha": "b2d6c72e96a6d78d713935e8876ed2015782f202",
-          "commit_metadata": {
-            "committed_at": "2022-01-27T17:32:00+00:00",
-            "books": [
-              {
-                "style": "statistics",
-                "uuid": "30189442-6998-4686-ac05-ed152b91b9de",
-                "slug": "introductory-statistics"
-              },
-              {
-                "style": "statistics",
-                "uuid": "b56bb9e9-5eb8-48ef-9939-88b1b12ce22f",
-                "slug": "introductory-business-statistics"
-              }
-            ]
-          }
-        },
         {
           "min_code_version": "20210224.204120",
           "edition": 1,
@@ -2548,29 +2423,6 @@
                 "style": "pl-economics",
                 "uuid": "c9cbc0aa-3afa-448b-8048-3ca2e0ee2f6a",
                 "slug": "mikroekonomia-podstawy"
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "repository_name": "osbooks-makroekonomia-test",
-      "platforms": [
-        "REX"
-      ],
-      "versions": [
-        {
-          "min_code_version": "20230828.164620",
-          "edition": 1,
-          "commit_sha": "53c8ac6c606f7a422a6165c8c681949fb73afc71",
-          "commit_metadata": {
-            "committed_at": "2023-10-19T19:42:06+00:00",
-            "books": [
-              {
-                "style": "pl-economics",
-                "uuid": "823ae3e1-57c4-44c5-b54a-310091040cf6",
-                "slug": "makroekonomia-podstawy"
               }
             ]
           }
