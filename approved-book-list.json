@@ -808,6 +808,21 @@
       "versions": [
         {
           "min_code_version": "20210224.204120",
+          "edition": 2,
+          "commit_sha": "247752b30f009818f9ae90b0e6fe1a0b0fdbac4e",
+          "commit_metadata": {
+            "committed_at": "2022-02-09T17:32:00+00:00",
+            "books": [
+              {
+                "style": "sociology",
+                "uuid": "02040312-72c8-441e-a685-20e9333f3e1d",
+                "slug": "introduction-sociology-2e"
+              }
+            ]
+          }
+        },
+        {
+          "min_code_version": "20210224.204120",
           "edition": 3,
           "commit_sha": "b632c445f9fc78070965da7988250652ef0e14fe",
           "commit_metadata": {
@@ -859,6 +874,21 @@
         "REX"
       ],
       "versions": [
+        {
+          "min_code_version": "20210224.204120",
+          "edition": 1,
+          "commit_sha": "8993bfce249fa3865b7ae7f650a2b3ddc119a201",
+          "commit_metadata": {
+            "committed_at": "2022-02-09T17:32:00+00:00",
+            "books": [
+              {
+                "style": "psychology",
+                "uuid": "4abf04bf-93a0-45c3-9cbc-2cefd46e68cc",
+                "slug": "psychology"
+              }
+            ]
+          }
+        },
         {
           "min_code_version": "20220509.174553",
           "edition": 2,
@@ -1103,6 +1133,31 @@
       "versions": [
         {
           "min_code_version": "20210224.204120",
+          "edition": 1,
+          "commit_sha": "eb2e29d69a6af78e64788c1239c3081555b2cefd",
+          "commit_metadata": {
+            "committed_at": "2022-02-09T17:32:00+00:00",
+            "books": [
+              {
+                "style": "dev-math",
+                "uuid": "caa57dab-41c7-455e-bd6f-f443cda5519c",
+                "slug": "prealgebra"
+              },
+              {
+                "style": "dev-math",
+                "uuid": "0889907c-f0ef-496a-bcb8-2a5bb121717f",
+                "slug": "elementary-algebra"
+              },
+              {
+                "style": "dev-math",
+                "uuid": "02776133-d49d-49cb-bfaa-67c7f61b25a1",
+                "slug": "intermediate-algebra"
+              }
+            ]
+          }
+        },
+        {
+          "min_code_version": "20210224.204120",
           "edition": 2,
           "commit_sha": "6635588d01a2e4bbeb677a05ada05c3eaeadcc3e",
           "commit_metadata": {
@@ -1291,6 +1346,21 @@
       "versions": [
         {
           "min_code_version": "20210224.204120",
+          "edition": 1,
+          "commit_sha": "faae451497734eb5aeda1dfee47005c257acd57c",
+          "commit_metadata": {
+            "committed_at": "2022-01-29T17:32:00+00:00",
+            "books": [
+              {
+                "style": "astronomy",
+                "uuid": "2e737be8-ea65-48c3-aa0a-9f35b4c6a966",
+                "slug": "astronomy"
+              }
+            ]
+          }
+        },
+        {
+          "min_code_version": "20210224.204120",
           "edition": 2,
           "commit_sha": "d3175cd0c294d17290ba142dbb5634726919e0f8",
           "commit_metadata": {
@@ -1395,6 +1465,26 @@
         "REX"
       ],
       "versions": [
+        {
+          "min_code_version": "20210224.204120",
+          "edition": 1,
+          "commit_sha": "741a7af5c0fed04213fb7cde687675570cc896d1",
+          "commit_metadata": {
+            "committed_at": "2022-02-09T17:32:00+00:00",
+            "books": [
+              {
+                "style": "chemistry",
+                "uuid": "85abf193-2bd2-4908-8563-90b8a7ac8df6",
+                "slug": "chemistry"
+              },
+              {
+                "style": "chemistry",
+                "uuid": "4539ae23-1ccc-421e-9b25-843acbb6c4b0",
+                "slug": "chemistry-atoms-first"
+              }
+            ]
+          }
+        },
         {
           "min_code_version": "20220509.174553",
           "edition": 2,
@@ -1548,6 +1638,21 @@
       "versions": [
         {
           "min_code_version": "20210224.204120",
+          "edition": 1,
+          "commit_sha": "e989ec347d89ce8acc03487d801ff4851325fe53",
+          "commit_metadata": {
+            "committed_at": "2022-02-14T17:32:00+00:00",
+            "books": [
+              {
+                "style": "biology",
+                "uuid": "185cbf87-c72e-48f5-b51e-f14f21b5eabd",
+                "slug": "biology"
+              }
+            ]
+          }
+        },
+        {
+          "min_code_version": "20210224.204120",
           "edition": 2,
           "commit_sha": "f862e3bc6da7a36aa193e1de965c0fb1be628d42",
           "commit_metadata": {
@@ -1629,6 +1734,21 @@
         "REX"
       ],
       "versions": [
+        {
+          "min_code_version": "20210224.204120",
+          "edition": 1,
+          "commit_sha": "ccce7805ec4d5fb209a5b48327ffd2ac0e2edc88",
+          "commit_metadata": {
+            "committed_at": "2022-01-28T17:32:00+00:00",
+            "books": [
+              {
+                "style": "anatomy",
+                "uuid": "14fb4ad7-39a1-4eee-ab6e-3ef2482e3e22",
+                "slug": "anatomy-and-physiology"
+              }
+            ]
+          }
+        },
         {
           "min_code_version": "20220801.182716",
           "edition": 2,
@@ -1751,26 +1871,106 @@
       ],
       "versions": [
         {
-          "min_code_version": "20221109.213337",
-          "edition": 3,
-          "commit_sha": "d37f6d2e4c688e3249ff1c29329209630af05db9",
+          "min_code_version": "20210224.204120",
+          "edition": 1,
+          "commit_sha": "444e84e333a10b4d5fca63c2d166331c4a5794f2",
           "commit_metadata": {
-            "committed_at": "2024-01-04T19:19:00+00:00",
+            "committed_at": "2022-01-12T17:32:00+00:00",
             "books": [
               {
                 "style": "economics",
-                "uuid": "4c34671f-b057-4918-8796-38ca1b2f4151",
-                "slug": "principles-economics-3e"
+                "uuid": "69619d2b-68f0-44b0-b074-a9b2bf90b2c6",
+                "slug": "principles-economics"
               },
               {
                 "style": "economics",
-                "uuid": "aff0c733-b223-4dfb-aad6-297bd361bdcf",
-                "slug": "principles-macroeconomics-3e"
+                "uuid": "4061c832-098e-4b3c-a1d9-7eb593a2cb31",
+                "slug": "principles-macroeconomics"
               },
               {
                 "style": "economics",
-                "uuid": "759181db-a886-4a98-8f5c-770a83a78832",
-                "slug": "principles-microeconomics-3e"
+                "uuid": "ea2f225e-6063-41ca-bcd8-36482e15ef65",
+                "slug": "principles-microeconomics"
+              },
+              {
+                "style": "economics",
+                "uuid": "33076054-ec1d-4417-8824-ce354efe42d0",
+                "slug": "principles-macroeconomics-ap-courses"
+              },
+              {
+                "style": "economics",
+                "uuid": "ca344e2d-6731-43cd-b851-a7b3aa0b37aa",
+                "slug": "principles-microeconomics-ap-courses"
+              }
+            ]
+          }
+        },
+        {
+          "min_code_version": "20210224.204120",
+          "edition": 2,
+          "commit_sha": "122f50b60089b57a7d1ad812cbe8de519678b4b3",
+          "commit_metadata": {
+            "committed_at": "2022-01-27T17:32:00+00:00",
+            "books": [
+              {
+                "style": "economics",
+                "uuid": "bc498e1f-efe9-43a0-8dea-d3569ad09a82",
+                "slug": "principles-economics-2e"
+              },
+              {
+                "style": "economics",
+                "uuid": "27f59064-990e-48f1-b604-5188b9086c29",
+                "slug": "principles-macroeconomics-2e"
+              },
+              {
+                "style": "economics",
+                "uuid": "5c09762c-b540-47d3-9541-dda1f44f16e5",
+                "slug": "principles-microeconomics-2e"
+              },
+              {
+                "style": "economics",
+                "uuid": "9117cf8c-a8a3-4875-8361-9cb0f1fc9362",
+                "slug": "principles-macroeconomics-ap-courses-2e"
+              },
+              {
+                "style": "economics",
+                "uuid": "636cbfd9-4e37-4575-83ab-9dec9029ca4e",
+                "slug": "principles-microeconomics-ap-courses-2e"
+              }
+            ]
+          }
+        },
+        {
+          "min_code_version": "20210224.204120",
+          "edition": 2,
+          "commit_sha": "a6dd6c50f231bbc95e5bbccb2a3520a258bb4e6e",
+          "commit_metadata": {
+            "committed_at": "2022-06-15T20:12:00+00:00",
+            "books": [
+              {
+                "style": "economics",
+                "uuid": "bc498e1f-efe9-43a0-8dea-d3569ad09a82",
+                "slug": "principles-economics-2e"
+              },
+              {
+                "style": "economics",
+                "uuid": "27f59064-990e-48f1-b604-5188b9086c29",
+                "slug": "principles-macroeconomics-2e"
+              },
+              {
+                "style": "economics",
+                "uuid": "5c09762c-b540-47d3-9541-dda1f44f16e5",
+                "slug": "principles-microeconomics-2e"
+              },
+              {
+                "style": "economics",
+                "uuid": "9117cf8c-a8a3-4875-8361-9cb0f1fc9362",
+                "slug": "principles-macroeconomics-ap-courses-2e"
+              },
+              {
+                "style": "economics",
+                "uuid": "636cbfd9-4e37-4575-83ab-9dec9029ca4e",
+                "slug": "principles-microeconomics-ap-courses-2e"
               }
             ]
           }
@@ -1778,9 +1978,9 @@
         {
           "min_code_version": "20221109.213337",
           "edition": 3,
-          "commit_sha": "2364976ca879b6f3df8d8df7cd837dffd3245806",
+          "commit_sha": "d37f6d2e4c688e3249ff1c29329209630af05db9",
           "commit_metadata": {
-            "committed_at": "2023-07-24T19:43:00+00:00",
+            "committed_at": "2024-01-04T19:19:00+00:00",
             "books": [
               {
                 "style": "economics",
@@ -2069,6 +2269,36 @@
       ],
       "versions": [
         {
+          "min_code_version": "20210224.204120",
+          "edition": 1,
+          "commit_sha": "ebc5beb15766e5a72d4d5085c1d470ae868007fb",
+          "commit_metadata": {
+            "committed_at": "2021-09-21T18:42:06+00:00",
+            "books": [
+              {
+                "style": "precalculus",
+                "uuid": "13ac107a-f15f-49d2-97e8-60ab2e3b519c",
+                "slug": "algebra-and-trigonometry"
+              },
+              {
+                "style": "precalculus",
+                "uuid": "9b08c294-057f-4201-9f48-5d6ad992740d",
+                "slug": "college-algebra"
+              },
+              {
+                "style": "precalculus",
+                "uuid": "fd53eae1-fa23-47c7-bb1b-972349835c3c",
+                "slug": "precalculus"
+              },
+              {
+                "style": "precalculus-coreq",
+                "uuid": "507feb1e-cfff-4b54-bc07-d52636cecfe3",
+                "slug": "college-algebra-corequisite-support"
+              }
+            ]
+          }
+        },
+        {
           "min_code_version": "20211111.153520",
           "edition": 2,
           "commit_sha": "0c0266cd034f3ef85ef26b7c02ad6aff962d6dbe",
@@ -2310,6 +2540,36 @@
       "versions": [
         {
           "min_code_version": "20210224.204120",
+          "edition": 1,
+          "commit_sha": "a7f9edc2092ae9419f24d1c4f6509b5399361051",
+          "commit_metadata": {
+            "committed_at": "2022-03-08T10:47:06+00:00",
+            "books": [
+              {
+                "style": "american-government",
+                "uuid": "5bcc0e59-7345-421d-8507-a1e4608685e8",
+                "slug": "american-government"
+              }
+            ]
+          }
+        },
+        {
+          "min_code_version": "20210224.204120",
+          "edition": 2,
+          "commit_sha": "60ff1bb08b81add62bf19d7309a442f6ea5adf98",
+          "commit_metadata": {
+            "committed_at": "2022-03-08T10:47:06+00:00",
+            "books": [
+              {
+                "style": "american-government",
+                "uuid": "9d8df601-4f12-4ac1-8224-b450bf739e5f",
+                "slug": "american-government-2e"
+              }
+            ]
+          }
+        },
+        {
+          "min_code_version": "20210224.204120",
           "edition": 3,
           "commit_sha": "13df038da25bc4c51f4b745ead810eefd3577f12",
           "commit_metadata": {
@@ -2361,6 +2621,26 @@
         "REX"
       ],
       "versions": [
+        {
+          "min_code_version": "20220411.192702",
+          "edition": 1,
+          "commit_sha": "1aa3e7a901c0f0ddc37d34f890055d61a7476946",
+          "commit_metadata": {
+            "committed_at": "2022-03-03T20:06:00+00:00",
+            "books": [
+              {
+                "style": "college-physics",
+                "uuid": "031da8d3-b525-429c-80cf-6c8ed997733a",
+                "slug": "college-physics"
+              },
+              {
+                "style": "ap-physics",
+                "uuid": "8d04a686-d5e8-4798-a27d-c608e4d0e187",
+                "slug": "college-physics-ap-courses"
+              }
+            ]
+          }
+        },
         {
           "min_code_version": "20220718.200539",
           "edition": 2,
