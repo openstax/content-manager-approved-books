@@ -2,6 +2,29 @@
   "api_version": 2,
   "approved_books": [
     {
+      "repository_name": "osbooks-introduction-python-programming",
+      "platforms": [
+        "REX"
+      ],
+     "versions": [
+        {
+          "min_code_version": "20240226.174525",
+          "edition": 1,
+          "commit_sha": "0a865c73a36c0dddc1d280596fa12b0901ef892e",
+          "commit_metadata": {
+            "committed_at": "2024-02-26T15:56:00+00:00",
+            "books": [
+              {
+                "style": "python",
+                "uuid": "8d08a72f-5463-4856-b05c-58b0d65f5e61",
+                "slug": "introduction-python-programming"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
       "repository_name": "osbooks-world-history",
       "platforms": [
         "REX"
