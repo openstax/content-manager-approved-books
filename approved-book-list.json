@@ -24,6 +24,29 @@
         }
       ]
     },
+      {
+      "repository_name": "osbooks-nursing-external-bundle",
+      "platforms": [
+        "REX"
+      ],
+     "versions": [
+        {
+          "min_code_version": "20240226.174525",
+          "edition": 1,
+          "commit_sha": "0b323675f041e4b5b4d1412f9556a77eb5c72414",
+          "commit_metadata": {
+            "committed_at": "2024-03-06T14:31:00+00:00",
+            "books": [
+              {
+                "style": "nursing-external",
+                "uuid": "7db4d55f-5c0e-4c05-8b72-841685444165",
+                "slug": "nutrition"
+              }
+            ]
+          }
+        }
+      ]
+    },
     {
       "repository_name": "osbooks-world-history",
       "platforms": [
