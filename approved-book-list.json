@@ -33,7 +33,7 @@
         {
           "min_code_version": "20240226.174525",
           "edition": 1,
-          "commit_sha": "0b323675f041e4b5b4d1412f9556a77eb5c72414",
+          "commit_sha": "8bb8228dc88ad7ea17475a6e78e04d9769702316",
           "commit_metadata": {
             "committed_at": "2024-03-06T14:31:00+00:00",
             "books": [
