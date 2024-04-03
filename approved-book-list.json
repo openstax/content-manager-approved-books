@@ -21,6 +21,21 @@
               }
             ]
           }
+        },
+        {
+          "min_code_version": "20240226.174525",
+          "edition": 1,
+          "commit_sha": "aaf07d56b6e6cc7b9dd18903f4634109a96c8122",
+          "commit_metadata": {
+            "committed_at": "2024-03-15T19:58:00+00:00",
+            "books": [
+              {
+                "style": "python",
+                "uuid": "8d08a72f-5463-4856-b05c-58b0d65f5e61",
+                "slug": "introduction-python-programming"
+              }
+            ]
+          }
         }
       ]
     },
@@ -99,6 +114,26 @@
           "commit_sha": "88b982a3d4fa7a86572ac0f4abddddd47dea536d",
           "commit_metadata": {
             "committed_at": "2023-12-13T17:11:00+00:00",
+            "books": [
+              {
+                "style": "world-history",
+                "uuid": "685e3163-1032-4529-bb3a-f97a54407214",
+                "slug": "world-history-volume-1"
+              },
+              {
+                "style": "world-history",
+                "uuid": "685e3163-1032-4529-bb3a-f97a54412704",
+                "slug": "world-history-volume-2"
+              }
+            ]
+          }
+        },
+        {
+          "min_code_version": "20230220.155442",
+          "edition": 1,
+          "commit_sha": "df6d87aa0f068a636091c5643a776a4bf3295a76",
+          "commit_metadata": {
+            "committed_at": "2024-03-25T14:50:00+00:00",
             "books": [
               {
                 "style": "world-history",
