@@ -59,6 +59,26 @@
               }
             ]
           }
+        },
+       {
+          "min_code_version": "20240226.174525",
+          "edition": 1,
+          "commit_sha": "a7701080c0d8b70928d0f502d57699773a6fb169",
+          "commit_metadata": {
+            "committed_at": "2024-04-26T20:09:00+00:00",
+            "books": [
+              {
+                "style": "nursing-external",
+                "uuid": "7db4d55f-5c0e-4c05-8b72-841685444165",
+                "slug": "nutrition"
+              },
+              {
+                "style": "nursing-external",
+                "uuid": "9331ec14-7ea7-4415-a8dd-ee34f0c5f9c4",
+                "slug": "population-health"
+              }
+            ]
+          }
         }
       ]
     },
@@ -1788,6 +1808,31 @@
           "commit_sha": "fc22b3fac4b8255df71c5435f5aecf7b702a5b1f",
           "commit_metadata": {
             "committed_at": "2024-01-08T18:56:00+00:00",
+            "books": [
+              {
+                "style": "biology",
+                "uuid": "8d50a0af-948b-4204-a71d-4826cba765b8",
+                "slug": "biology-2e"
+              },
+              {
+                "style": "biology",
+                "uuid": "b3c1e1d2-839c-42b0-a314-e119a8aafbdd",
+                "slug": "concepts-biology"
+              },
+              {
+                "style": "ap-biology",
+                "uuid": "6c322e32-9fb0-4c4d-a1d7-20c95c5c7af2",
+                "slug": "biology-ap-courses"
+              }
+            ]
+          }
+        },
+        {
+          "min_code_version": "20210224.204120",
+          "edition": 2,
+          "commit_sha": "7927138946b325939d71ce11f3b17dc4a02a071e",
+          "commit_metadata": {
+            "committed_at": "2024-04-26T21:33:00+00:00",
             "books": [
               {
                 "style": "biology",
