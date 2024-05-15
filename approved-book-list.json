@@ -79,6 +79,31 @@
               }
             ]
           }
+        },
+          {
+          "min_code_version": "20240506.185246",
+          "edition": 1,
+          "commit_sha": "ba2f95c96454e5d82dbca97c4785923e63e37b5e",
+          "commit_metadata": {
+            "committed_at": "2024-05-15T13:48:00+00:00",
+            "books": [
+              {
+                "style": "nursing-external",
+                "uuid": "7db4d55f-5c0e-4c05-8b72-841685444165",
+                "slug": "nutrition"
+              },
+              {
+                "style": "nursing-external",
+                "uuid": "9331ec14-7ea7-4415-a8dd-ee34f0c5f9c4",
+                "slug": "population-health"
+              },
+              {
+                "style": "nursing-external",
+                "uuid": "2f805b43-bce4-4379-add2-4fbf46700e4c",
+                "slug": "pharmacology"
+              }
+            ]
+          }
         }
       ]
     },
