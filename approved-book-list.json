@@ -39,6 +39,29 @@
         }
       ]
     },
+     {
+      "repository_name": "osbooks-nursing-internal-bundle",
+      "platforms": [
+        "REX"
+      ],
+     "versions": [
+        {
+          "min_code_version": "20240520.135540",
+          "edition": 1,
+          "commit_sha": "7982d3f42125837a6f052c2b99b034273a27b898",
+          "commit_metadata": {
+            "committed_at": "2024-05-28T21:45:00+00:00",
+            "books": [
+              {
+                "style": "nursing-internal",
+                "uuid": "652f4496-b33e-4b0f-8c8c-a712da36c7a3",
+                "slug": "psychiatric-mental-health"
+              }
+            ]
+          }
+        }
+      ]
+    },
       {
       "repository_name": "osbooks-nursing-external-bundle",
       "platforms": [
