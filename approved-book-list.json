@@ -46,7 +46,7 @@
       ],
      "versions": [
         {
-          "min_code_version": "20240520.135540",
+          "min_code_version": "20240506.185246",
           "edition": 1,
           "commit_sha": "7982d3f42125837a6f052c2b99b034273a27b898",
           "commit_metadata": {
