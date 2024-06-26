@@ -84,6 +84,31 @@
               }
             ]
           }
+        },
+         {
+          "min_code_version": "20240625.161426",
+          "edition": 1,
+          "commit_sha": "f67f1a2dfc2c946c3088b114ea3e9c99956388ef",
+          "commit_metadata": {
+            "committed_at": "2024-06-26T20:24:00+00:00",
+            "books": [
+              {
+                "style": "nursing-internal",
+                "uuid": "652f4496-b33e-4b0f-8c8c-a712da36c7a3",
+                "slug": "psychiatric-mental-health"
+              },
+              {
+                "style": "nursing-internal",
+                "uuid": "75dc0490-e1d0-4c96-b05a-d59274e287cc",
+                "slug": "clinical-nursing-skills"
+              },
+              {
+                "style": "nursing-internal",
+                "uuid": "63229ab9-f9ed-4be4-9d2b-ad5035a02f72",
+                "slug": "maternal-newborn-nursing"
+              }
+            ]
+          }
         }
       ]
     },
